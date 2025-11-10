@@ -5692,7 +5692,7 @@
         "option2": "8.5/UK",
         "option3": null,
         "sku": "X000009612031",
-        "price": 199.99,
+        "price": 159.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -5703,7 +5703,7 @@
         "option2": "9.5/UK",
         "option3": null,
         "sku": "X000009612033",
-        "price": 199.99,
+        "price": 159.99,
         "available": true,
         "inventory_quantity": 1
       },
@@ -5714,7 +5714,7 @@
         "option2": "10/UK",
         "option3": null,
         "sku": "X000009612034",
-        "price": 199.99,
+        "price": 159.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -5725,7 +5725,7 @@
         "option2": "11/UK",
         "option3": null,
         "sku": "X000009612036",
-        "price": 199.99,
+        "price": 159.99,
         "available": true,
         "inventory_quantity": 1
       },
@@ -5736,7 +5736,7 @@
         "option2": "11.5/UK",
         "option3": null,
         "sku": "X000009612037",
-        "price": 199.99,
+        "price": 159.99,
         "available": true,
         "inventory_quantity": 1
       },
@@ -5747,7 +5747,7 @@
         "option2": "12/UK",
         "option3": null,
         "sku": "X000009612038",
-        "price": 199.99,
+        "price": 159.99,
         "available": true,
         "inventory_quantity": 1
       }
