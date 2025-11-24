@@ -3741,7 +3741,7 @@
         "option2": null,
         "option3": null,
         "sku": "X000009625001",
-        "price": 198.0,
+        "price": 220.0,
         "available": false,
         "inventory_quantity": 0
       },
@@ -3752,7 +3752,7 @@
         "option2": null,
         "option3": null,
         "sku": "X000009625004",
-        "price": 198.0,
+        "price": 220.0,
         "available": true,
         "inventory_quantity": 1
       },
@@ -3763,7 +3763,7 @@
         "option2": null,
         "option3": null,
         "sku": "X000009625002",
-        "price": 198.0,
+        "price": 220.0,
         "available": false,
         "inventory_quantity": 0
       }
@@ -3783,7 +3783,7 @@
         "option2": null,
         "option3": null,
         "sku": "X000009624001",
-        "price": 180.0,
+        "price": 200.0,
         "available": false,
         "inventory_quantity": 0
       }
@@ -4268,7 +4268,7 @@
         "option2": null,
         "option3": null,
         "sku": "X000009825002",
-        "price": 144.0,
+        "price": 160.0,
         "available": false,
         "inventory_quantity": 0
       },
@@ -4279,7 +4279,7 @@
         "option2": null,
         "option3": null,
         "sku": "X000009825009",
-        "price": 144.0,
+        "price": 160.0,
         "available": false,
         "inventory_quantity": 0
       }
@@ -4299,7 +4299,7 @@
         "option2": "NA",
         "option3": null,
         "sku": "X000006136024",
-        "price": 108.0,
+        "price": 120.0,
         "available": false,
         "inventory_quantity": 0
       }
@@ -5758,7 +5758,7 @@
     "title": "Arc'teryx Sylan GTX Shoe Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-sylan-gtx-shoe-mens",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F24-X000009601-Sylan-GTX-Shoe-Black-Black-Profile_84f3096b-4300-4418-a427-0ecf7d8b943e.jpg?v=1762430792",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F24-X000009601-Sylan-GTX-Shoe-Black-Black-Profile_cb1f29fa-a08b-49ba-8e33-935bcce1ea84.jpg?v=1763996633",
     "variants": {
       "52538730152299": {
         "id": 52538730152299,
