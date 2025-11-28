@@ -1399,8 +1399,8 @@
         "option3": null,
         "sku": "X000009902010",
         "price": 350.0,
-        "available": true,
-        "inventory_quantity": 1
+        "available": false,
+        "inventory_quantity": 0
       },
       "52441146163563": {
         "id": 52441146163563,
@@ -5294,8 +5294,8 @@
         "option3": null,
         "sku": "X000009641027",
         "price": 150.0,
-        "available": true,
-        "inventory_quantity": 1
+        "available": false,
+        "inventory_quantity": 0
       },
       "51938119549291": {
         "id": 51938119549291,
