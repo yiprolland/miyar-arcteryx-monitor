@@ -1399,8 +1399,8 @@
         "option3": null,
         "sku": "X000009902010",
         "price": 350.0,
-        "available": false,
-        "inventory_quantity": 0
+        "available": true,
+        "inventory_quantity": 2
       },
       "52441146163563": {
         "id": 52441146163563,
@@ -1411,7 +1411,7 @@
         "sku": "X000009902011",
         "price": 350.0,
         "available": true,
-        "inventory_quantity": 1
+        "inventory_quantity": 3
       },
       "52441146196331": {
         "id": 52441146196331,
@@ -1444,7 +1444,7 @@
         "sku": "X000009902016",
         "price": 350.0,
         "available": true,
-        "inventory_quantity": 1
+        "inventory_quantity": 2
       },
       "52519479574891": {
         "id": 52519479574891,
@@ -1466,7 +1466,7 @@
         "sku": "X000009902018",
         "price": 350.0,
         "available": true,
-        "inventory_quantity": 1
+        "inventory_quantity": 2
       }
     }
   },
@@ -1969,7 +1969,7 @@
         "sku": "X000010361028",
         "price": 180.0,
         "available": true,
-        "inventory_quantity": 3
+        "inventory_quantity": 4
       },
       "52253086581099": {
         "id": 52253086581099,
@@ -2024,7 +2024,7 @@
         "sku": "X000010361002",
         "price": 180.0,
         "available": true,
-        "inventory_quantity": 1
+        "inventory_quantity": 2
       },
       "52395050828139": {
         "id": 52395050828139,
@@ -2034,8 +2034,8 @@
         "option3": null,
         "sku": "X000010361003",
         "price": 180.0,
-        "available": false,
-        "inventory_quantity": 0
+        "available": true,
+        "inventory_quantity": 4
       },
       "52395050860907": {
         "id": 52395050860907,
@@ -2562,7 +2562,7 @@
         "sku": "X000009905011",
         "price": 300.0,
         "available": true,
-        "inventory_quantity": 5
+        "inventory_quantity": 7
       },
       "52196669391211": {
         "id": 52196669391211,
@@ -6106,7 +6106,7 @@
         "option2": null,
         "option3": null,
         "sku": "X000009987002",
-        "price": 1600.0,
+        "price": 1200.0,
         "available": false,
         "inventory_quantity": 0
       }
