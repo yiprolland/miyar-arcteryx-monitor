@@ -3060,7 +3060,7 @@
     "title": "Arc'teryx Men's Cerium Vest",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-mens-cerium-vest",
-    "image": null,
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000010531-Cerium-Vest-Black-Front-View.jpg?v=1764593154",
     "variants": {
       "52196422812011": {
         "id": 52196422812011,
@@ -3069,7 +3069,7 @@
         "option2": "S",
         "option3": null,
         "sku": "X000010531002",
-        "price": 270.0,
+        "price": 300.0,
         "available": false,
         "inventory_quantity": 0
       },
@@ -3080,7 +3080,7 @@
         "option2": "M",
         "option3": null,
         "sku": "X000010531003",
-        "price": 270.0,
+        "price": 300.0,
         "available": false,
         "inventory_quantity": 0
       },
@@ -3091,7 +3091,7 @@
         "option2": "L",
         "option3": null,
         "sku": "X000010531004",
-        "price": 270.0,
+        "price": 300.0,
         "available": false,
         "inventory_quantity": 0
       },
@@ -3102,7 +3102,7 @@
         "option2": "XL",
         "option3": null,
         "sku": "X000010531005",
-        "price": 270.0,
+        "price": 300.0,
         "available": true,
         "inventory_quantity": 5
       },
@@ -3113,7 +3113,7 @@
         "option2": "S",
         "option3": null,
         "sku": "X000010531008",
-        "price": 270.0,
+        "price": 300.0,
         "available": false,
         "inventory_quantity": 0
       },
@@ -3124,7 +3124,7 @@
         "option2": "M",
         "option3": null,
         "sku": "X000010531009",
-        "price": 270.0,
+        "price": 300.0,
         "available": false,
         "inventory_quantity": 0
       },
@@ -3135,7 +3135,7 @@
         "option2": "L",
         "option3": null,
         "sku": "X000010531010",
-        "price": 270.0,
+        "price": 300.0,
         "available": true,
         "inventory_quantity": 1
       },
@@ -3146,7 +3146,7 @@
         "option2": "XL",
         "option3": null,
         "sku": "X000010531011",
-        "price": 270.0,
+        "price": 300.0,
         "available": true,
         "inventory_quantity": 1
       }
