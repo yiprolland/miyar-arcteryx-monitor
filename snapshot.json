@@ -623,8 +623,8 @@
         "option3": null,
         "sku": "X000009863040",
         "price": 455.0,
-        "available": true,
-        "inventory_quantity": 1
+        "available": false,
+        "inventory_quantity": 0
       },
       "52441146687851": {
         "id": 52441146687851,
