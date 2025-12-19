@@ -2432,7 +2432,7 @@
     "title": "Arc'teryx Beta SL Jacket Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-beta-sl-jacket-mens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S25-X000009685-Beta-SL-Jacket-Black-Front-View.jpg?v=1759322579",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S25-X000009685-Beta-SL-Jacket-Black-Front-View.jpg?v=1759322579",
     "variants": {
       "51996154921323": {
         "id": 51996154921323,
@@ -2443,7 +2443,7 @@
         "sku": "X000009684002",
         "price": 500.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51996154954091": {
         "id": 51996154954091,
@@ -2454,7 +2454,7 @@
         "sku": "X000009684003",
         "price": 500.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51996154986859": {
         "id": 51996154986859,
@@ -2465,7 +2465,7 @@
         "sku": "X000009684004",
         "price": 500.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51996155019627": {
         "id": 51996155019627,
@@ -2476,7 +2476,7 @@
         "sku": "X000009684005",
         "price": 500.0,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       },
       "51996155052395": {
         "id": 51996155052395,
@@ -2487,7 +2487,7 @@
         "sku": "X000009684057",
         "price": 500.0,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 2
       },
       "51996155085163": {
         "id": 51996155085163,
@@ -2498,7 +2498,7 @@
         "sku": "X000009684058",
         "price": 500.0,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       },
       "52233680879979": {
         "id": 52233680879979,
@@ -2509,7 +2509,7 @@
         "sku": "X000009684059",
         "price": 500.0,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       },
       "52431792079211": {
         "id": 52431792079211,
@@ -2520,7 +2520,7 @@
         "sku": "X000009684056",
         "price": 500.0,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       }
     }
   },
