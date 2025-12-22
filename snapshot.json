@@ -7591,7 +7591,7 @@
         "option2": "S",
         "option3": null,
         "sku": "X000009366002",
-        "price": 180.0,
+        "price": 126.0,
         "available": true,
         "inventory_quantity": 1
       },
@@ -7602,7 +7602,7 @@
         "option2": "M",
         "option3": null,
         "sku": "X000009366003",
-        "price": 180.0,
+        "price": 126.0,
         "available": true,
         "inventory_quantity": 1
       },
@@ -7613,7 +7613,7 @@
         "option2": "XL",
         "option3": null,
         "sku": "X000009366005",
-        "price": 180.0,
+        "price": 126.0,
         "available": true,
         "inventory_quantity": 1
       }
