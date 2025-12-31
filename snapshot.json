@@ -3549,7 +3549,7 @@
         "sku": "X000010360003",
         "price": 144.0,
         "available": true,
-        "inventory_quantity": 3
+        "inventory_quantity": 2
       },
       "52194938618219": {
         "id": 52194938618219,
@@ -3560,7 +3560,7 @@
         "sku": "X000010360004",
         "price": 144.0,
         "available": true,
-        "inventory_quantity": 2
+        "inventory_quantity": 1
       },
       "52194938650987": {
         "id": 52194938650987,
@@ -7560,7 +7560,7 @@
         "option2": "S",
         "option3": null,
         "sku": "X000009367003",
-        "price": 153.0,
+        "price": 180.0,
         "available": false,
         "inventory_quantity": 0
       },
@@ -7571,7 +7571,7 @@
         "option2": "M",
         "option3": null,
         "sku": "X000009367004",
-        "price": 153.0,
+        "price": 180.0,
         "available": false,
         "inventory_quantity": 0
       }
@@ -7591,7 +7591,7 @@
         "option2": "S",
         "option3": null,
         "sku": "X000009366002",
-        "price": 126.0,
+        "price": 180.0,
         "available": true,
         "inventory_quantity": 1
       },
@@ -7602,7 +7602,7 @@
         "option2": "M",
         "option3": null,
         "sku": "X000009366003",
-        "price": 126.0,
+        "price": 180.0,
         "available": true,
         "inventory_quantity": 1
       },
@@ -7613,7 +7613,7 @@
         "option2": "XL",
         "option3": null,
         "sku": "X000009366005",
-        "price": 126.0,
+        "price": 180.0,
         "available": true,
         "inventory_quantity": 1
       }
