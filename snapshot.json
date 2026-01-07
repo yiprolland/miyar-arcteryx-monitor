@@ -13,7 +13,7 @@
         "option2": "XS",
         "option3": null,
         "sku": "X000009949003",
-        "price": 680.0,
+        "price": 800.0,
         "available": true,
         "inventory_quantity": 1
       },
@@ -24,7 +24,7 @@
         "option2": "S",
         "option3": null,
         "sku": "X000009949004",
-        "price": 720.0,
+        "price": 800.0,
         "available": true,
         "inventory_quantity": 1
       },
@@ -35,7 +35,7 @@
         "option2": "M",
         "option3": null,
         "sku": "X000009949005",
-        "price": 720.0,
+        "price": 800.0,
         "available": false,
         "inventory_quantity": 0
       }
@@ -161,7 +161,7 @@
         "option2": "XS",
         "option3": null,
         "sku": "X000009948010",
-        "price": 990.0,
+        "price": 1100.0,
         "available": true,
         "inventory_quantity": 2
       },
@@ -172,7 +172,7 @@
         "option2": "S",
         "option3": null,
         "sku": "X000009948011",
-        "price": 990.0,
+        "price": 1100.0,
         "available": false,
         "inventory_quantity": 0
       },
@@ -183,7 +183,7 @@
         "option2": "M",
         "option3": null,
         "sku": "X000009948012",
-        "price": 990.0,
+        "price": 1100.0,
         "available": true,
         "inventory_quantity": 2
       },
@@ -194,7 +194,7 @@
         "option2": "L",
         "option3": null,
         "sku": "X000009948013",
-        "price": 990.0,
+        "price": 1100.0,
         "available": true,
         "inventory_quantity": 1
       }
@@ -236,7 +236,7 @@
         "option2": "XL",
         "option3": null,
         "sku": "X000009889006",
-        "price": 675.0,
+        "price": 750.0,
         "available": true,
         "inventory_quantity": 1
       }
@@ -558,7 +558,7 @@
         "option2": "S",
         "option3": null,
         "sku": "X000009904015",
-        "price": 600.0,
+        "price": 750.0,
         "available": true,
         "inventory_quantity": 1
       },
@@ -569,7 +569,7 @@
         "option2": "M",
         "option3": null,
         "sku": "X000009904016",
-        "price": 675.0,
+        "price": 750.0,
         "available": false,
         "inventory_quantity": 0
       },
@@ -580,7 +580,7 @@
         "option2": "L",
         "option3": null,
         "sku": "X000009904017",
-        "price": 675.0,
+        "price": 750.0,
         "available": false,
         "inventory_quantity": 0
       },
@@ -591,7 +591,7 @@
         "option2": "XL",
         "option3": null,
         "sku": "X000009904018",
-        "price": 675.0,
+        "price": 750.0,
         "available": false,
         "inventory_quantity": 0
       }
@@ -741,7 +741,7 @@
         "option2": "S",
         "option3": null,
         "sku": "X000009862025",
-        "price": 630.0,
+        "price": 900.0,
         "available": false,
         "inventory_quantity": 0
       },
@@ -752,7 +752,7 @@
         "option2": "L",
         "option3": null,
         "sku": "X000009862027",
-        "price": 630.0,
+        "price": 900.0,
         "available": true,
         "inventory_quantity": 1
       }
@@ -1074,7 +1074,7 @@
         "option2": "S",
         "option3": null,
         "sku": "X000010554010",
-        "price": 360.0,
+        "price": 400.0,
         "available": false,
         "inventory_quantity": 0
       },
@@ -1085,7 +1085,7 @@
         "option2": "M",
         "option3": null,
         "sku": "X000010554011",
-        "price": 360.0,
+        "price": 400.0,
         "available": false,
         "inventory_quantity": 0
       }
@@ -1149,7 +1149,7 @@
         "option2": "XS",
         "option3": null,
         "sku": "X000010020016",
-        "price": 450.0,
+        "price": 500.0,
         "available": true,
         "inventory_quantity": 1
       },
@@ -1160,7 +1160,7 @@
         "option2": "S",
         "option3": null,
         "sku": "X000010020017",
-        "price": 450.0,
+        "price": 500.0,
         "available": true,
         "inventory_quantity": 1
       },
@@ -1171,7 +1171,7 @@
         "option2": "M",
         "option3": null,
         "sku": "X000010020018",
-        "price": 450.0,
+        "price": 500.0,
         "available": true,
         "inventory_quantity": 1
       },
@@ -1182,7 +1182,7 @@
         "option2": "L",
         "option3": null,
         "sku": "X000010020019",
-        "price": 450.0,
+        "price": 500.0,
         "available": true,
         "inventory_quantity": 1
       }
@@ -1334,7 +1334,7 @@
         "option2": "XXL",
         "option3": null,
         "sku": "X000009908007",
-        "price": 252.0,
+        "price": 280.0,
         "available": false,
         "inventory_quantity": 0
       }
@@ -1442,7 +1442,7 @@
         "option2": "S",
         "option3": null,
         "sku": "X000009902015",
-        "price": 332.5,
+        "price": 350.0,
         "available": true,
         "inventory_quantity": 2
       },
@@ -1453,7 +1453,7 @@
         "option2": "M",
         "option3": null,
         "sku": "X000009902016",
-        "price": 332.5,
+        "price": 350.0,
         "available": true,
         "inventory_quantity": 2
       },
@@ -1464,7 +1464,7 @@
         "option2": "L",
         "option3": null,
         "sku": "X000009902017",
-        "price": 332.5,
+        "price": 350.0,
         "available": true,
         "inventory_quantity": 4
       },
@@ -1475,7 +1475,7 @@
         "option2": "XL",
         "option3": null,
         "sku": "X000009902018",
-        "price": 332.5,
+        "price": 350.0,
         "available": true,
         "inventory_quantity": 2
       }
@@ -2626,7 +2626,7 @@
         "option2": "XL",
         "option3": null,
         "sku": "X000009905036",
-        "price": 270.0,
+        "price": 300.0,
         "available": false,
         "inventory_quantity": 0
       }
@@ -3635,7 +3635,7 @@
         "option2": "M",
         "option3": null,
         "sku": "X000010360009",
-        "price": 144.0,
+        "price": 160.0,
         "available": false,
         "inventory_quantity": 0
       },
@@ -3646,7 +3646,7 @@
         "option2": "L",
         "option3": null,
         "sku": "X000010360010",
-        "price": 144.0,
+        "price": 160.0,
         "available": false,
         "inventory_quantity": 0
       }
@@ -7970,7 +7970,7 @@
         "option2": "M",
         "option3": null,
         "sku": "X000009165063",
-        "price": 179.99,
+        "price": 199.99,
         "available": true,
         "inventory_quantity": 2
       },
@@ -7981,7 +7981,7 @@
         "option2": "L",
         "option3": null,
         "sku": "X000009165064",
-        "price": 179.99,
+        "price": 199.99,
         "available": true,
         "inventory_quantity": 2
       }
