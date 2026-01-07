@@ -141,7 +141,7 @@
     "title": "Arc'teryx Andessa Down Jacket Women's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-andessa-down-jacket-womens",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/unnamed_5_97265de8-3079-44ba-baeb-bbca00c44614.png?v=1762275105",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/unnamed_5_97265de8-3079-44ba-baeb-bbca00c44614.png?v=1762275105",
     "variants": {
       "52519586562411": {
         "id": 52519586562411,
@@ -152,7 +152,7 @@
         "sku": "X000009948010",
         "price": 990.0,
         "available": true,
-        "inventory_quantity": 2
+        "inventory_quantity": null
       },
       "52519586595179": {
         "id": 52519586595179,
@@ -163,7 +163,7 @@
         "sku": "X000009948011",
         "price": 990.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52519586627947": {
         "id": 52519586627947,
@@ -174,7 +174,7 @@
         "sku": "X000009948012",
         "price": 990.0,
         "available": true,
-        "inventory_quantity": 2
+        "inventory_quantity": null
       },
       "52519586660715": {
         "id": 52519586660715,
@@ -185,7 +185,7 @@
         "sku": "X000009948013",
         "price": 990.0,
         "available": true,
-        "inventory_quantity": 1
+        "inventory_quantity": null
       }
     }
   },
@@ -1085,7 +1085,7 @@
     "title": "Arc'teryx Women's Beta SL Jacket",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-womens-beta-sl-jacket",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000010020-Beta-SL-Jacket-Azalea-Women-s-Front-View_ba28bffc-c8bc-4abd-b498-7bf2aadb6ac9.jpg?v=1762015947",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/F25-X000010020-Beta-SL-Jacket-Azalea-Women-s-Front-View_ba28bffc-c8bc-4abd-b498-7bf2aadb6ac9.jpg?v=1762015947",
     "variants": {
       "52395052073323": {
         "id": 52395052073323,
@@ -1096,7 +1096,7 @@
         "sku": "X000010020002",
         "price": 450.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52395052106091": {
         "id": 52395052106091,
@@ -1107,7 +1107,7 @@
         "sku": "X000010020003",
         "price": 450.0,
         "available": true,
-        "inventory_quantity": 1
+        "inventory_quantity": null
       },
       "52395052138859": {
         "id": 52395052138859,
@@ -1118,7 +1118,7 @@
         "sku": "X000010020004",
         "price": 450.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52395052171627": {
         "id": 52395052171627,
@@ -1129,7 +1129,7 @@
         "sku": "X000010020005",
         "price": 450.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52519479640427": {
         "id": 52519479640427,
@@ -1140,7 +1140,7 @@
         "sku": "X000010020016",
         "price": 450.0,
         "available": true,
-        "inventory_quantity": 1
+        "inventory_quantity": null
       },
       "52519479673195": {
         "id": 52519479673195,
@@ -1151,7 +1151,7 @@
         "sku": "X000010020017",
         "price": 450.0,
         "available": true,
-        "inventory_quantity": 1
+        "inventory_quantity": null
       },
       "52519479705963": {
         "id": 52519479705963,
@@ -1162,7 +1162,7 @@
         "sku": "X000010020018",
         "price": 450.0,
         "available": true,
-        "inventory_quantity": 1
+        "inventory_quantity": null
       },
       "52519479738731": {
         "id": 52519479738731,
@@ -1173,7 +1173,7 @@
         "sku": "X000010020019",
         "price": 450.0,
         "available": true,
-        "inventory_quantity": 1
+        "inventory_quantity": null
       }
     }
   },
