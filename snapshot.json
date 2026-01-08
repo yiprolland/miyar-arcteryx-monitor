@@ -1,4 +1,90 @@
 {
+  "arcteryx-kragg-sl-cotton-shirt-ls-mens": {
+    "handle": "arcteryx-kragg-sl-cotton-shirt-ls-mens",
+    "title": "Arc'teryx Kragg SL Cotton Shirt LS Men's",
+    "vendor": "Arc'teryx",
+    "url": "https://store.miyaradventures.com/products/arcteryx-kragg-sl-cotton-shirt-ls-mens",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009536-Kragg-SL-Cotton-Shirt-LS-Black-Front-View.jpg?v=1767900735",
+    "variants": {
+      "52743752778091": {
+        "id": 52743752778091,
+        "title": "Black / S",
+        "option1": "Black",
+        "option2": "S",
+        "option3": null,
+        "sku": "X000009536003",
+        "price": 70.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52743752810859": {
+        "id": 52743752810859,
+        "title": "Black / M",
+        "option1": "Black",
+        "option2": "M",
+        "option3": null,
+        "sku": "X000009536004",
+        "price": 70.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52743752843627": {
+        "id": 52743752843627,
+        "title": "Black / L",
+        "option1": "Black",
+        "option2": "L",
+        "option3": null,
+        "sku": "X000009536005",
+        "price": 70.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52743752876395": {
+        "id": 52743752876395,
+        "title": "Black / XL",
+        "option1": "Black",
+        "option2": "XL",
+        "option3": null,
+        "sku": "X000009536006",
+        "price": 70.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52743752909163": {
+        "id": 52743752909163,
+        "title": "White Light / M",
+        "option1": "White Light",
+        "option2": "M",
+        "option3": null,
+        "sku": "X000009536022",
+        "price": 70.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52743752941931": {
+        "id": 52743752941931,
+        "title": "White Light / L",
+        "option1": "White Light",
+        "option2": "L",
+        "option3": null,
+        "sku": "X000009536023",
+        "price": 70.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52743752974699": {
+        "id": 52743752974699,
+        "title": "White Light / XL",
+        "option1": "White Light",
+        "option2": "XL",
+        "option3": null,
+        "sku": "X000009536024",
+        "price": 70.0,
+        "available": false,
+        "inventory_quantity": 0
+      }
+    }
+  },
   "arcteryx-womens-patera-parka": {
     "handle": "arcteryx-womens-patera-parka",
     "title": "Arc'teryx Women's Patera Parka",
