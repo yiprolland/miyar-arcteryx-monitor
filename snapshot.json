@@ -1,4 +1,99 @@
 {
+  "arcteryx-venta-gtx-glove": {
+    "handle": "arcteryx-venta-gtx-glove",
+    "title": "Arc'teryx Venta GTX Glove",
+    "vendor": "Arc'teryx",
+    "url": "https://store.miyaradventures.com/products/arcteryx-venta-gtx-glove",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009935-Venta-GTX-Glove-Black-Front.jpg?v=1767988743",
+    "variants": {
+      "52747007689067": {
+        "id": 52747007689067,
+        "title": "Black / M",
+        "option1": "Black",
+        "option2": "M",
+        "option3": null,
+        "sku": "X000009935019",
+        "price": 150.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52747007721835": {
+        "id": 52747007721835,
+        "title": "Black / L",
+        "option1": "Black",
+        "option2": "L",
+        "option3": null,
+        "sku": "X000009935020",
+        "price": 150.0,
+        "available": false,
+        "inventory_quantity": 0
+      }
+    }
+  },
+  "arcteryx-rho-merino-wool-crew-neck-ls-mens": {
+    "handle": "arcteryx-rho-merino-wool-crew-neck-ls-mens",
+    "title": "Arc'teryx Rho Merino Wool Crew Neck LS Men's",
+    "vendor": "Arc'teryx",
+    "url": "https://store.miyaradventures.com/products/arcteryx-rho-merino-wool-crew-neck-ls-mens",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F24-X000007480-Rho-Merino-Wool-Crew-Neck-LS-Black-Hover.jpg?v=1767988735",
+    "variants": {
+      "52747007361387": {
+        "id": 52747007361387,
+        "title": "Black / S",
+        "option1": "Black",
+        "option2": "S",
+        "option3": null,
+        "sku": "X000007480003",
+        "price": 120.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52747007394155": {
+        "id": 52747007394155,
+        "title": "Black / M",
+        "option1": "Black",
+        "option2": "M",
+        "option3": null,
+        "sku": "X000007480004",
+        "price": 120.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52747007426923": {
+        "id": 52747007426923,
+        "title": "Black / L",
+        "option1": "Black",
+        "option2": "L",
+        "option3": null,
+        "sku": "X000007480005",
+        "price": 120.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52747007459691": {
+        "id": 52747007459691,
+        "title": "Black / XL",
+        "option1": "Black",
+        "option2": "XL",
+        "option3": null,
+        "sku": "X000007480006",
+        "price": 120.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52747007492459": {
+        "id": 52747007492459,
+        "title": "Void / L",
+        "option1": "Void",
+        "option2": "L",
+        "option3": null,
+        "sku": "X000007480017",
+        "price": 120.0,
+        "available": false,
+        "inventory_quantity": 0
+      }
+    }
+  },
   "arcteryx-kragg-sl-cotton-shirt-ls-mens": {
     "handle": "arcteryx-kragg-sl-cotton-shirt-ls-mens",
     "title": "Arc'teryx Kragg SL Cotton Shirt LS Men's",
