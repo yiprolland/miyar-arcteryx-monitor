@@ -1,4 +1,322 @@
 {
+  "arcteryx-fission-sv-mitten": {
+    "handle": "arcteryx-fission-sv-mitten",
+    "title": "Arc'teryx Fission SV Mitten",
+    "vendor": "Arc'teryx",
+    "url": "https://store.miyaradventures.com/products/arcteryx-fission-sv-mitten",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009940-Fission-SV-Mitten-Black-Front.jpg?v=1768237411",
+    "variants": {
+      "52752651878763": {
+        "id": 52752651878763,
+        "title": "Black / S",
+        "option1": "Black",
+        "option2": "S",
+        "option3": null,
+        "sku": "X000009940004",
+        "price": 200.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52752651911531": {
+        "id": 52752651911531,
+        "title": "Black / M",
+        "option1": "Black",
+        "option2": "M",
+        "option3": null,
+        "sku": "X000009940005",
+        "price": 200.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52752651944299": {
+        "id": 52752651944299,
+        "title": "Black / L",
+        "option1": "Black",
+        "option2": "L",
+        "option3": null,
+        "sku": "X000009940006",
+        "price": 200.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52752651977067": {
+        "id": 52752651977067,
+        "title": "Black / XL",
+        "option1": "Black",
+        "option2": "XL",
+        "option3": null,
+        "sku": "X000009940007",
+        "price": 200.0,
+        "available": false,
+        "inventory_quantity": 0
+      }
+    }
+  },
+  "arcteryx-sabre-relaxed-pant-mensa": {
+    "handle": "arcteryx-sabre-relaxed-pant-mensa",
+    "title": "Arc'teryx Sabre Relaxed Pant Men's",
+    "vendor": "Arc'teryx",
+    "url": "https://store.miyaradventures.com/products/arcteryx-sabre-relaxed-pant-mensa",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009157-Sabre-Relaxed-Pant-Black-Hover.jpg?v=1768237395",
+    "variants": {
+      "52752651288939": {
+        "id": 52752651288939,
+        "title": "Black / S",
+        "option1": "Black",
+        "option2": "S",
+        "option3": null,
+        "sku": "X000009157003",
+        "price": 650.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52752651321707": {
+        "id": 52752651321707,
+        "title": "Black / M",
+        "option1": "Black",
+        "option2": "M",
+        "option3": null,
+        "sku": "X000009157004",
+        "price": 650.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52752651354475": {
+        "id": 52752651354475,
+        "title": "Black / L",
+        "option1": "Black",
+        "option2": "L",
+        "option3": null,
+        "sku": "X000009157005",
+        "price": 650.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52752651387243": {
+        "id": 52752651387243,
+        "title": "Black / XL",
+        "option1": "Black",
+        "option2": "XL",
+        "option3": null,
+        "sku": "X000009157006",
+        "price": 650.0,
+        "available": false,
+        "inventory_quantity": 0
+      }
+    }
+  },
+  "arcteryx-alpha-sv-bib-pant-mens": {
+    "handle": "arcteryx-alpha-sv-bib-pant-mens",
+    "title": "Arc'teryx Alpha SV Bib Pant Men's",
+    "vendor": "Arc'teryx",
+    "url": "https://store.miyaradventures.com/products/arcteryx-alpha-sv-bib-pant-mens",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009900-Alpha-SV-Bib-Pant-Black.jpg?v=1768237386",
+    "variants": {
+      "52752651125099": {
+        "id": 52752651125099,
+        "title": "Black / S",
+        "option1": "Black",
+        "option2": "S",
+        "option3": null,
+        "sku": "X000009900002",
+        "price": 750.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52752651157867": {
+        "id": 52752651157867,
+        "title": "Black / M",
+        "option1": "Black",
+        "option2": "M",
+        "option3": null,
+        "sku": "X000009900003",
+        "price": 750.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52752651190635": {
+        "id": 52752651190635,
+        "title": "Black / L",
+        "option1": "Black",
+        "option2": "L",
+        "option3": null,
+        "sku": "X000009900004",
+        "price": 750.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52752651223403": {
+        "id": 52752651223403,
+        "title": "Black / XL",
+        "option1": "Black",
+        "option2": "XL",
+        "option3": null,
+        "sku": "X000009900005",
+        "price": 750.0,
+        "available": false,
+        "inventory_quantity": 0
+      }
+    }
+  },
+  "arcteryx-cerium-pant-mens": {
+    "handle": "arcteryx-cerium-pant-mens",
+    "title": "Arc'teryx Cerium Pant Men's",
+    "vendor": "Arc'teryx",
+    "url": "https://store.miyaradventures.com/products/arcteryx-cerium-pant-mens",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000010580-Cerium-Pant-Black.jpg?v=1768237382",
+    "variants": {
+      "52752650994027": {
+        "id": 52752650994027,
+        "title": "Black / S",
+        "option1": "Black",
+        "option2": "S",
+        "option3": null,
+        "sku": "X000010580002",
+        "price": 300.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52752651026795": {
+        "id": 52752651026795,
+        "title": "Black / M",
+        "option1": "Black",
+        "option2": "M",
+        "option3": null,
+        "sku": "X000010580003",
+        "price": 300.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52752651059563": {
+        "id": 52752651059563,
+        "title": "Black / L",
+        "option1": "Black",
+        "option2": "L",
+        "option3": null,
+        "sku": "X000010580004",
+        "price": 300.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52752651092331": {
+        "id": 52752651092331,
+        "title": "Black / XL",
+        "option1": "Black",
+        "option2": "XL",
+        "option3": null,
+        "sku": "X000010580005",
+        "price": 300.0,
+        "available": false,
+        "inventory_quantity": 0
+      }
+    }
+  },
+  "arcteryx-cerium-sv-hoody-mens": {
+    "handle": "arcteryx-cerium-sv-hoody-mens",
+    "title": "Arc'teryx Cerium SV Hoody Men's",
+    "vendor": "Arc'teryx",
+    "url": "https://store.miyaradventures.com/products/arcteryx-cerium-sv-hoody-mens",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000010555-Cerium-SV-Hoody-Black-Front-View.jpg?v=1768237379",
+    "variants": {
+      "52752650862955": {
+        "id": 52752650862955,
+        "title": "Black / S",
+        "option1": "Black",
+        "option2": "S",
+        "option3": null,
+        "sku": "X000010555007",
+        "price": 600.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52752650895723": {
+        "id": 52752650895723,
+        "title": "Black / M",
+        "option1": "Black",
+        "option2": "M",
+        "option3": null,
+        "sku": "X000010555008",
+        "price": 600.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52752650928491": {
+        "id": 52752650928491,
+        "title": "Black / L",
+        "option1": "Black",
+        "option2": "L",
+        "option3": null,
+        "sku": "X000010555009",
+        "price": 600.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52752650961259": {
+        "id": 52752650961259,
+        "title": "Black / XL",
+        "option1": "Black",
+        "option2": "XL",
+        "option3": null,
+        "sku": "X000010555010",
+        "price": 600.0,
+        "available": false,
+        "inventory_quantity": 0
+      }
+    }
+  },
+  "arcteryx-sabre-sv-jacket-mens": {
+    "handle": "arcteryx-sabre-sv-jacket-mens",
+    "title": "Arc'teryx Sabre SV Jacket Men's",
+    "vendor": "Arc'teryx",
+    "url": "https://store.miyaradventures.com/products/arcteryx-sabre-sv-jacket-mens",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009910-Sabre-SV-Jacket-Black.jpg?v=1768237374",
+    "variants": {
+      "52752650731883": {
+        "id": 52752650731883,
+        "title": "Black / S",
+        "option1": "Black",
+        "option2": "S",
+        "option3": null,
+        "sku": "X000009910009",
+        "price": 900.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52752650764651": {
+        "id": 52752650764651,
+        "title": "Black / M",
+        "option1": "Black",
+        "option2": "M",
+        "option3": null,
+        "sku": "X000009910010",
+        "price": 900.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52752650797419": {
+        "id": 52752650797419,
+        "title": "Black / L",
+        "option1": "Black",
+        "option2": "L",
+        "option3": null,
+        "sku": "X000009910011",
+        "price": 900.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52752650830187": {
+        "id": 52752650830187,
+        "title": "Black / XL",
+        "option1": "Black",
+        "option2": "XL",
+        "option3": null,
+        "sku": "X000009910012",
+        "price": 900.0,
+        "available": false,
+        "inventory_quantity": 0
+      }
+    }
+  },
   "arcteryx-venta-gtx-glove": {
     "handle": "arcteryx-venta-gtx-glove",
     "title": "Arc'teryx Venta GTX Glove",
