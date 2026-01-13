@@ -554,7 +554,7 @@
         "option2": null,
         "option3": null,
         "sku": "X000009828005",
-        "price": 50.0,
+        "price": 42.5,
         "available": false,
         "inventory_quantity": 0
       },
@@ -565,7 +565,7 @@
         "option2": null,
         "option3": null,
         "sku": "X000009828011",
-        "price": 50.0,
+        "price": 42.5,
         "available": false,
         "inventory_quantity": 0
       },
@@ -576,7 +576,7 @@
         "option2": null,
         "option3": null,
         "sku": "X000009828007",
-        "price": 50.0,
+        "price": 42.5,
         "available": false,
         "inventory_quantity": 0
       },
@@ -587,7 +587,7 @@
         "option2": null,
         "option3": null,
         "sku": "X000009828001",
-        "price": 50.0,
+        "price": 42.5,
         "available": false,
         "inventory_quantity": 0
       }
@@ -4295,7 +4295,7 @@
         "option2": null,
         "option3": null,
         "sku": "X000009625001",
-        "price": 220.0,
+        "price": 187.0,
         "available": false,
         "inventory_quantity": 0
       },
@@ -4306,7 +4306,7 @@
         "option2": null,
         "option3": null,
         "sku": "X000009625004",
-        "price": 220.0,
+        "price": 187.0,
         "available": true,
         "inventory_quantity": 1
       },
@@ -4317,7 +4317,7 @@
         "option2": null,
         "option3": null,
         "sku": "X000009625002",
-        "price": 220.0,
+        "price": 187.0,
         "available": false,
         "inventory_quantity": 0
       }
@@ -4337,7 +4337,7 @@
         "option2": null,
         "option3": null,
         "sku": "X000009624001",
-        "price": 200.0,
+        "price": 170.0,
         "available": false,
         "inventory_quantity": 0
       }
@@ -4822,7 +4822,7 @@
         "option2": null,
         "option3": null,
         "sku": "X000009825002",
-        "price": 160.0,
+        "price": 136.0,
         "available": false,
         "inventory_quantity": 0
       },
@@ -4833,7 +4833,7 @@
         "option2": null,
         "option3": null,
         "sku": "X000009825009",
-        "price": 160.0,
+        "price": 136.0,
         "available": false,
         "inventory_quantity": 0
       }
@@ -4853,7 +4853,7 @@
         "option2": "NA",
         "option3": null,
         "sku": "X000006136024",
-        "price": 120.0,
+        "price": 102.0,
         "available": false,
         "inventory_quantity": 0
       }
