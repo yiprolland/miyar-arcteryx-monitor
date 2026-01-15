@@ -973,7 +973,7 @@
     "title": "Arc'teryx Bird Word Toque",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-bird-word-toque",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/F25-X000010065-Bird-Word-Toque-24K-Black-Front.avif?v=1765916866",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000010065-Bird-Word-Toque-24K-Black-Front.avif?v=1765916866",
     "variants": {
       "52441146949995": {
         "id": 52441146949995,
@@ -984,7 +984,7 @@
         "sku": "X000010065003",
         "price": 54.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52441146982763": {
         "id": 52441146982763,
@@ -995,7 +995,7 @@
         "sku": "X000010065001",
         "price": 54.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
