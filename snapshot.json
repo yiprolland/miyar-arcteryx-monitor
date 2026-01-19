@@ -1,4 +1,117 @@
 {
+  "arcteryx-kragg-sl-cotton-shirt-ss-mens": {
+    "handle": "arcteryx-kragg-sl-cotton-shirt-ss-mens",
+    "title": "Arc'teryx Kragg SL Cotton Shirt SS Men's",
+    "vendor": "Arc'teryx",
+    "url": "https://store.miyaradventures.com/products/arcteryx-kragg-sl-cotton-shirt-ss-mens",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S25-X000009533-Kragg-SL-Cotton-Shirt-SS-White-Light-Front-View.jpg?v=1768837415",
+    "variants": {
+      "52777646653803": {
+        "id": 52777646653803,
+        "title": "White Light / S",
+        "option1": "White Light",
+        "option2": "S",
+        "option3": null,
+        "sku": "X000009533027",
+        "price": 60.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52777646686571": {
+        "id": 52777646686571,
+        "title": "White Light / M",
+        "option1": "White Light",
+        "option2": "M",
+        "option3": null,
+        "sku": "X000009533028",
+        "price": 60.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52777646719339": {
+        "id": 52777646719339,
+        "title": "White Light / L",
+        "option1": "White Light",
+        "option2": "L",
+        "option3": null,
+        "sku": "X000009533029",
+        "price": 60.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52777646752107": {
+        "id": 52777646752107,
+        "title": "White Light / XL",
+        "option1": "White Light",
+        "option2": "XL",
+        "option3": null,
+        "sku": "X000009533030",
+        "price": 60.0,
+        "available": false,
+        "inventory_quantity": 0
+      }
+    }
+  },
+  "arcteryx-heliad-15-backpack": {
+    "handle": "arcteryx-heliad-15-backpack",
+    "title": "Arc'teryx Heliad 15 Backpack",
+    "vendor": "Arc'teryx",
+    "url": "https://store.miyaradventures.com/products/arcteryx-heliad-15-backpack",
+    "image": null,
+    "variants": {
+      "52777646621035": {
+        "id": 52777646621035,
+        "title": "Black",
+        "option1": "Black",
+        "option2": null,
+        "option3": null,
+        "sku": "X000010358006",
+        "price": 80.0,
+        "available": false,
+        "inventory_quantity": 0
+      }
+    }
+  },
+  "arcteryx-aerios-35-backpack": {
+    "handle": "arcteryx-aerios-35-backpack",
+    "title": "Arc'teryx Aerios 35 Backpack",
+    "vendor": "Arc'teryx",
+    "url": "https://store.miyaradventures.com/products/arcteryx-aerios-35-backpack",
+    "image": null,
+    "variants": {
+      "52777646588267": {
+        "id": 52777646588267,
+        "title": "Fluidity / Reg",
+        "option1": "Fluidity",
+        "option2": "Reg",
+        "option3": null,
+        "sku": "X000009588011",
+        "price": 250.0,
+        "available": false,
+        "inventory_quantity": 0
+      }
+    }
+  },
+  "arcteryx-alpha-fl-30-backpack": {
+    "handle": "arcteryx-alpha-fl-30-backpack",
+    "title": "Arc'teryx Alpha FL 30 Backpack",
+    "vendor": "Arc'teryx",
+    "url": "https://store.miyaradventures.com/products/arcteryx-alpha-fl-30-backpack",
+    "image": null,
+    "variants": {
+      "52777645375851": {
+        "id": 52777645375851,
+        "title": "Black / Reg",
+        "option1": "Black",
+        "option2": "Reg",
+        "option3": null,
+        "sku": "X000010349001",
+        "price": 280.0,
+        "available": false,
+        "inventory_quantity": 0
+      }
+    }
+  },
   "arcteryx-fission-sv-mitten": {
     "handle": "arcteryx-fission-sv-mitten",
     "title": "Arc'teryx Fission SV Mitten",
@@ -1101,7 +1214,7 @@
     "title": "Arc'teryx Beta Women's AR Jacket",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-beta-womens-ar-jacket",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009863-Beta-AR-Jacket-Nightscape-Glacial-Women-s-Front-View.jpg?v=1759779725",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009863-Beta-AR-Jacket-Nightscape-Glacial-Women-s-Front-View_bf6479b6-67e8-4653-b86f-95d88798c89e.jpg?v=1768837405",
     "variants": {
       "52441146589547": {
         "id": 52441146589547,
@@ -1179,6 +1292,50 @@
         "price": 650.0,
         "available": true,
         "inventory_quantity": 1
+      },
+      "52777646457195": {
+        "id": 52777646457195,
+        "title": "Mallow / XS",
+        "option1": "Mallow",
+        "option2": "XS",
+        "option3": null,
+        "sku": "X000009863080",
+        "price": 650.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52777646489963": {
+        "id": 52777646489963,
+        "title": "Mallow / S",
+        "option1": "Mallow",
+        "option2": "S",
+        "option3": null,
+        "sku": "X000009863081",
+        "price": 650.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52777646522731": {
+        "id": 52777646522731,
+        "title": "Mallow / M",
+        "option1": "Mallow",
+        "option2": "M",
+        "option3": null,
+        "sku": "X000009863082",
+        "price": 650.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52777646555499": {
+        "id": 52777646555499,
+        "title": "Mallow / L",
+        "option1": "Mallow",
+        "option2": "L",
+        "option3": null,
+        "sku": "X000009863083",
+        "price": 650.0,
+        "available": false,
+        "inventory_quantity": 0
       }
     }
   },
@@ -3808,7 +3965,7 @@
     "title": "Arc'teryx Men's Beta Jacket",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-mens-beta-jacket",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000010511-Beta-Jacket-Black-Sapphire-Front-View.jpg?v=1759322582",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000010511-Beta-Jacket-Black-Sapphire-Front-View_c3ad3940-5398-4239-8b8b-04d635a6f2b1.jpg?v=1768837404",
     "variants": {
       "52196401971563": {
         "id": 52196401971563,
@@ -4029,6 +4186,28 @@
         "price": 400.0,
         "available": false,
         "inventory_quantity": 0
+      },
+      "52777646391659": {
+        "id": 52777646391659,
+        "title": "Blaze / M",
+        "option1": "Blaze",
+        "option2": "M",
+        "option3": null,
+        "sku": "X000010511017",
+        "price": 400.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52777646424427": {
+        "id": 52777646424427,
+        "title": "Blaze / L",
+        "option1": "Blaze",
+        "option2": "L",
+        "option3": null,
+        "sku": "X000010511018",
+        "price": 400.0,
+        "available": false,
+        "inventory_quantity": 0
       }
     }
   },
@@ -4156,7 +4335,7 @@
     "title": "Arc'teryx Men's Beta AR Jacket",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-mens-beta-ar-jacket",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S25-X000007082-Beta-AR-Jacket-Solitude-Void-Front-View.jpg?v=1754594227",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S25-X000007082-Beta-AR-Jacket-Solitude-Void-Front-View.jpg?v=1768837401",
     "variants": {
       "52194806792555": {
         "id": 52194806792555,
@@ -4278,6 +4457,17 @@
         "price": 650.0,
         "available": true,
         "inventory_quantity": 1
+      },
+      "52777646358891": {
+        "id": 52777646358891,
+        "title": "Solitude / Void / L",
+        "option1": "Solitude / Void",
+        "option2": "L",
+        "option3": null,
+        "sku": "X000009906040",
+        "price": 650.0,
+        "available": false,
+        "inventory_quantity": 0
       }
     }
   },
@@ -4821,18 +5011,7 @@
         "option1": "Black",
         "option2": null,
         "option3": null,
-        "sku": "X000009825002",
-        "price": 160.0,
-        "available": false,
-        "inventory_quantity": 0
-      },
-      "52395050303851": {
-        "id": 52395050303851,
-        "title": "Lodestar",
-        "option1": "Lodestar",
-        "option2": null,
-        "option3": null,
-        "sku": "X000009825009",
+        "sku": "X000010643001",
         "price": 160.0,
         "available": false,
         "inventory_quantity": 0
@@ -4864,14 +5043,14 @@
     "title": "Arc'teryx Gamma SL Pant Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-gamma-sl-pant-mens",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S25-X000009525-Gamma-SL-Pant-Black-Front-View.jpg?v=1744307932",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S25-X000009525-Gamma-SL-Pant-Black-Front-View_d6a1925d-cdeb-467d-ba1e-bcd6a141ce3d.jpg?v=1768837398",
     "variants": {
-      "51996155511147": {
-        "id": 51996155511147,
-        "title": "Black / 28/R",
+      "52777646260587": {
+        "id": 52777646260587,
+        "title": "Black / 28 / Reg",
         "option1": "Black",
-        "option2": "28/R",
-        "option3": null,
+        "option2": "28",
+        "option3": "Reg",
         "sku": "X000009525002",
         "price": 160.0,
         "available": false,
@@ -4879,10 +5058,10 @@
       },
       "51996155543915": {
         "id": 51996155543915,
-        "title": "Black / 30",
+        "title": "Black / 30 / Reg",
         "option1": "Black",
         "option2": "30",
-        "option3": null,
+        "option3": "Reg",
         "sku": "X000009525013",
         "price": 160.0,
         "available": false,
@@ -4890,10 +5069,10 @@
       },
       "51996155576683": {
         "id": 51996155576683,
-        "title": "Black / 32",
+        "title": "Black / 32 / Reg",
         "option1": "Black",
         "option2": "32",
-        "option3": null,
+        "option3": "Reg",
         "sku": "X000009525015",
         "price": 160.0,
         "available": false,
@@ -4901,10 +5080,10 @@
       },
       "51996155609451": {
         "id": 51996155609451,
-        "title": "Black / 34",
+        "title": "Black / 34 / Reg",
         "option1": "Black",
         "option2": "34",
-        "option3": null,
+        "option3": "Reg",
         "sku": "X000009525017",
         "price": 160.0,
         "available": false,
@@ -4912,11 +5091,33 @@
       },
       "51996155642219": {
         "id": 51996155642219,
-        "title": "Black / 36",
+        "title": "Black / 36 / Reg",
         "option1": "Black",
         "option2": "36",
-        "option3": null,
+        "option3": "Reg",
         "sku": "X000009525018",
+        "price": 160.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52777646293355": {
+        "id": 52777646293355,
+        "title": "Black / 34 / Short",
+        "option1": "Black",
+        "option2": "34",
+        "option3": "Short",
+        "sku": "X000009525009",
+        "price": 160.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52777646326123": {
+        "id": 52777646326123,
+        "title": "Black / 36 / Short",
+        "option1": "Black",
+        "option2": "36",
+        "option3": "Short",
+        "sku": "X000009525010",
         "price": 160.0,
         "available": false,
         "inventory_quantity": 0
