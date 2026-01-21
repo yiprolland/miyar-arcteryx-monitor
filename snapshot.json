@@ -1,4 +1,35 @@
 {
+  "arcteryx-kyanite-lightweight-jacket-mens": {
+    "handle": "arcteryx-kyanite-lightweight-jacket-mens",
+    "title": "Arc'teryx Kyanite Lightweight Jacket Men's",
+    "vendor": "Arc'teryx",
+    "url": "https://store.miyaradventures.com/products/arcteryx-kyanite-lightweight-jacket-mens",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/unnamed_19_763b29b2-f418-4914-aa12-a706a89ca23b.png?v=1769010410",
+    "variants": {
+      "52783807889771": {
+        "id": 52783807889771,
+        "title": "Black / M",
+        "option1": "Black",
+        "option2": "M",
+        "option3": null,
+        "sku": "X000009640003",
+        "price": 140.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52783807922539": {
+        "id": 52783807922539,
+        "title": "Black / L",
+        "option1": "Black",
+        "option2": "L",
+        "option3": null,
+        "sku": "X000009640004",
+        "price": 140.0,
+        "available": false,
+        "inventory_quantity": 0
+      }
+    }
+  },
   "arcteryx-mens-norvan-ld-4-shoe": {
     "handle": "arcteryx-mens-norvan-ld-4-shoe",
     "title": "Arc'teryx Men's Norvan LD 4 Shoe",
