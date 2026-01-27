@@ -4904,7 +4904,7 @@
         "option2": null,
         "option3": null,
         "sku": "X000009625001",
-        "price": 220.0,
+        "price": 197.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -4915,7 +4915,7 @@
         "option2": null,
         "option3": null,
         "sku": "X000009625004",
-        "price": 220.0,
+        "price": 161.99,
         "available": true,
         "inventory_quantity": 1
       },
@@ -4946,7 +4946,7 @@
         "option2": null,
         "option3": null,
         "sku": "X000009624001",
-        "price": 200.0,
+        "price": 179.99,
         "available": false,
         "inventory_quantity": 0
       }
@@ -5451,7 +5451,7 @@
         "option2": "NA",
         "option3": null,
         "sku": "X000006136024",
-        "price": 120.0,
+        "price": 107.99,
         "available": false,
         "inventory_quantity": 0
       }
