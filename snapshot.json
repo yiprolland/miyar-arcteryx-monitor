@@ -143,7 +143,7 @@
     "title": "Arc'teryx Men's Norvan LD 4 GTX Shoe",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-mens-norvan-ld-4-gtx-shoe",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/F25-X000010397-Norvan-LD-4-GTX-Shoe-Black-Black-Profile.jpg?v=1768856372",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000010397-Norvan-LD-4-GTX-Shoe-Black-Black-Profile.jpg?v=1768856372",
     "variants": {
       "52778013098347": {
         "id": 52778013098347,
@@ -154,7 +154,7 @@
         "sku": "X000010397002",
         "price": 200.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52778013131115": {
         "id": 52778013131115,
@@ -165,7 +165,7 @@
         "sku": "X000010397003",
         "price": 200.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52778013163883": {
         "id": 52778013163883,
@@ -176,7 +176,7 @@
         "sku": "X000010397004",
         "price": 200.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52778013196651": {
         "id": 52778013196651,
@@ -187,7 +187,7 @@
         "sku": "X000010397005",
         "price": 200.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52778013229419": {
         "id": 52778013229419,
@@ -198,7 +198,7 @@
         "sku": "X000010397006",
         "price": 200.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52778013262187": {
         "id": 52778013262187,
@@ -209,7 +209,7 @@
         "sku": "X000010397007",
         "price": 200.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52778013294955": {
         "id": 52778013294955,
@@ -220,7 +220,7 @@
         "sku": "X000010397008",
         "price": 200.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52778013327723": {
         "id": 52778013327723,
@@ -231,7 +231,7 @@
         "sku": "X000010397009",
         "price": 200.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52778013360491": {
         "id": 52778013360491,
@@ -242,7 +242,7 @@
         "sku": "X000010397010",
         "price": 200.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
