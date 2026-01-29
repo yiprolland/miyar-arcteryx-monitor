@@ -5613,8 +5613,8 @@
         "option3": null,
         "sku": "X000009560022",
         "price": 280.0,
-        "available": true,
-        "inventory_quantity": 1
+        "available": false,
+        "inventory_quantity": 0
       },
       "51996154724715": {
         "id": 51996154724715,
@@ -7502,16 +7502,16 @@
     "title": "Arcteryx Micon Litric 32 Avalanche Backpack",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-micon-litric-32-avalanche-backpack",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/323201_790_097_01.jpg?v=1740169224",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/323201_790_097_01_4f206fa6-f0c8-45c8-94b3-c2b0ccf1084b.jpg?v=1769705828",
     "variants": {
-      "52153979535723": {
-        "id": 52153979535723,
-        "title": "Default Title",
-        "option1": "Default Title",
-        "option2": null,
+      "52863582732651": {
+        "id": 52863582732651,
+        "title": "Black / Regular",
+        "option1": "Black",
+        "option2": "Regular",
         "option3": null,
         "sku": "X000009987002",
-        "price": 1439.99,
+        "price": 1600.0,
         "available": false,
         "inventory_quantity": 0
       }
