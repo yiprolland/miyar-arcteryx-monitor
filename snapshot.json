@@ -66,7 +66,7 @@
         "option2": "8.5",
         "option3": null,
         "sku": "X000010398130",
-        "price": 126.99,
+        "price": 138.99,
         "available": true,
         "inventory_quantity": 5
       },
@@ -77,7 +77,7 @@
         "option2": "9",
         "option3": null,
         "sku": "X000010398131",
-        "price": 126.99,
+        "price": 138.99,
         "available": true,
         "inventory_quantity": 5
       },
@@ -88,7 +88,7 @@
         "option2": "9.5",
         "option3": null,
         "sku": "X000010398132",
-        "price": 126.99,
+        "price": 138.99,
         "available": true,
         "inventory_quantity": 5
       },
@@ -99,7 +99,7 @@
         "option2": "10",
         "option3": null,
         "sku": "X000010398133",
-        "price": 126.99,
+        "price": 138.99,
         "available": true,
         "inventory_quantity": 5
       },
@@ -6879,7 +6879,7 @@
         "option2": "12",
         "option3": null,
         "sku": "X000009614024",
-        "price": 117.99,
+        "price": 121.99,
         "available": true,
         "inventory_quantity": 1
       },
@@ -6890,7 +6890,7 @@
         "option2": "12.5",
         "option3": null,
         "sku": "X000009614025",
-        "price": 117.99,
+        "price": 121.99,
         "available": true,
         "inventory_quantity": 1
       },
@@ -6989,7 +6989,7 @@
         "option2": "10.5",
         "option3": null,
         "sku": "X000009614034",
-        "price": 116.99,
+        "price": 133.99,
         "available": true,
         "inventory_quantity": 2
       },
@@ -7011,7 +7011,7 @@
         "option2": "11.5",
         "option3": null,
         "sku": "X000009614036",
-        "price": 116.99,
+        "price": 121.99,
         "available": true,
         "inventory_quantity": 3
       },
@@ -7033,7 +7033,7 @@
         "option2": "12.5",
         "option3": null,
         "sku": "X000009614038",
-        "price": 114.99,
+        "price": 119.99,
         "available": true,
         "inventory_quantity": 1
       },
