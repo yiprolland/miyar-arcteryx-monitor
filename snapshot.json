@@ -143,8 +143,19 @@
     "title": "Arc'teryx Men's Norvan LD 4 GTX Shoe",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-mens-norvan-ld-4-gtx-shoe",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000010397-Norvan-LD-4-GTX-Shoe-Black-Black-Profile.jpg?v=1768856372",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000010397-Norvan-LD-4-GTX-Shoe-Black-Black-Profile.jpg?v=1770291030",
     "variants": {
+      "52884897366379": {
+        "id": 52884897366379,
+        "title": "Black/Black / 6.5",
+        "option1": "Black/Black",
+        "option2": "6.5",
+        "option3": null,
+        "sku": "X000010397001",
+        "price": 200.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
       "52778013098347": {
         "id": 52778013098347,
         "title": "Black/Black / 7.5",
@@ -348,8 +359,19 @@
     "title": "Arc'teryx KONSEAL GTX Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-konseal-gtx-mens",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009833-Konseal-GTX-Shoe-Black-Black-Profile.jpg?v=1768856363",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009833-Konseal-GTX-Shoe-Black-Black-Profile.jpg?v=1770291028",
     "variants": {
+      "52884896874859": {
+        "id": 52884896874859,
+        "title": "Black/Black / 7",
+        "option1": "Black/Black",
+        "option2": "7",
+        "option3": null,
+        "sku": "X000009833001",
+        "price": 220.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
       "52778012639595": {
         "id": 52778012639595,
         "title": "Black/Black / 7.5",
@@ -357,6 +379,17 @@
         "option2": "7.5",
         "option3": null,
         "sku": "X000009833002",
+        "price": 220.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52884896907627": {
+        "id": 52884896907627,
+        "title": "Black/Black / 8",
+        "option1": "Black/Black",
+        "option2": "8",
+        "option3": null,
+        "sku": "X000009833003",
         "price": 220.0,
         "available": false,
         "inventory_quantity": 0
@@ -390,6 +423,17 @@
         "option2": "9.5",
         "option3": null,
         "sku": "X000009833006",
+        "price": 220.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52884896940395": {
+        "id": 52884896940395,
+        "title": "Black/Black / 10",
+        "option1": "Black/Black",
+        "option2": "10",
+        "option3": null,
+        "sku": "X000009833007",
         "price": 220.0,
         "available": false,
         "inventory_quantity": 0
