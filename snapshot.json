@@ -6879,7 +6879,7 @@
         "option2": "12",
         "option3": null,
         "sku": "X000009614024",
-        "price": 121.99,
+        "price": 122.99,
         "available": true,
         "inventory_quantity": 1
       },
@@ -6890,7 +6890,7 @@
         "option2": "12.5",
         "option3": null,
         "sku": "X000009614025",
-        "price": 121.99,
+        "price": 122.99,
         "available": true,
         "inventory_quantity": 1
       },
@@ -7337,7 +7337,7 @@
         "option2": "12",
         "option3": null,
         "sku": "X000009601012",
-        "price": 184.99,
+        "price": 182.99,
         "available": true,
         "inventory_quantity": 1
       },
