@@ -101,7 +101,7 @@
         "sku": "X000010398133",
         "price": 170.0,
         "available": true,
-        "inventory_quantity": 5
+        "inventory_quantity": 2
       },
       "52778013589867": {
         "id": 52778013589867,
@@ -7057,7 +7057,7 @@
         "sku": "X000009614034",
         "price": 169.99,
         "available": true,
-        "inventory_quantity": 2
+        "inventory_quantity": 1
       },
       "52778011918699": {
         "id": 52778011918699,
