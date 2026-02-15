@@ -4771,8 +4771,8 @@
         "option3": null,
         "sku": "X000010511012",
         "price": 319.99,
-        "available": true,
-        "inventory_quantity": 1
+        "available": false,
+        "inventory_quantity": 0
       },
       "52196402102635": {
         "id": 52196402102635,
@@ -9169,8 +9169,8 @@
         "option3": null,
         "sku": "X000009239016",
         "price": 339.99,
-        "available": true,
-        "inventory_quantity": 2
+        "available": false,
+        "inventory_quantity": 0
       },
       "51648725418347": {
         "id": 51648725418347,
@@ -9202,8 +9202,8 @@
         "option3": null,
         "sku": "X000009239019",
         "price": 339.99,
-        "available": true,
-        "inventory_quantity": 2
+        "available": false,
+        "inventory_quantity": 0
       },
       "51701062500715": {
         "id": 51701062500715,
