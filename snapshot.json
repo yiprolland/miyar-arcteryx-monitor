@@ -454,6 +454,17 @@
     "url": "https://store.miyaradventures.com/products/arcteryx-konseal-mens",
     "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009834-Konseal-Shoe-Black-Black-Profile.jpg?v=1768856370",
     "variants": {
+      "52928876904811": {
+        "id": 52928876904811,
+        "title": "Black/Black / 7.5 / US",
+        "option1": "Black/Black",
+        "option2": "7.5",
+        "option3": "US",
+        "sku": "X000009834002",
+        "price": 170.99,
+        "available": false,
+        "inventory_quantity": 0
+      },
       "52778012836203": {
         "id": 52778012836203,
         "title": "Black/Black / 8 / US",
