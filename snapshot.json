@@ -1,4 +1,144 @@
 {
+  "arcteryx-granville-20-backpack": {
+    "handle": "arcteryx-granville-20-backpack",
+    "title": "Arc'teryx Granville 20 Backpack",
+    "vendor": "Arc'teryx",
+    "url": "https://store.miyaradventures.com/products/arcteryx-granville-20-backpack",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/31-487258-0-image-1313513.jpg?v=1771704765",
+    "variants": {
+      "52931287122283": {
+        "id": 52931287122283,
+        "title": "Default Title",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "sku": "18096 - 450523",
+        "price": 180.0,
+        "available": false,
+        "inventory_quantity": 0
+      }
+    }
+  },
+  "arcteryx-granville-zip-16-backpack": {
+    "handle": "arcteryx-granville-zip-16-backpack",
+    "title": "Arc'teryx Granville Zip 16 Backpack",
+    "vendor": "Arc'teryx",
+    "url": "https://store.miyaradventures.com/products/arcteryx-granville-zip-16-backpack",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/31-487259-0-image-1313514.jpg?v=1771704758",
+    "variants": {
+      "52931286958443": {
+        "id": 52931286958443,
+        "title": "Default Title",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "sku": "18792 - 450528",
+        "price": 180.0,
+        "available": false,
+        "inventory_quantity": 0
+      }
+    }
+  },
+  "arcteryx-aerios-30-backpack-mens": {
+    "handle": "arcteryx-aerios-30-backpack-mens",
+    "title": "Arc'teryx Aerios 30 Backpack Men's",
+    "vendor": "Arc'teryx",
+    "url": "https://store.miyaradventures.com/products/arcteryx-aerios-30-backpack-mens",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/Aerios-30-Backpack-Glade.jpg?v=1771704615",
+    "variants": {
+      "52931283255659": {
+        "id": 52931283255659,
+        "title": "Default Title",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "sku": "27337 - 451450",
+        "price": 190.0,
+        "available": false,
+        "inventory_quantity": 0
+      }
+    }
+  },
+  "arcteryx-aerios-30-backpack-womens": {
+    "handle": "arcteryx-aerios-30-backpack-womens",
+    "title": "Arc'teryx Aerios 30 Backpack Women's",
+    "vendor": "Arc'teryx",
+    "url": "https://store.miyaradventures.com/products/arcteryx-aerios-30-backpack-womens",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/Aerios-30-Backpack-W-Reflection.jpg?v=1771704611",
+    "variants": {
+      "52931282534763": {
+        "id": 52931282534763,
+        "title": "Default Title",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "sku": "27340 - 451456",
+        "price": 190.0,
+        "available": false,
+        "inventory_quantity": 0
+      }
+    }
+  },
+  "arcteryx-rush-sk-32-backpack": {
+    "handle": "arcteryx-rush-sk-32-backpack",
+    "title": "Arc'teryx Rush SK 32 Backpack",
+    "vendor": "Arc'teryx",
+    "url": "https://store.miyaradventures.com/products/arcteryx-rush-sk-32-backpack",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/Rush-SK-32-Backpack-Black.jpg?v=1771704580",
+    "variants": {
+      "52931282141547": {
+        "id": 52931282141547,
+        "title": "Default Title",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "sku": "27452 - 472999",
+        "price": 220.0,
+        "available": false,
+        "inventory_quantity": 0
+      }
+    }
+  },
+  "arcteryx-rush-sk-42-backpack": {
+    "handle": "arcteryx-rush-sk-42-backpack",
+    "title": "Arc'teryx Rush SK 42 Backpack",
+    "vendor": "Arc'teryx",
+    "url": "https://store.miyaradventures.com/products/arcteryx-rush-sk-42-backpack",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/Rush-SK-42-Backpack-Tatsu.jpg?v=1771704575",
+    "variants": {
+      "52931280339307": {
+        "id": 52931280339307,
+        "title": "Default Title",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "sku": "27453 - 473020",
+        "price": 240.0,
+        "available": false,
+        "inventory_quantity": 0
+      }
+    }
+  },
+  "arcteryx-bora-75-backpack-mens": {
+    "handle": "arcteryx-bora-75-backpack-mens",
+    "title": "Arc'teryx Bora 75 Backpack Men's",
+    "vendor": "Arc'teryx",
+    "url": "https://store.miyaradventures.com/products/arcteryx-bora-75-backpack-mens",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/Bora-75-Backpack-Tatsu.jpg?v=1771704560",
+    "variants": {
+      "52931279978859": {
+        "id": 52931279978859,
+        "title": "Default Title",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "sku": "25176 - 450564",
+        "price": 360.0,
+        "available": false,
+        "inventory_quantity": 0
+      }
+    }
+  },
   "arcteryx-kragg-sl-cotton-emblem-crew-shirt-ss-womens": {
     "handle": "arcteryx-kragg-sl-cotton-emblem-crew-shirt-ss-womens",
     "title": "Arc'teryx Kragg SL Cotton Emblem Crew Shirt SS Women's",
@@ -9365,156 +9505,6 @@
         "price": 110.99,
         "available": true,
         "inventory_quantity": 1
-      }
-    }
-  },
-  "arcteryx-sabre-jacket-mens": {
-    "handle": "arcteryx-sabre-jacket-mens",
-    "title": "Arc'teryx Sabre Jacket Men's",
-    "vendor": "Arc'teryx",
-    "url": "https://store.miyaradventures.com/products/arcteryx-sabre-jacket-mens",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F24-X000008922-Sabre-Jacket-Black-Front-View_a473acf6-9694-42f7-aac7-fa17a75e04d4.jpg?v=1731589653",
-    "variants": {
-      "44629151383713": {
-        "id": 44629151383713,
-        "title": "Black / S",
-        "option1": "Black",
-        "option2": "S",
-        "option3": null,
-        "sku": "X000008922003",
-        "price": 395.99,
-        "available": true,
-        "inventory_quantity": 1
-      },
-      "44629151416481": {
-        "id": 44629151416481,
-        "title": "Black / M",
-        "option1": "Black",
-        "option2": "M",
-        "option3": null,
-        "sku": "X000008922004",
-        "price": 750.0,
-        "available": true,
-        "inventory_quantity": 1
-      },
-      "44629151449249": {
-        "id": 44629151449249,
-        "title": "Black / L",
-        "option1": "Black",
-        "option2": "L",
-        "option3": null,
-        "sku": "X000008922005",
-        "price": 750.0,
-        "available": false,
-        "inventory_quantity": 0
-      },
-      "44629151482017": {
-        "id": 44629151482017,
-        "title": "Black / XL",
-        "option1": "Black",
-        "option2": "XL",
-        "option3": null,
-        "sku": "X000008922006",
-        "price": 750.0,
-        "available": false,
-        "inventory_quantity": 0
-      },
-      "51702061531499": {
-        "id": 51702061531499,
-        "title": "Stratus / S",
-        "option1": "Stratus",
-        "option2": "S",
-        "option3": null,
-        "sku": "X000008922015",
-        "price": 408.99,
-        "available": false,
-        "inventory_quantity": 0
-      },
-      "51702061564267": {
-        "id": 51702061564267,
-        "title": "Stratus / M",
-        "option1": "Stratus",
-        "option2": "M",
-        "option3": null,
-        "sku": "X000008922016",
-        "price": 750.0,
-        "available": false,
-        "inventory_quantity": 0
-      },
-      "51702061597035": {
-        "id": 51702061597035,
-        "title": "Stratus / L",
-        "option1": "Stratus",
-        "option2": "L",
-        "option3": null,
-        "sku": "X000008922017",
-        "price": 750.0,
-        "available": false,
-        "inventory_quantity": 0
-      },
-      "51702061629803": {
-        "id": 51702061629803,
-        "title": "Stratus / XL",
-        "option1": "Stratus",
-        "option2": "XL",
-        "option3": null,
-        "sku": "X000008922018",
-        "price": 750.0,
-        "available": false,
-        "inventory_quantity": 0
-      }
-    }
-  },
-  "arcteryx-cerium-jacket-womens": {
-    "handle": "arcteryx-cerium-jacket-womens",
-    "title": "Arc'teryx Cerium Jacket Women's",
-    "vendor": "Arc'teryx",
-    "url": "https://store.miyaradventures.com/products/arcteryx-cerium-jacket-womens",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F24-X000007170-Cerium-Jacket-Black-II-Women-s-Front-View.jpg?v=1726779308",
-    "variants": {
-      "44629151252641": {
-        "id": 44629151252641,
-        "title": "Black II / XS",
-        "option1": "Black II",
-        "option2": "XS",
-        "option3": null,
-        "sku": "X000007170038",
-        "price": 380.0,
-        "available": false,
-        "inventory_quantity": 0
-      },
-      "44629151285409": {
-        "id": 44629151285409,
-        "title": "Black II / S",
-        "option1": "Black II",
-        "option2": "S",
-        "option3": null,
-        "sku": "X000007170039",
-        "price": 380.0,
-        "available": false,
-        "inventory_quantity": 0
-      },
-      "44629151318177": {
-        "id": 44629151318177,
-        "title": "Black II / M",
-        "option1": "Black II",
-        "option2": "M",
-        "option3": null,
-        "sku": "X000007170040",
-        "price": 380.0,
-        "available": false,
-        "inventory_quantity": 0
-      },
-      "44629151350945": {
-        "id": 44629151350945,
-        "title": "Black II / L",
-        "option1": "Black II",
-        "option2": "L",
-        "option3": null,
-        "sku": "X000007170041",
-        "price": 380.0,
-        "available": false,
-        "inventory_quantity": 0
       }
     }
   }
