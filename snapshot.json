@@ -183,7 +183,7 @@
         "option2": null,
         "option3": null,
         "sku": "X000010384002",
-        "price": 125.99,
+        "price": 140.0,
         "available": false,
         "inventory_quantity": 0
       }
@@ -752,7 +752,7 @@
         "option2": null,
         "option3": null,
         "sku": "X000010358006",
-        "price": 71.99,
+        "price": 80.0,
         "available": false,
         "inventory_quantity": 0
       }
@@ -772,7 +772,7 @@
         "option2": "Reg",
         "option3": null,
         "sku": "X000009588011",
-        "price": 207.99,
+        "price": 250.0,
         "available": true,
         "inventory_quantity": 1
       }
@@ -792,7 +792,7 @@
         "option2": "Reg",
         "option3": null,
         "sku": "X000010349001",
-        "price": 232.99,
+        "price": 280.0,
         "available": true,
         "inventory_quantity": 1
       }
@@ -5259,7 +5259,7 @@
         "option2": null,
         "option3": null,
         "sku": "X000009625001",
-        "price": 197.99,
+        "price": 220.0,
         "available": false,
         "inventory_quantity": 0
       },
@@ -5270,7 +5270,7 @@
         "option2": null,
         "option3": null,
         "sku": "X000009625004",
-        "price": 197.99,
+        "price": 220.0,
         "available": false,
         "inventory_quantity": 0
       },
@@ -5301,7 +5301,7 @@
         "option2": null,
         "option3": null,
         "sku": "X000009624001",
-        "price": 179.99,
+        "price": 200.0,
         "available": false,
         "inventory_quantity": 0
       }
@@ -5786,7 +5786,7 @@
         "option2": null,
         "option3": null,
         "sku": "X000010643001",
-        "price": 143.99,
+        "price": 160.0,
         "available": false,
         "inventory_quantity": 0
       }
@@ -5806,7 +5806,7 @@
         "option2": "NA",
         "option3": null,
         "sku": "X000006136024",
-        "price": 107.99,
+        "price": 120.0,
         "available": false,
         "inventory_quantity": 0
       }
