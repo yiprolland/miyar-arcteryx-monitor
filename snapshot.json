@@ -9264,25 +9264,5 @@
         "inventory_quantity": 0
       }
     }
-  },
-  "arcteryx-nuclei-sv-parka-mens-1": {
-    "handle": "arcteryx-nuclei-sv-parka-mens-1",
-    "title": "Arc'teryx Nuclei SV Parka Men's",
-    "vendor": "Arc'teryx",
-    "url": "https://store.miyaradventures.com/products/arcteryx-nuclei-sv-parka-mens-1",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/AX-W23-Nuclei-SV-Parka-F1_700x933_7b95b99e-0cf6-476d-b308-6b1345f30c5b.jpg?v=1729014590",
-    "variants": {
-      "52153978782059": {
-        "id": 52153978782059,
-        "title": "Default Title",
-        "option1": "Default Title",
-        "option2": null,
-        "option3": null,
-        "sku": "X000008437003",
-        "price": 500.0,
-        "available": false,
-        "inventory_quantity": 0
-      }
-    }
   }
 }
