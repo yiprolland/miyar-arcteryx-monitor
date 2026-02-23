@@ -323,7 +323,7 @@
         "option2": null,
         "option3": null,
         "sku": "X000010384002",
-        "price": 140.0,
+        "price": 125.99,
         "available": false,
         "inventory_quantity": 0
       }
@@ -374,7 +374,7 @@
         "option2": "7.5",
         "option3": "US",
         "sku": "X000010398128",
-        "price": 170.0,
+        "price": 152.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -385,7 +385,7 @@
         "option2": "8",
         "option3": "US",
         "sku": "X000010398129",
-        "price": 170.0,
+        "price": 152.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -396,7 +396,7 @@
         "option2": "8.5",
         "option3": "US",
         "sku": "X000010398130",
-        "price": 170.0,
+        "price": 152.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -407,7 +407,7 @@
         "option2": "9",
         "option3": "US",
         "sku": "X000010398131",
-        "price": 170.0,
+        "price": 152.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -418,7 +418,7 @@
         "option2": "9.5",
         "option3": "US",
         "sku": "X000010398132",
-        "price": 170.0,
+        "price": 152.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -429,7 +429,7 @@
         "option2": "10",
         "option3": "US",
         "sku": "X000010398133",
-        "price": 170.0,
+        "price": 152.99,
         "available": false,
         "inventory_quantity": -5
       },
@@ -440,7 +440,7 @@
         "option2": "10.5",
         "option3": "US",
         "sku": "X000010398134",
-        "price": 170.0,
+        "price": 135.99,
         "available": false,
         "inventory_quantity": -3
       },
@@ -451,7 +451,7 @@
         "option2": "11",
         "option3": "US",
         "sku": "X000010398135",
-        "price": 170.0,
+        "price": 135.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -462,7 +462,7 @@
         "option2": "11.5",
         "option3": "US",
         "sku": "X000010398136",
-        "price": 170.0,
+        "price": 135.99,
         "available": false,
         "inventory_quantity": 0
       }
@@ -482,7 +482,7 @@
         "option2": "7",
         "option3": "US",
         "sku": "X000010397001",
-        "price": 200.0,
+        "price": 179.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -493,7 +493,7 @@
         "option2": "7.5",
         "option3": "US",
         "sku": "X000010397002",
-        "price": 200.0,
+        "price": 179.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -504,7 +504,7 @@
         "option2": "8",
         "option3": "US",
         "sku": "X000010397003",
-        "price": 200.0,
+        "price": 179.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -515,7 +515,7 @@
         "option2": "8.5",
         "option3": "US",
         "sku": "X000010397004",
-        "price": 200.0,
+        "price": 179.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -526,7 +526,7 @@
         "option2": "9",
         "option3": "US",
         "sku": "X000010397005",
-        "price": 200.0,
+        "price": 179.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -537,7 +537,7 @@
         "option2": "9.5",
         "option3": "US",
         "sku": "X000010397006",
-        "price": 200.0,
+        "price": 179.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -548,7 +548,7 @@
         "option2": "10",
         "option3": "US",
         "sku": "X000010397007",
-        "price": 200.0,
+        "price": 179.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -559,7 +559,7 @@
         "option2": "10.5",
         "option3": "US",
         "sku": "X000010397008",
-        "price": 200.0,
+        "price": 179.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -570,7 +570,7 @@
         "option2": "11",
         "option3": "US",
         "sku": "X000010397009",
-        "price": 200.0,
+        "price": 179.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -612,7 +612,7 @@
         "option2": "8",
         "option3": "US",
         "sku": "X000009834003",
-        "price": 190.0,
+        "price": 170.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -623,7 +623,7 @@
         "option2": "8.5",
         "option3": "US",
         "sku": "X000009834004",
-        "price": 190.0,
+        "price": 170.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -634,7 +634,7 @@
         "option2": "9",
         "option3": "US",
         "sku": "X000009834005",
-        "price": 190.0,
+        "price": 170.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -645,7 +645,7 @@
         "option2": "9.5",
         "option3": "US",
         "sku": "X000009834006",
-        "price": 190.0,
+        "price": 170.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -656,7 +656,7 @@
         "option2": "10",
         "option3": "US",
         "sku": "X000009834007",
-        "price": 190.0,
+        "price": 170.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -667,7 +667,7 @@
         "option2": "10.5",
         "option3": "US",
         "sku": "X000009834008",
-        "price": 190.0,
+        "price": 170.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -709,7 +709,7 @@
         "option2": "7",
         "option3": "US",
         "sku": "X000009833001",
-        "price": 220.0,
+        "price": 197.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -720,7 +720,7 @@
         "option2": "7.5",
         "option3": "US",
         "sku": "X000009833002",
-        "price": 220.0,
+        "price": 197.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -731,7 +731,7 @@
         "option2": "8",
         "option3": "US",
         "sku": "X000009833003",
-        "price": 220.0,
+        "price": 197.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -742,7 +742,7 @@
         "option2": "8.5",
         "option3": "US",
         "sku": "X000009833004",
-        "price": 220.0,
+        "price": 197.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -753,7 +753,7 @@
         "option2": "9",
         "option3": "US",
         "sku": "X000009833005",
-        "price": 220.0,
+        "price": 197.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -764,7 +764,7 @@
         "option2": "9.5",
         "option3": "US",
         "sku": "X000009833006",
-        "price": 220.0,
+        "price": 197.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -775,7 +775,7 @@
         "option2": "10",
         "option3": "US",
         "sku": "X000009833007",
-        "price": 220.0,
+        "price": 197.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -786,7 +786,7 @@
         "option2": "10.5",
         "option3": "US",
         "sku": "X000009833008",
-        "price": 220.0,
+        "price": 197.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -892,7 +892,7 @@
         "option2": null,
         "option3": null,
         "sku": "X000010358006",
-        "price": 80.0,
+        "price": 71.99,
         "available": false,
         "inventory_quantity": 0
       }
@@ -912,7 +912,7 @@
         "option2": "Reg",
         "option3": null,
         "sku": "X000009588011",
-        "price": 250.0,
+        "price": 207.99,
         "available": true,
         "inventory_quantity": 1
       }
@@ -932,7 +932,7 @@
         "option2": "Reg",
         "option3": null,
         "sku": "X000010349001",
-        "price": 280.0,
+        "price": 232.99,
         "available": true,
         "inventory_quantity": 1
       }
@@ -5399,7 +5399,7 @@
         "option2": null,
         "option3": null,
         "sku": "X000009625001",
-        "price": 220.0,
+        "price": 197.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -5410,7 +5410,7 @@
         "option2": null,
         "option3": null,
         "sku": "X000009625004",
-        "price": 220.0,
+        "price": 197.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -5441,7 +5441,7 @@
         "option2": null,
         "option3": null,
         "sku": "X000009624001",
-        "price": 200.0,
+        "price": 179.99,
         "available": false,
         "inventory_quantity": 0
       }
@@ -5926,7 +5926,7 @@
         "option2": null,
         "option3": null,
         "sku": "X000010643001",
-        "price": 160.0,
+        "price": 143.99,
         "available": false,
         "inventory_quantity": 0
       }
@@ -5946,7 +5946,7 @@
         "option2": "NA",
         "option3": null,
         "sku": "X000006136024",
-        "price": 120.0,
+        "price": 107.99,
         "available": false,
         "inventory_quantity": 0
       }
@@ -7101,7 +7101,7 @@
         "option2": "8.5",
         "option3": null,
         "sku": "X000010023004",
-        "price": 179.99,
+        "price": 160.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -7123,7 +7123,7 @@
         "option2": "9.5",
         "option3": null,
         "sku": "X000010023006",
-        "price": 179.99,
+        "price": 160.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -7134,7 +7134,7 @@
         "option2": "10",
         "option3": null,
         "sku": "X000010023007",
-        "price": 179.99,
+        "price": 160.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -7145,7 +7145,7 @@
         "option2": "10.5",
         "option3": null,
         "sku": "X000010023008",
-        "price": 179.99,
+        "price": 160.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -7167,7 +7167,7 @@
         "option2": "11.5",
         "option3": null,
         "sku": "X000010023010",
-        "price": 179.99,
+        "price": 160.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -7178,7 +7178,7 @@
         "option2": "12",
         "option3": null,
         "sku": "X000010023011",
-        "price": 179.99,
+        "price": 160.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -7189,7 +7189,7 @@
         "option2": "12.5",
         "option3": null,
         "sku": "X000010023012",
-        "price": 179.99,
+        "price": 124.99,
         "available": true,
         "inventory_quantity": 2
       },
@@ -7330,7 +7330,7 @@
         "option2": "10",
         "option3": null,
         "sku": "X000009614020",
-        "price": 169.99,
+        "price": 151.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -7341,7 +7341,7 @@
         "option2": "10.5",
         "option3": null,
         "sku": "X000009614021",
-        "price": 169.99,
+        "price": 151.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -7352,7 +7352,7 @@
         "option2": "11",
         "option3": null,
         "sku": "X000009614022",
-        "price": 169.99,
+        "price": 151.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -7363,7 +7363,7 @@
         "option2": "11.5",
         "option3": null,
         "sku": "X000009614023",
-        "price": 169.99,
+        "price": 151.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -7374,7 +7374,7 @@
         "option2": "12",
         "option3": null,
         "sku": "X000009614024",
-        "price": 169.99,
+        "price": 117.99,
         "available": true,
         "inventory_quantity": 1
       },
@@ -7385,7 +7385,7 @@
         "option2": "12.5",
         "option3": null,
         "sku": "X000009614025",
-        "price": 169.99,
+        "price": 117.99,
         "available": true,
         "inventory_quantity": 1
       },
@@ -7440,7 +7440,7 @@
         "option2": "8.5",
         "option3": null,
         "sku": "X000009614030",
-        "price": 169.99,
+        "price": 151.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -7462,7 +7462,7 @@
         "option2": "9.5",
         "option3": null,
         "sku": "X000009614032",
-        "price": 169.99,
+        "price": 151.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -7484,7 +7484,7 @@
         "option2": "10.5",
         "option3": null,
         "sku": "X000009614034",
-        "price": 169.99,
+        "price": 134.99,
         "available": true,
         "inventory_quantity": 1
       },
@@ -7506,7 +7506,7 @@
         "option2": "11.5",
         "option3": null,
         "sku": "X000009614036",
-        "price": 169.99,
+        "price": 117.99,
         "available": true,
         "inventory_quantity": 3
       },
@@ -7528,7 +7528,7 @@
         "option2": "12.5",
         "option3": null,
         "sku": "X000009614038",
-        "price": 169.99,
+        "price": 117.99,
         "available": true,
         "inventory_quantity": 1
       },
@@ -7603,7 +7603,7 @@
         "option2": "9",
         "option3": null,
         "sku": "X000009612031",
-        "price": 199.99,
+        "price": 178.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -7625,7 +7625,7 @@
         "option2": "10",
         "option3": null,
         "sku": "X000009612033",
-        "price": 199.99,
+        "price": 178.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -7636,7 +7636,7 @@
         "option2": "10.5",
         "option3": null,
         "sku": "X000009612034",
-        "price": 199.99,
+        "price": 178.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -7658,7 +7658,7 @@
         "option2": "11.5",
         "option3": null,
         "sku": "X000009612036",
-        "price": 199.99,
+        "price": 148.99,
         "available": true,
         "inventory_quantity": 2
       },
@@ -7669,7 +7669,7 @@
         "option2": "12",
         "option3": null,
         "sku": "X000009612037",
-        "price": 199.99,
+        "price": 178.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -7680,7 +7680,7 @@
         "option2": "12.5",
         "option3": null,
         "sku": "X000009612038",
-        "price": 199.99,
+        "price": 138.99,
         "available": true,
         "inventory_quantity": 2
       },
@@ -7711,7 +7711,7 @@
         "option2": "7",
         "option3": null,
         "sku": "X000009601001",
-        "price": 229.99,
+        "price": 205.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -7722,7 +7722,7 @@
         "option2": "7.5",
         "option3": null,
         "sku": "X000009601002",
-        "price": 229.99,
+        "price": 205.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -7733,7 +7733,7 @@
         "option2": "8",
         "option3": null,
         "sku": "X000009601003",
-        "price": 229.99,
+        "price": 205.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -7744,7 +7744,7 @@
         "option2": "8.5",
         "option3": null,
         "sku": "X000009601004",
-        "price": 229.99,
+        "price": 205.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -7755,7 +7755,7 @@
         "option2": "9",
         "option3": null,
         "sku": "X000009601005",
-        "price": 229.99,
+        "price": 205.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -7766,7 +7766,7 @@
         "option2": "9.5",
         "option3": null,
         "sku": "X000009601006",
-        "price": 229.99,
+        "price": 205.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -7777,7 +7777,7 @@
         "option2": "10",
         "option3": null,
         "sku": "X000009601007",
-        "price": 229.99,
+        "price": 205.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -7788,7 +7788,7 @@
         "option2": "10.5",
         "option3": null,
         "sku": "X000009601008",
-        "price": 229.99,
+        "price": 205.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -7799,7 +7799,7 @@
         "option2": "11",
         "option3": null,
         "sku": "X000009601009",
-        "price": 229.99,
+        "price": 205.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -7810,7 +7810,7 @@
         "option2": "11.5",
         "option3": null,
         "sku": "X000009601010",
-        "price": 229.99,
+        "price": 205.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -7821,7 +7821,7 @@
         "option2": "12",
         "option3": null,
         "sku": "X000009601011",
-        "price": 229.99,
+        "price": 182.99,
         "available": true,
         "inventory_quantity": 1
       },
@@ -7832,7 +7832,7 @@
         "option2": "12.5",
         "option3": null,
         "sku": "X000009601012",
-        "price": 229.99,
+        "price": 182.99,
         "available": true,
         "inventory_quantity": 1
       },
@@ -7887,7 +7887,7 @@
         "option2": "8.5",
         "option3": null,
         "sku": "X000009601093",
-        "price": 229.99,
+        "price": 182.99,
         "available": true,
         "inventory_quantity": 1
       },
@@ -7898,7 +7898,7 @@
         "option2": "9",
         "option3": null,
         "sku": "X000009601094",
-        "price": 229.99,
+        "price": 182.99,
         "available": true,
         "inventory_quantity": 1
       },
@@ -7909,7 +7909,7 @@
         "option2": "9.5",
         "option3": null,
         "sku": "X000009601095",
-        "price": 229.99,
+        "price": 182.99,
         "available": true,
         "inventory_quantity": 2
       },
@@ -7920,7 +7920,7 @@
         "option2": "10",
         "option3": null,
         "sku": "X000009601096",
-        "price": 229.99,
+        "price": 182.99,
         "available": true,
         "inventory_quantity": 1
       },
@@ -7931,7 +7931,7 @@
         "option2": "10.5",
         "option3": null,
         "sku": "X000009601097",
-        "price": 229.99,
+        "price": 182.99,
         "available": true,
         "inventory_quantity": 1
       },
@@ -7942,7 +7942,7 @@
         "option2": "11",
         "option3": null,
         "sku": "X000009601098",
-        "price": 229.99,
+        "price": 182.99,
         "available": true,
         "inventory_quantity": 1
       },
@@ -7953,7 +7953,7 @@
         "option2": "11.5",
         "option3": null,
         "sku": "X000009601099",
-        "price": 229.99,
+        "price": 182.99,
         "available": true,
         "inventory_quantity": 2
       },
@@ -7964,7 +7964,7 @@
         "option2": "12",
         "option3": null,
         "sku": "X000009601100",
-        "price": 229.99,
+        "price": 182.99,
         "available": true,
         "inventory_quantity": 1
       },
@@ -7975,7 +7975,7 @@
         "option2": "12.5",
         "option3": null,
         "sku": "X000009601101",
-        "price": 229.99,
+        "price": 182.99,
         "available": true,
         "inventory_quantity": 1
       },
