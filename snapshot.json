@@ -1,4 +1,139 @@
 {
+  "arcteryx-norvan-windshell-hoody-mens": {
+    "handle": "arcteryx-norvan-windshell-hoody-mens",
+    "title": "Arc'teryx Norvan Windshell Hoody Men's",
+    "vendor": "Arc'teryx",
+    "url": "https://store.miyaradventures.com/products/arcteryx-norvan-windshell-hoody-mens",
+    "image": null,
+    "variants": {
+      "52936376222059": {
+        "id": 52936376222059,
+        "title": "Black/Graphite / S",
+        "option1": "Black/Graphite",
+        "option2": "S",
+        "option3": null,
+        "sku": "X000010354003",
+        "price": 220.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52936376254827": {
+        "id": 52936376254827,
+        "title": "Black/Graphite / M",
+        "option1": "Black/Graphite",
+        "option2": "M",
+        "option3": null,
+        "sku": "X000010354004",
+        "price": 220.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52936376287595": {
+        "id": 52936376287595,
+        "title": "Black/Graphite / L",
+        "option1": "Black/Graphite",
+        "option2": "L",
+        "option3": null,
+        "sku": "X000010354005",
+        "price": 220.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52936376320363": {
+        "id": 52936376320363,
+        "title": "Black/Graphite / XL",
+        "option1": "Black/Graphite",
+        "option2": "XL",
+        "option3": null,
+        "sku": "X000010354006",
+        "price": 220.0,
+        "available": false,
+        "inventory_quantity": 0
+      }
+    }
+  },
+  "arcteryx-squamish-jacket-mens": {
+    "handle": "arcteryx-squamish-jacket-mens",
+    "title": "Arc'teryx Squamish Jacket Men's",
+    "vendor": "Arc'teryx",
+    "url": "https://store.miyaradventures.com/products/arcteryx-squamish-jacket-mens",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S26-X000010284-Squamish-Jacket-Black-Front-View.jpg?v=1771942456",
+    "variants": {
+      "52936376156523": {
+        "id": 52936376156523,
+        "title": "Black / S",
+        "option1": "Black",
+        "option2": "S",
+        "option3": null,
+        "sku": "X000010284009",
+        "price": 180.0,
+        "available": false,
+        "inventory_quantity": 0
+      }
+    }
+  },
+  "arcteryx-gamma-mx-hoody-womens": {
+    "handle": "arcteryx-gamma-mx-hoody-womens",
+    "title": "Arc'teryx Gamma MX Hoody Women's",
+    "vendor": "Arc'teryx",
+    "url": "https://store.miyaradventures.com/products/arcteryx-gamma-mx-hoody-womens",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009456-Gamma-MX-Hoody-Arctic-Silk-Women-s-Front-View.jpg?v=1771942453",
+    "variants": {
+      "52936376123755": {
+        "id": 52936376123755,
+        "title": "Arctic Silk / L",
+        "option1": "Arctic Silk",
+        "option2": "L",
+        "option3": null,
+        "sku": "X000009456027",
+        "price": 400.0,
+        "available": false,
+        "inventory_quantity": 0
+      }
+    }
+  },
+  "arcteryx-incendo-pant-mens": {
+    "handle": "arcteryx-incendo-pant-mens",
+    "title": "Arc'teryx Incendo Pant Men's",
+    "vendor": "Arc'teryx",
+    "url": "https://store.miyaradventures.com/products/arcteryx-incendo-pant-mens",
+    "image": null,
+    "variants": {
+      "52936376025451": {
+        "id": 52936376025451,
+        "title": "Black / M / Regular",
+        "option1": "Black",
+        "option2": "M",
+        "option3": "Regular",
+        "sku": "X000007992003",
+        "price": 130.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52936376058219": {
+        "id": 52936376058219,
+        "title": "Black / L / Regular",
+        "option1": "Black",
+        "option2": "L",
+        "option3": "Regular",
+        "sku": "X000007992004",
+        "price": 130.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52936376090987": {
+        "id": 52936376090987,
+        "title": "Black / XL / Regular",
+        "option1": "Black",
+        "option2": "XL",
+        "option3": "Regular",
+        "sku": "X000007992005",
+        "price": 130.0,
+        "available": false,
+        "inventory_quantity": 0
+      }
+    }
+  },
   "arcteryx-granville-20-backpack": {
     "handle": "arcteryx-granville-20-backpack",
     "title": "Arc'teryx Granville 20 Backpack",
@@ -323,7 +458,7 @@
         "option2": null,
         "option3": null,
         "sku": "X000010384002",
-        "price": 125.99,
+        "price": 140.0,
         "available": false,
         "inventory_quantity": 0
       }
@@ -334,8 +469,19 @@
     "title": "Arc'teryx Kyanite Lightweight Jacket Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-kyanite-lightweight-jacket-mens",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/unnamed_19_763b29b2-f418-4914-aa12-a706a89ca23b.png?v=1769010410",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/unnamed_19_763b29b2-f418-4914-aa12-a706a89ca23b.png?v=1771942441",
     "variants": {
+      "52936375665003": {
+        "id": 52936375665003,
+        "title": "Black / S",
+        "option1": "Black",
+        "option2": "S",
+        "option3": null,
+        "sku": "X000009640002",
+        "price": 140.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
       "52783807889771": {
         "id": 52783807889771,
         "title": "Black / M",
@@ -357,6 +503,39 @@
         "price": 140.0,
         "available": false,
         "inventory_quantity": 0
+      },
+      "52936375697771": {
+        "id": 52936375697771,
+        "title": "Black Sapphire / S",
+        "option1": "Black Sapphire",
+        "option2": "S",
+        "option3": null,
+        "sku": "X000009640008",
+        "price": 140.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52936375730539": {
+        "id": 52936375730539,
+        "title": "Black Sapphire / M",
+        "option1": "Black Sapphire",
+        "option2": "M",
+        "option3": null,
+        "sku": "X000009640009",
+        "price": 140.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52936375763307": {
+        "id": 52936375763307,
+        "title": "Black Sapphire / L",
+        "option1": "Black Sapphire",
+        "option2": "L",
+        "option3": null,
+        "sku": "X000009640010",
+        "price": 140.0,
+        "available": false,
+        "inventory_quantity": 0
       }
     }
   },
@@ -374,7 +553,7 @@
         "option2": "7.5",
         "option3": "US",
         "sku": "X000010398128",
-        "price": 152.99,
+        "price": 170.0,
         "available": false,
         "inventory_quantity": 0
       },
@@ -385,7 +564,7 @@
         "option2": "8",
         "option3": "US",
         "sku": "X000010398129",
-        "price": 152.99,
+        "price": 170.0,
         "available": false,
         "inventory_quantity": 0
       },
@@ -396,7 +575,7 @@
         "option2": "8.5",
         "option3": "US",
         "sku": "X000010398130",
-        "price": 152.99,
+        "price": 170.0,
         "available": false,
         "inventory_quantity": 0
       },
@@ -407,7 +586,7 @@
         "option2": "9",
         "option3": "US",
         "sku": "X000010398131",
-        "price": 152.99,
+        "price": 170.0,
         "available": false,
         "inventory_quantity": 0
       },
@@ -418,7 +597,7 @@
         "option2": "9.5",
         "option3": "US",
         "sku": "X000010398132",
-        "price": 152.99,
+        "price": 170.0,
         "available": false,
         "inventory_quantity": 0
       },
@@ -429,7 +608,7 @@
         "option2": "10",
         "option3": "US",
         "sku": "X000010398133",
-        "price": 152.99,
+        "price": 170.0,
         "available": false,
         "inventory_quantity": -5
       },
@@ -440,7 +619,7 @@
         "option2": "10.5",
         "option3": "US",
         "sku": "X000010398134",
-        "price": 135.99,
+        "price": 170.0,
         "available": false,
         "inventory_quantity": -3
       },
@@ -451,7 +630,7 @@
         "option2": "11",
         "option3": "US",
         "sku": "X000010398135",
-        "price": 135.99,
+        "price": 170.0,
         "available": false,
         "inventory_quantity": 0
       },
@@ -462,7 +641,7 @@
         "option2": "11.5",
         "option3": "US",
         "sku": "X000010398136",
-        "price": 135.99,
+        "price": 170.0,
         "available": false,
         "inventory_quantity": 0
       }
@@ -482,7 +661,7 @@
         "option2": "7",
         "option3": "US",
         "sku": "X000010397001",
-        "price": 179.99,
+        "price": 200.0,
         "available": false,
         "inventory_quantity": 0
       },
@@ -493,7 +672,7 @@
         "option2": "7.5",
         "option3": "US",
         "sku": "X000010397002",
-        "price": 179.99,
+        "price": 200.0,
         "available": false,
         "inventory_quantity": 0
       },
@@ -504,7 +683,7 @@
         "option2": "8",
         "option3": "US",
         "sku": "X000010397003",
-        "price": 179.99,
+        "price": 200.0,
         "available": false,
         "inventory_quantity": 0
       },
@@ -515,7 +694,7 @@
         "option2": "8.5",
         "option3": "US",
         "sku": "X000010397004",
-        "price": 179.99,
+        "price": 200.0,
         "available": false,
         "inventory_quantity": 0
       },
@@ -526,7 +705,7 @@
         "option2": "9",
         "option3": "US",
         "sku": "X000010397005",
-        "price": 179.99,
+        "price": 200.0,
         "available": false,
         "inventory_quantity": 0
       },
@@ -537,7 +716,7 @@
         "option2": "9.5",
         "option3": "US",
         "sku": "X000010397006",
-        "price": 179.99,
+        "price": 200.0,
         "available": false,
         "inventory_quantity": 0
       },
@@ -548,7 +727,7 @@
         "option2": "10",
         "option3": "US",
         "sku": "X000010397007",
-        "price": 179.99,
+        "price": 200.0,
         "available": false,
         "inventory_quantity": 0
       },
@@ -559,7 +738,7 @@
         "option2": "10.5",
         "option3": "US",
         "sku": "X000010397008",
-        "price": 179.99,
+        "price": 200.0,
         "available": false,
         "inventory_quantity": 0
       },
@@ -570,7 +749,7 @@
         "option2": "11",
         "option3": "US",
         "sku": "X000010397009",
-        "price": 179.99,
+        "price": 200.0,
         "available": false,
         "inventory_quantity": 0
       },
@@ -612,7 +791,7 @@
         "option2": "8",
         "option3": "US",
         "sku": "X000009834003",
-        "price": 170.99,
+        "price": 190.0,
         "available": false,
         "inventory_quantity": 0
       },
@@ -623,7 +802,7 @@
         "option2": "8.5",
         "option3": "US",
         "sku": "X000009834004",
-        "price": 170.99,
+        "price": 190.0,
         "available": false,
         "inventory_quantity": 0
       },
@@ -634,7 +813,7 @@
         "option2": "9",
         "option3": "US",
         "sku": "X000009834005",
-        "price": 170.99,
+        "price": 190.0,
         "available": false,
         "inventory_quantity": 0
       },
@@ -645,7 +824,7 @@
         "option2": "9.5",
         "option3": "US",
         "sku": "X000009834006",
-        "price": 170.99,
+        "price": 190.0,
         "available": false,
         "inventory_quantity": 0
       },
@@ -656,7 +835,7 @@
         "option2": "10",
         "option3": "US",
         "sku": "X000009834007",
-        "price": 170.99,
+        "price": 190.0,
         "available": false,
         "inventory_quantity": 0
       },
@@ -667,7 +846,7 @@
         "option2": "10.5",
         "option3": "US",
         "sku": "X000009834008",
-        "price": 170.99,
+        "price": 190.0,
         "available": false,
         "inventory_quantity": 0
       },
@@ -709,7 +888,7 @@
         "option2": "7",
         "option3": "US",
         "sku": "X000009833001",
-        "price": 197.99,
+        "price": 220.0,
         "available": false,
         "inventory_quantity": 0
       },
@@ -720,7 +899,7 @@
         "option2": "7.5",
         "option3": "US",
         "sku": "X000009833002",
-        "price": 197.99,
+        "price": 220.0,
         "available": false,
         "inventory_quantity": 0
       },
@@ -731,7 +910,7 @@
         "option2": "8",
         "option3": "US",
         "sku": "X000009833003",
-        "price": 197.99,
+        "price": 220.0,
         "available": false,
         "inventory_quantity": 0
       },
@@ -742,7 +921,7 @@
         "option2": "8.5",
         "option3": "US",
         "sku": "X000009833004",
-        "price": 197.99,
+        "price": 220.0,
         "available": false,
         "inventory_quantity": 0
       },
@@ -753,7 +932,7 @@
         "option2": "9",
         "option3": "US",
         "sku": "X000009833005",
-        "price": 197.99,
+        "price": 220.0,
         "available": false,
         "inventory_quantity": 0
       },
@@ -764,7 +943,7 @@
         "option2": "9.5",
         "option3": "US",
         "sku": "X000009833006",
-        "price": 197.99,
+        "price": 220.0,
         "available": false,
         "inventory_quantity": 0
       },
@@ -775,7 +954,7 @@
         "option2": "10",
         "option3": "US",
         "sku": "X000009833007",
-        "price": 197.99,
+        "price": 220.0,
         "available": false,
         "inventory_quantity": 0
       },
@@ -786,7 +965,7 @@
         "option2": "10.5",
         "option3": "US",
         "sku": "X000009833008",
-        "price": 197.99,
+        "price": 220.0,
         "available": false,
         "inventory_quantity": 0
       },
@@ -1934,7 +2113,7 @@
     "title": "Arc'teryx Bird Word Toque",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-bird-word-toque",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000010065-Bird-Word-Toque-24K-Black-Front.avif?v=1765916866",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000010065-Bird-Word-Toque-24K-Black-Back-View.jpg?v=1771942448",
     "variants": {
       "52441146949995": {
         "id": 52441146949995,
@@ -1954,6 +2133,17 @@
         "option2": null,
         "option3": null,
         "sku": "X000010065001",
+        "price": 60.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52936375992683": {
+        "id": 52936375992683,
+        "title": "Alpine Rose / Bliss",
+        "option1": "Alpine Rose / Bliss",
+        "option2": null,
+        "option3": null,
+        "sku": "X000010065007",
         "price": 60.0,
         "available": false,
         "inventory_quantity": 0
@@ -4077,7 +4267,7 @@
     "title": "Arc'teryx Gamma Men's Hoody",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-gamma-mens-hoody",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009905-Gamma-Hoody-Black-Front-View.jpg?v=1762015944",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009905-Gamma-Hoody-Black-Front-View_e45cf5b4-f611-4b7f-9fcb-906633b840c5.jpg?v=1771942443",
     "variants": {
       "52196669292907": {
         "id": 52196669292907,
@@ -4163,6 +4353,17 @@
         "option2": "XL",
         "option3": null,
         "sku": "X000009905036",
+        "price": 300.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52936375828843": {
+        "id": 52936375828843,
+        "title": "Alpine Blue / XL",
+        "option1": "Alpine Blue",
+        "option2": "XL",
+        "option3": null,
+        "sku": "X000009905054",
         "price": 300.0,
         "available": false,
         "inventory_quantity": 0
@@ -4879,7 +5080,7 @@
     "title": "Arc'teryx Men's Beta Jacket",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-mens-beta-jacket",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000010511-Beta-Jacket-Black-Sapphire-Front-View_c3ad3940-5398-4239-8b8b-04d635a6f2b1.jpg?v=1768837404",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000010511-Beta-Jacket-Black-Sapphire-Front-View.jpg?v=1771942446",
     "variants": {
       "52196401971563": {
         "id": 52196401971563,
@@ -5057,6 +5258,17 @@
         "available": true,
         "inventory_quantity": 1
       },
+      "52431792144747": {
+        "id": 52431792144747,
+        "title": "Mars / S",
+        "option1": "Mars",
+        "option2": "S",
+        "option3": null,
+        "sku": "X000010511037",
+        "price": 400.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
       "52395050434923": {
         "id": 52395050434923,
         "title": "Mars / M",
@@ -5090,17 +5302,6 @@
         "available": false,
         "inventory_quantity": 0
       },
-      "52431792144747": {
-        "id": 52431792144747,
-        "title": "Mars / S",
-        "option1": "Mars",
-        "option2": "S",
-        "option3": null,
-        "sku": "X000010511037",
-        "price": 400.0,
-        "available": false,
-        "inventory_quantity": 0
-      },
       "52777646391659": {
         "id": 52777646391659,
         "title": "Blaze / M",
@@ -5119,6 +5320,50 @@
         "option2": "L",
         "option3": null,
         "sku": "X000010511018",
+        "price": 400.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52936375861611": {
+        "id": 52936375861611,
+        "title": "Alpine Blue / S",
+        "option1": "Alpine Blue",
+        "option2": "S",
+        "option3": null,
+        "sku": "X000010511044",
+        "price": 400.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52936375894379": {
+        "id": 52936375894379,
+        "title": "Alpine Blue / M",
+        "option1": "Alpine Blue",
+        "option2": "M",
+        "option3": null,
+        "sku": "X000010511045",
+        "price": 400.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52936375927147": {
+        "id": 52936375927147,
+        "title": "Alpine Blue / L",
+        "option1": "Alpine Blue",
+        "option2": "L",
+        "option3": null,
+        "sku": "X000010511046",
+        "price": 400.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52936375959915": {
+        "id": 52936375959915,
+        "title": "Alpine Blue / XL",
+        "option1": "Alpine Blue",
+        "option2": "XL",
+        "option3": null,
+        "sku": "X000010511047",
         "price": 400.0,
         "available": false,
         "inventory_quantity": 0
@@ -5957,7 +6202,7 @@
     "title": "Arc'teryx Gamma SL Pant Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-gamma-sl-pant-mens",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S25-X000009525-Gamma-SL-Pant-Black-Front-View_d6a1925d-cdeb-467d-ba1e-bcd6a141ce3d.jpg?v=1768837398",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S25-X000009525-Gamma-SL-Pant-Black-Front-View.jpg?v=1771942441",
     "variants": {
       "52777646260587": {
         "id": 52777646260587,
@@ -6032,6 +6277,17 @@
         "option2": "36",
         "option3": "Short",
         "sku": "X000009525010",
+        "price": 160.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52936375796075": {
+        "id": 52936375796075,
+        "title": "Black / 38 / S",
+        "option1": "Black",
+        "option2": "38",
+        "option3": "S",
+        "sku": "X000009525011",
         "price": 160.0,
         "available": false,
         "inventory_quantity": 0
@@ -7101,7 +7357,7 @@
         "option2": "8.5",
         "option3": null,
         "sku": "X000010023004",
-        "price": 160.99,
+        "price": 179.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -7123,7 +7379,7 @@
         "option2": "9.5",
         "option3": null,
         "sku": "X000010023006",
-        "price": 160.99,
+        "price": 179.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -7134,7 +7390,7 @@
         "option2": "10",
         "option3": null,
         "sku": "X000010023007",
-        "price": 160.99,
+        "price": 179.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -7145,7 +7401,7 @@
         "option2": "10.5",
         "option3": null,
         "sku": "X000010023008",
-        "price": 160.99,
+        "price": 179.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -7167,7 +7423,7 @@
         "option2": "11.5",
         "option3": null,
         "sku": "X000010023010",
-        "price": 160.99,
+        "price": 179.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -7178,7 +7434,7 @@
         "option2": "12",
         "option3": null,
         "sku": "X000010023011",
-        "price": 160.99,
+        "price": 179.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -7189,7 +7445,7 @@
         "option2": "12.5",
         "option3": null,
         "sku": "X000010023012",
-        "price": 124.99,
+        "price": 179.99,
         "available": true,
         "inventory_quantity": 2
       },
@@ -7330,7 +7586,7 @@
         "option2": "10",
         "option3": null,
         "sku": "X000009614020",
-        "price": 151.99,
+        "price": 169.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -7341,7 +7597,7 @@
         "option2": "10.5",
         "option3": null,
         "sku": "X000009614021",
-        "price": 151.99,
+        "price": 169.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -7352,7 +7608,7 @@
         "option2": "11",
         "option3": null,
         "sku": "X000009614022",
-        "price": 151.99,
+        "price": 169.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -7363,7 +7619,7 @@
         "option2": "11.5",
         "option3": null,
         "sku": "X000009614023",
-        "price": 151.99,
+        "price": 169.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -7374,7 +7630,7 @@
         "option2": "12",
         "option3": null,
         "sku": "X000009614024",
-        "price": 117.99,
+        "price": 169.99,
         "available": true,
         "inventory_quantity": 1
       },
@@ -7385,7 +7641,7 @@
         "option2": "12.5",
         "option3": null,
         "sku": "X000009614025",
-        "price": 117.99,
+        "price": 169.99,
         "available": true,
         "inventory_quantity": 1
       },
@@ -7440,7 +7696,7 @@
         "option2": "8.5",
         "option3": null,
         "sku": "X000009614030",
-        "price": 151.99,
+        "price": 169.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -7462,7 +7718,7 @@
         "option2": "9.5",
         "option3": null,
         "sku": "X000009614032",
-        "price": 151.99,
+        "price": 169.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -7484,7 +7740,7 @@
         "option2": "10.5",
         "option3": null,
         "sku": "X000009614034",
-        "price": 134.99,
+        "price": 169.99,
         "available": true,
         "inventory_quantity": 1
       },
@@ -7506,7 +7762,7 @@
         "option2": "11.5",
         "option3": null,
         "sku": "X000009614036",
-        "price": 117.99,
+        "price": 169.99,
         "available": true,
         "inventory_quantity": 2
       },
@@ -7528,7 +7784,7 @@
         "option2": "12.5",
         "option3": null,
         "sku": "X000009614038",
-        "price": 117.99,
+        "price": 169.99,
         "available": true,
         "inventory_quantity": 1
       },
@@ -7603,7 +7859,7 @@
         "option2": "9",
         "option3": null,
         "sku": "X000009612031",
-        "price": 178.99,
+        "price": 199.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -7625,7 +7881,7 @@
         "option2": "10",
         "option3": null,
         "sku": "X000009612033",
-        "price": 178.99,
+        "price": 199.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -7636,7 +7892,7 @@
         "option2": "10.5",
         "option3": null,
         "sku": "X000009612034",
-        "price": 178.99,
+        "price": 199.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -7658,7 +7914,7 @@
         "option2": "11.5",
         "option3": null,
         "sku": "X000009612036",
-        "price": 148.99,
+        "price": 199.99,
         "available": true,
         "inventory_quantity": 2
       },
@@ -7669,7 +7925,7 @@
         "option2": "12",
         "option3": null,
         "sku": "X000009612037",
-        "price": 178.99,
+        "price": 199.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -7680,7 +7936,7 @@
         "option2": "12.5",
         "option3": null,
         "sku": "X000009612038",
-        "price": 138.99,
+        "price": 199.99,
         "available": true,
         "inventory_quantity": 2
       },
@@ -7711,7 +7967,7 @@
         "option2": "7",
         "option3": null,
         "sku": "X000009601001",
-        "price": 205.99,
+        "price": 229.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -7722,7 +7978,7 @@
         "option2": "7.5",
         "option3": null,
         "sku": "X000009601002",
-        "price": 205.99,
+        "price": 229.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -7733,7 +7989,7 @@
         "option2": "8",
         "option3": null,
         "sku": "X000009601003",
-        "price": 205.99,
+        "price": 229.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -7744,7 +8000,7 @@
         "option2": "8.5",
         "option3": null,
         "sku": "X000009601004",
-        "price": 205.99,
+        "price": 229.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -7755,7 +8011,7 @@
         "option2": "9",
         "option3": null,
         "sku": "X000009601005",
-        "price": 205.99,
+        "price": 229.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -7766,7 +8022,7 @@
         "option2": "9.5",
         "option3": null,
         "sku": "X000009601006",
-        "price": 205.99,
+        "price": 229.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -7777,7 +8033,7 @@
         "option2": "10",
         "option3": null,
         "sku": "X000009601007",
-        "price": 205.99,
+        "price": 229.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -7788,7 +8044,7 @@
         "option2": "10.5",
         "option3": null,
         "sku": "X000009601008",
-        "price": 205.99,
+        "price": 229.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -7799,7 +8055,7 @@
         "option2": "11",
         "option3": null,
         "sku": "X000009601009",
-        "price": 205.99,
+        "price": 229.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -7810,7 +8066,7 @@
         "option2": "11.5",
         "option3": null,
         "sku": "X000009601010",
-        "price": 205.99,
+        "price": 229.99,
         "available": false,
         "inventory_quantity": 0
       },
@@ -7821,7 +8077,7 @@
         "option2": "12",
         "option3": null,
         "sku": "X000009601011",
-        "price": 182.99,
+        "price": 229.99,
         "available": true,
         "inventory_quantity": 1
       },
@@ -7832,7 +8088,7 @@
         "option2": "12.5",
         "option3": null,
         "sku": "X000009601012",
-        "price": 182.99,
+        "price": 229.99,
         "available": true,
         "inventory_quantity": 1
       },
@@ -7887,7 +8143,7 @@
         "option2": "8.5",
         "option3": null,
         "sku": "X000009601093",
-        "price": 182.99,
+        "price": 229.99,
         "available": true,
         "inventory_quantity": 1
       },
@@ -7898,7 +8154,7 @@
         "option2": "9",
         "option3": null,
         "sku": "X000009601094",
-        "price": 182.99,
+        "price": 229.99,
         "available": true,
         "inventory_quantity": 1
       },
@@ -7909,7 +8165,7 @@
         "option2": "9.5",
         "option3": null,
         "sku": "X000009601095",
-        "price": 182.99,
+        "price": 229.99,
         "available": true,
         "inventory_quantity": 2
       },
@@ -7920,7 +8176,7 @@
         "option2": "10",
         "option3": null,
         "sku": "X000009601096",
-        "price": 182.99,
+        "price": 229.99,
         "available": true,
         "inventory_quantity": 1
       },
@@ -7931,7 +8187,7 @@
         "option2": "10.5",
         "option3": null,
         "sku": "X000009601097",
-        "price": 182.99,
+        "price": 229.99,
         "available": true,
         "inventory_quantity": 1
       },
@@ -7942,7 +8198,7 @@
         "option2": "11",
         "option3": null,
         "sku": "X000009601098",
-        "price": 182.99,
+        "price": 229.99,
         "available": true,
         "inventory_quantity": 1
       },
@@ -7953,7 +8209,7 @@
         "option2": "11.5",
         "option3": null,
         "sku": "X000009601099",
-        "price": 182.99,
+        "price": 229.99,
         "available": true,
         "inventory_quantity": 2
       },
@@ -7964,7 +8220,7 @@
         "option2": "12",
         "option3": null,
         "sku": "X000009601100",
-        "price": 182.99,
+        "price": 229.99,
         "available": true,
         "inventory_quantity": 1
       },
@@ -7975,7 +8231,7 @@
         "option2": "12.5",
         "option3": null,
         "sku": "X000009601101",
-        "price": 182.99,
+        "price": 229.99,
         "available": true,
         "inventory_quantity": 1
       },
