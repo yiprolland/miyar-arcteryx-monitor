@@ -69,6 +69,17 @@
         "price": 180.0,
         "available": false,
         "inventory_quantity": 0
+      },
+      "52936588886379": {
+        "id": 52936588886379,
+        "title": "Black / XL",
+        "option1": "Black",
+        "option2": "XL",
+        "option3": null,
+        "sku": "X000010284012",
+        "price": 180.0,
+        "available": false,
+        "inventory_quantity": 0
       }
     }
   },
