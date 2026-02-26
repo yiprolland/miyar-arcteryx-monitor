@@ -662,7 +662,7 @@
         "option1": "Black/Graphite",
         "option2": "12",
         "option3": "US",
-        "sku": null,
+        "sku": "X000010398137",
         "price": 170.0,
         "available": false,
         "inventory_quantity": 0
@@ -673,7 +673,7 @@
         "option1": "Black/Graphite",
         "option2": "12.5",
         "option3": "US",
-        "sku": null,
+        "sku": "X000010398138",
         "price": 170.0,
         "available": false,
         "inventory_quantity": 0
@@ -684,7 +684,7 @@
         "option1": "Black/Graphite",
         "option2": "13",
         "option3": "US",
-        "sku": null,
+        "sku": "X000010398139",
         "price": 170.0,
         "available": false,
         "inventory_quantity": 0
