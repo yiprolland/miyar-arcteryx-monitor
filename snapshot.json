@@ -1,4 +1,101 @@
 {
+  "arcteryx-kragg-shoe-mens": {
+    "handle": "arcteryx-kragg-shoe-mens",
+    "title": "Arc'teryx Kragg Shoe Men's",
+    "vendor": "Arc'teryx",
+    "url": "https://store.miyaradventures.com/products/arcteryx-kragg-shoe-mens",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S26-X000010078-Kragg-Shoe-Black-Black-Profile.jpg?v=1772125226",
+    "variants": {
+      "52940759695723": {
+        "id": 52940759695723,
+        "title": "Black/Black / 9.5 / US",
+        "option1": "Black/Black",
+        "option2": "9.5",
+        "option3": "US",
+        "sku": "X000010078013",
+        "price": 160.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52940759728491": {
+        "id": 52940759728491,
+        "title": "Black/Black / 10 / US",
+        "option1": "Black/Black",
+        "option2": "10",
+        "option3": "US",
+        "sku": "X000010078014",
+        "price": 160.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52940759761259": {
+        "id": 52940759761259,
+        "title": "Black/Black / 10.5 / US",
+        "option1": "Black/Black",
+        "option2": "10.5",
+        "option3": "US",
+        "sku": "X000010078015",
+        "price": 160.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52940759794027": {
+        "id": 52940759794027,
+        "title": "Black/Black / 11 / US",
+        "option1": "Black/Black",
+        "option2": "11",
+        "option3": "US",
+        "sku": "X000010078016",
+        "price": 160.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52940759826795": {
+        "id": 52940759826795,
+        "title": "Black/Black / 11.5 / US",
+        "option1": "Black/Black",
+        "option2": "11.5",
+        "option3": "US",
+        "sku": "X000010078017",
+        "price": 160.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52940759859563": {
+        "id": 52940759859563,
+        "title": "Black/Black / 12 / US",
+        "option1": "Black/Black",
+        "option2": "12",
+        "option3": "US",
+        "sku": "X000010078018",
+        "price": 160.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52940759892331": {
+        "id": 52940759892331,
+        "title": "Black/Black / 12.5 / US",
+        "option1": "Black/Black",
+        "option2": "12.5",
+        "option3": "US",
+        "sku": "X000010078019",
+        "price": 160.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52940759925099": {
+        "id": 52940759925099,
+        "title": "Black/Black / 13 / US",
+        "option1": "Black/Black",
+        "option2": "13",
+        "option3": "US",
+        "sku": "X000010078020",
+        "price": 160.0,
+        "available": false,
+        "inventory_quantity": 0
+      }
+    }
+  },
   "arcteryx-norvan-windshell-hoody-mens": {
     "handle": "arcteryx-norvan-windshell-hoody-mens",
     "title": "Arc'teryx Norvan Windshell Hoody Men's",
@@ -7414,7 +7511,7 @@
     "title": "Arc'teryx Kopec GTX Shoe Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-kopec-gtx-shoe-mens",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S25-X000010023-Kopec-GTX-Shoe-Black-Black-Profile.jpg?v=1768856361",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S25-X000010023-Kopec-GTX-Shoe-Black-Black-Profile_ce20db9a-8367-4f5d-bf43-8ddecea5e85d.jpg?v=1772125224",
     "variants": {
       "52778012082539": {
         "id": 52778012082539,
@@ -7602,6 +7699,83 @@
         "price": 179.99,
         "available": true,
         "inventory_quantity": 5
+      },
+      "52940759138667": {
+        "id": 52940759138667,
+        "title": "Black/Yukon / 7.5",
+        "option1": "Black/Yukon",
+        "option2": "7.5",
+        "option3": null,
+        "sku": "X000010023041",
+        "price": 179.99,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52940759171435": {
+        "id": 52940759171435,
+        "title": "Black/Yukon / 8.5",
+        "option1": "Black/Yukon",
+        "option2": "8.5",
+        "option3": null,
+        "sku": "X000010023043",
+        "price": 179.99,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52940759204203": {
+        "id": 52940759204203,
+        "title": "Black/Yukon / 9",
+        "option1": "Black/Yukon",
+        "option2": "9",
+        "option3": null,
+        "sku": "X000010023044",
+        "price": 179.99,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52940759236971": {
+        "id": 52940759236971,
+        "title": "Black/Yukon / 9.5",
+        "option1": "Black/Yukon",
+        "option2": "9.5",
+        "option3": null,
+        "sku": "X000010023045",
+        "price": 179.99,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52940759269739": {
+        "id": 52940759269739,
+        "title": "Black/Yukon / 12",
+        "option1": "Black/Yukon",
+        "option2": "12",
+        "option3": null,
+        "sku": "X000010023050",
+        "price": 179.99,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52940759302507": {
+        "id": 52940759302507,
+        "title": "Black/Yukon / 12.5",
+        "option1": "Black/Yukon",
+        "option2": "12.5",
+        "option3": null,
+        "sku": "X000010023051",
+        "price": 179.99,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52940759335275": {
+        "id": 52940759335275,
+        "title": "Black/Yukon / 13",
+        "option1": "Black/Yukon",
+        "option2": "13",
+        "option3": null,
+        "sku": "X000010023052",
+        "price": 179.99,
+        "available": false,
+        "inventory_quantity": 0
       }
     }
   },
