@@ -655,6 +655,39 @@
         "price": 170.0,
         "available": false,
         "inventory_quantity": 0
+      },
+      "52940627378539": {
+        "id": 52940627378539,
+        "title": "Black/Graphite / 12 / US",
+        "option1": "Black/Graphite",
+        "option2": "12",
+        "option3": "US",
+        "sku": null,
+        "price": 170.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52940627411307": {
+        "id": 52940627411307,
+        "title": "Black/Graphite / 12.5 / US",
+        "option1": "Black/Graphite",
+        "option2": "12.5",
+        "option3": "US",
+        "sku": null,
+        "price": 170.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52940627444075": {
+        "id": 52940627444075,
+        "title": "Black/Graphite / 13 / US",
+        "option1": "Black/Graphite",
+        "option2": "13",
+        "option3": "US",
+        "sku": null,
+        "price": 170.0,
+        "available": false,
+        "inventory_quantity": 0
       }
     }
   },
@@ -774,6 +807,39 @@
         "price": 200.0,
         "available": true,
         "inventory_quantity": 3
+      },
+      "52940615942507": {
+        "id": 52940615942507,
+        "title": "Black/Black / 12 / US",
+        "option1": "Black/Black",
+        "option2": "12",
+        "option3": "US",
+        "sku": "X000010397011",
+        "price": 200.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52940615975275": {
+        "id": 52940615975275,
+        "title": "Black/Black / 12.5 / US",
+        "option1": "Black/Black",
+        "option2": "12.5",
+        "option3": "US",
+        "sku": "X000010397012",
+        "price": 200.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52940616008043": {
+        "id": 52940616008043,
+        "title": "Black/Black / 13 / US",
+        "option1": "Black/Black",
+        "option2": "13",
+        "option3": "US",
+        "sku": "X000010397049",
+        "price": 200.0,
+        "available": false,
+        "inventory_quantity": 0
       }
     }
   },
@@ -6354,7 +6420,7 @@
         "sku": "X000009560004",
         "price": 280.0,
         "available": true,
-        "inventory_quantity": 4
+        "inventory_quantity": 1
       },
       "51996154593643": {
         "id": 51996154593643,
@@ -6365,7 +6431,7 @@
         "sku": "X000009560005",
         "price": 280.0,
         "available": true,
-        "inventory_quantity": 4
+        "inventory_quantity": 1
       },
       "51996154626411": {
         "id": 51996154626411,
@@ -6376,7 +6442,7 @@
         "sku": "X000009560006",
         "price": 280.0,
         "available": true,
-        "inventory_quantity": 2
+        "inventory_quantity": 1
       },
       "51996154659179": {
         "id": 51996154659179,
