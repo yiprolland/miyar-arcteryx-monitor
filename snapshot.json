@@ -7252,8 +7252,8 @@
         "option3": null,
         "sku": "X000009568012",
         "price": 400.0,
-        "available": false,
-        "inventory_quantity": 0
+        "available": true,
+        "inventory_quantity": 1
       },
       "52299962777963": {
         "id": 52299962777963,
@@ -7542,7 +7542,7 @@
     "title": "Arc'teryx Atom Men's SL Hoody",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-atom-mens-sl-hoody",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S25-X000009560-Atom-SL-Hoody-Black-Front-View_da3ad291-43a7-455d-93e5-dbbfafe75f95.jpg?v=1772135902",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S25-X000009560-Atom-SL-Hoody-Black-Front-View.jpg?v=1772212493",
     "variants": {
       "51996154528107": {
         "id": 51996154528107,
@@ -7596,8 +7596,8 @@
         "option3": null,
         "sku": "X000009560021",
         "price": 280.0,
-        "available": false,
-        "inventory_quantity": 0
+        "available": true,
+        "inventory_quantity": 1
       },
       "51996154691947": {
         "id": 51996154691947,
@@ -7662,8 +7662,8 @@
         "option3": null,
         "sku": "X000009560029",
         "price": 280.0,
-        "available": false,
-        "inventory_quantity": 0
+        "available": true,
+        "inventory_quantity": 1
       },
       "51996154888555": {
         "id": 51996154888555,
@@ -7673,8 +7673,8 @@
         "option3": null,
         "sku": "X000009560030",
         "price": 280.0,
-        "available": false,
-        "inventory_quantity": 0
+        "available": true,
+        "inventory_quantity": 1
       },
       "52194740633963": {
         "id": 52194740633963,
@@ -9865,8 +9865,8 @@
         "option3": null,
         "sku": "X000009561036",
         "price": 279.99,
-        "available": false,
-        "inventory_quantity": 0
+        "available": true,
+        "inventory_quantity": 1
       },
       "52253080322411": {
         "id": 52253080322411,
