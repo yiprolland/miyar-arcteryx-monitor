@@ -1,4 +1,46 @@
 {
+  "arcteryx-cronin-cotton-pant-mens": {
+    "handle": "arcteryx-cronin-cotton-pant-mens",
+    "title": "Arc'teryx Cronin Cotton Pant Men's",
+    "vendor": "Arc'teryx",
+    "url": "https://store.miyaradventures.com/products/arcteryx-cronin-cotton-pant-mens",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S26-X000009316-Cronin-Cotton-Pant-Black-Front-View.jpg?v=1772208567",
+    "variants": {
+      "52944221307243": {
+        "id": 52944221307243,
+        "title": "Black / 30 / Short",
+        "option1": "Black",
+        "option2": "30",
+        "option3": "Short",
+        "sku": "X000009316003",
+        "price": 200.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52944221340011": {
+        "id": 52944221340011,
+        "title": "Black / 32 / Short",
+        "option1": "Black",
+        "option2": "32",
+        "option3": "Short",
+        "sku": "X000009316004",
+        "price": 200.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52944221372779": {
+        "id": 52944221372779,
+        "title": "Black / 36 / Regular",
+        "option1": "Black",
+        "option2": "36",
+        "option3": "Regular",
+        "sku": "X000009316011",
+        "price": 200.0,
+        "available": false,
+        "inventory_quantity": 0
+      }
+    }
+  },
   "arcteryx-cerium-sl-hoody-womens": {
     "handle": "arcteryx-cerium-sl-hoody-womens",
     "title": "Arc'teryx Cerium SL Hoody Women's",
@@ -4479,7 +4521,7 @@
         "sku": "X000010361028",
         "price": 180.0,
         "available": true,
-        "inventory_quantity": 6
+        "inventory_quantity": 5
       },
       "52253086581099": {
         "id": 52253086581099,
