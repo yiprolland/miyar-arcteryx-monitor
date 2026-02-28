@@ -7422,8 +7422,8 @@
         "option3": "Short",
         "sku": "X000009525009",
         "price": 160.0,
-        "available": true,
-        "inventory_quantity": 1
+        "available": false,
+        "inventory_quantity": 0
       },
       "52777646326123": {
         "id": 52777646326123,
