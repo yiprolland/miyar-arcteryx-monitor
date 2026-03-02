@@ -7252,8 +7252,8 @@
         "option3": null,
         "sku": "X000009568012",
         "price": 400.0,
-        "available": true,
-        "inventory_quantity": 1
+        "available": false,
+        "inventory_quantity": 0
       },
       "52299962777963": {
         "id": 52299962777963,
@@ -7596,8 +7596,8 @@
         "option3": null,
         "sku": "X000009560021",
         "price": 280.0,
-        "available": true,
-        "inventory_quantity": 1
+        "available": false,
+        "inventory_quantity": 0
       },
       "51996154691947": {
         "id": 51996154691947,
@@ -7662,8 +7662,8 @@
         "option3": null,
         "sku": "X000009560029",
         "price": 280.0,
-        "available": true,
-        "inventory_quantity": 1
+        "available": false,
+        "inventory_quantity": 0
       },
       "51996154888555": {
         "id": 51996154888555,
@@ -7673,8 +7673,8 @@
         "option3": null,
         "sku": "X000009560030",
         "price": 280.0,
-        "available": true,
-        "inventory_quantity": 1
+        "available": false,
+        "inventory_quantity": 0
       },
       "52194740633963": {
         "id": 52194740633963,
@@ -9865,8 +9865,8 @@
         "option3": null,
         "sku": "X000009561036",
         "price": 279.99,
-        "available": true,
-        "inventory_quantity": 1
+        "available": false,
+        "inventory_quantity": 0
       },
       "52253080322411": {
         "id": 52253080322411,
@@ -10945,6 +10945,17 @@
         "option2": "M",
         "option3": null,
         "sku": "X000009452075",
+        "price": 299.99,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52956101214571": {
+        "id": 52956101214571,
+        "title": "Bliss / L",
+        "option1": "Bliss",
+        "option2": "L",
+        "option3": null,
+        "sku": "X000009452076",
         "price": 299.99,
         "available": false,
         "inventory_quantity": 0
