@@ -811,8 +811,8 @@
         "option3": null,
         "sku": "X000009456027",
         "price": 400.0,
-        "available": false,
-        "inventory_quantity": 0
+        "available": true,
+        "inventory_quantity": 5
       }
     }
   },
