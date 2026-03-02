@@ -1,4 +1,79 @@
 {
+  "arcteryx-gamma-hoody-womens": {
+    "handle": "arcteryx-gamma-hoody-womens",
+    "title": "Arc'teryx Gamma Hoody Women's",
+    "vendor": "Arc'teryx",
+    "url": "https://store.miyaradventures.com/products/arcteryx-gamma-hoody-womens",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/unnamed_3_33d252bf-8187-42ed-ac25-3c1d1ede1858.png?v=1772478583",
+    "variants": {
+      "52956222751083": {
+        "id": 52956222751083,
+        "title": "Aster / S",
+        "option1": "Aster",
+        "option2": "S",
+        "option3": null,
+        "sku": "X000010561010",
+        "price": 300.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52956222783851": {
+        "id": 52956222783851,
+        "title": "Aster / M",
+        "option1": "Aster",
+        "option2": "M",
+        "option3": null,
+        "sku": "X000010561011",
+        "price": 300.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52956222816619": {
+        "id": 52956222816619,
+        "title": "Aster / L",
+        "option1": "Aster",
+        "option2": "L",
+        "option3": null,
+        "sku": "X000010561012",
+        "price": 300.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52956222849387": {
+        "id": 52956222849387,
+        "title": "Glacial / S",
+        "option1": "Glacial",
+        "option2": "S",
+        "option3": null,
+        "sku": "X000010561024",
+        "price": 300.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52956222882155": {
+        "id": 52956222882155,
+        "title": "Glacial / M",
+        "option1": "Glacial",
+        "option2": "M",
+        "option3": null,
+        "sku": "X000010561025",
+        "price": 300.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52956222914923": {
+        "id": 52956222914923,
+        "title": "Glacial / L",
+        "option1": "Glacial",
+        "option2": "L",
+        "option3": null,
+        "sku": "X000010561026",
+        "price": 300.0,
+        "available": false,
+        "inventory_quantity": 0
+      }
+    }
+  },
   "arcteryx-cronin-cotton-pant-mens": {
     "handle": "arcteryx-cronin-cotton-pant-mens",
     "title": "Arc'teryx Cronin Cotton Pant Men's",
