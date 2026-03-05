@@ -1571,8 +1571,8 @@
         "option3": "US",
         "sku": "X000009834002",
         "price": 190.0,
-        "available": true,
-        "inventory_quantity": 2
+        "available": false,
+        "inventory_quantity": 0
       },
       "52778012836203": {
         "id": 52778012836203,
@@ -1583,7 +1583,7 @@
         "sku": "X000009834003",
         "price": 190.0,
         "available": true,
-        "inventory_quantity": 7
+        "inventory_quantity": 4
       },
       "52778012868971": {
         "id": 52778012868971,
