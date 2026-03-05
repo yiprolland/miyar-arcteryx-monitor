@@ -2337,8 +2337,8 @@
         "option3": null,
         "sku": "X000007480017",
         "price": 120.0,
-        "available": true,
-        "inventory_quantity": 1
+        "available": false,
+        "inventory_quantity": 0
       }
     }
   },
