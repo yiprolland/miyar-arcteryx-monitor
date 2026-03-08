@@ -2475,7 +2475,7 @@
     "title": "Arc'teryx Heliad Crossbody Bag",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-heliad-crossbody",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009828-Heliad-Crossbody-Rune-Front_c623d75d-1028-4bee-afc3-f791715af432.jpg?v=1764165580",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009828-Heliad-Crossbody-Rune-Front_c623d75d-1028-4bee-afc3-f791715af432.jpg?v=1764165580",
     "variants": {
       "52519586791787": {
         "id": 52519586791787,
@@ -2486,7 +2486,7 @@
         "sku": "X000009828005",
         "price": 50.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52622627144043": {
         "id": 52622627144043,
@@ -2497,7 +2497,7 @@
         "sku": "X000009828011",
         "price": 50.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52622627176811": {
         "id": 52622627176811,
@@ -2508,7 +2508,7 @@
         "sku": "X000009828007",
         "price": 50.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52622627209579": {
         "id": 52622627209579,
@@ -2519,7 +2519,7 @@
         "sku": "X000009828001",
         "price": 50.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
