@@ -1,4 +1,88 @@
 {
+  "arcteryx-ossa-overshirt-mens": {
+    "handle": "arcteryx-ossa-overshirt-mens",
+    "title": "Arc'teryx Ossa Overshirt Men's",
+    "vendor": "Arc'teryx",
+    "url": "https://store.miyaradventures.com/products/arcteryx-ossa-overshirt-mens",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/arcteryx-ossa-overshirt-mens-alpine-blue.png?v=1773170188",
+    "variants": {
+      "52987206369643": {
+        "id": 52987206369643,
+        "title": "Alpine Blue / L",
+        "option1": "Alpine Blue",
+        "option2": "L",
+        "option3": null,
+        "sku": "X000010306005",
+        "price": 180.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52987206402411": {
+        "id": 52987206402411,
+        "title": "Alpine Blue / XL",
+        "option1": "Alpine Blue",
+        "option2": "XL",
+        "option3": null,
+        "sku": "X000010306006",
+        "price": 180.0,
+        "available": false,
+        "inventory_quantity": 0
+      }
+    }
+  },
+  "arcteryx-mens-cormac-crew-neck-shirt-ss": {
+    "handle": "arcteryx-mens-cormac-crew-neck-shirt-ss",
+    "title": "Arc'teryx Men's Cormac Crew Neck Shirt SS",
+    "vendor": "Arc'teryx",
+    "url": "https://store.miyaradventures.com/products/arcteryx-mens-cormac-crew-neck-shirt-ss",
+    "image": null,
+    "variants": {
+      "52987206238571": {
+        "id": 52987206238571,
+        "title": "Alpine Blue / S",
+        "option1": "Alpine Blue",
+        "option2": "S",
+        "option3": null,
+        "sku": "X000010292039",
+        "price": 70.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52987206271339": {
+        "id": 52987206271339,
+        "title": "Alpine Blue / M",
+        "option1": "Alpine Blue",
+        "option2": "M",
+        "option3": null,
+        "sku": "X000010292040",
+        "price": 70.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52987206304107": {
+        "id": 52987206304107,
+        "title": "Alpine Blue / L",
+        "option1": "Alpine Blue",
+        "option2": "L",
+        "option3": null,
+        "sku": "X000010292041",
+        "price": 70.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52987206336875": {
+        "id": 52987206336875,
+        "title": "Alpine Blue / XL",
+        "option1": "Alpine Blue",
+        "option2": "XL",
+        "option3": null,
+        "sku": "X000010292042",
+        "price": 70.0,
+        "available": false,
+        "inventory_quantity": 0
+      }
+    }
+  },
   "arcteryx-gamma-hoody-womens": {
     "handle": "arcteryx-gamma-hoody-womens",
     "title": "Arc'teryx Gamma Hoody Women's",
@@ -450,7 +534,7 @@
     "title": "Arc'teryx Men's Squamish Hoody",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-mens-squamish-hoody",
-    "image": null,
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S26-X000010276-Squamish-Hoody-Black-Front-View.jpg?v=1773170184",
     "variants": {
       "52941142524267": {
         "id": 52941142524267,
@@ -525,6 +609,50 @@
         "option2": "XL",
         "option3": null,
         "sku": "X000010276018",
+        "price": 200.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52987206107499": {
+        "id": 52987206107499,
+        "title": "Black / S",
+        "option1": "Black",
+        "option2": "S",
+        "option3": null,
+        "sku": "X000010276003",
+        "price": 200.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52987206140267": {
+        "id": 52987206140267,
+        "title": "Black / M",
+        "option1": "Black",
+        "option2": "M",
+        "option3": null,
+        "sku": "X000010276004",
+        "price": 200.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52987206173035": {
+        "id": 52987206173035,
+        "title": "Black / L",
+        "option1": "Black",
+        "option2": "L",
+        "option3": null,
+        "sku": "X000010276005",
+        "price": 200.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52987206205803": {
+        "id": 52987206205803,
+        "title": "Black / XL",
+        "option1": "Black",
+        "option2": "XL",
+        "option3": null,
+        "sku": "X000010276006",
         "price": 200.0,
         "available": false,
         "inventory_quantity": 0
@@ -5861,7 +5989,7 @@
     "title": "Arc'teryx Women's Beta Jacket",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-womens-beta-jacket",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000010514-Beta-Jacket-Olive-Moss-Women-s-Front-View.jpg?v=1770835565",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000010514-Beta-Jacket-Olive-Moss-Women-s-Front-View_67c6480b-2e8f-4541-b430-aa1329ecc82c.jpg?v=1773170183",
     "variants": {
       "52253086712171": {
         "id": 52253086712171,
@@ -6024,6 +6152,28 @@
         "option2": "L",
         "option3": null,
         "sku": "X000010516068",
+        "price": 400.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52987206041963": {
+        "id": 52987206041963,
+        "title": "Alpine Rose II / M",
+        "option1": "Alpine Rose II",
+        "option2": "M",
+        "option3": null,
+        "sku": "X000010516046",
+        "price": 400.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "52987206074731": {
+        "id": 52987206074731,
+        "title": "Alpine Rose II / L",
+        "option1": "Alpine Rose II",
+        "option2": "L",
+        "option3": null,
+        "sku": "X000010516047",
         "price": 400.0,
         "available": false,
         "inventory_quantity": 0
@@ -7370,7 +7520,7 @@
     "title": "Arc'teryx Mantis 26 Backpack",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-mantis-26-backpack",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009825-Mantis-26-Backpack-Black-Front_3b70d780-1378-4ffb-a65e-7cb3327e6c9e.jpg?v=1757792328",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S26-X000010643-Mantis-26-Backpack-Mallow-Moondrop-Front-View.jpg?v=1773170180",
     "variants": {
       "52253081239915": {
         "id": 52253081239915,
@@ -7378,7 +7528,7 @@
         "option1": "Black",
         "option2": null,
         "option3": null,
-        "sku": "X000010643001",
+        "sku": "X000009825002",
         "price": 160.0,
         "available": false,
         "inventory_quantity": 0
