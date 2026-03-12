@@ -9351,7 +9351,7 @@
         "option2": "8.5",
         "option3": null,
         "sku": "X000009614030",
-        "price": 169.99,
+        "price": 155.39,
         "available": false,
         "inventory_quantity": 0
       },
@@ -9439,7 +9439,7 @@
         "option2": "12.5",
         "option3": null,
         "sku": "X000009614038",
-        "price": 169.99,
+        "price": 139.39,
         "available": true,
         "inventory_quantity": 1
       },
