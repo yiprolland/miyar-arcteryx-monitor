@@ -1,4 +1,90 @@
 {
+  "arcteryx-sylan-2-shoe-mens": {
+    "handle": "arcteryx-sylan-2-shoe-mens",
+    "title": "Arc'teryx Sylan 2 Shoe Men's",
+    "vendor": "Arc'teryx",
+    "url": "https://store.miyaradventures.com/products/arcteryx-sylan-2-shoe-mens",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S26-X000010155-Sylan-2-Shoe-Graphite-Graphite-Profile_c6333c7e-0f38-4c40-8b10-c80975f2b176.jpg?v=1773846547",
+    "variants": {
+      "53016940773739": {
+        "id": 53016940773739,
+        "title": "Graphite/Graphite / 7.5 / US",
+        "option1": "Graphite/Graphite",
+        "option2": "7.5",
+        "option3": "US",
+        "sku": "X000010155099",
+        "price": 220.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "53016940806507": {
+        "id": 53016940806507,
+        "title": "Graphite/Graphite / 8 / US",
+        "option1": "Graphite/Graphite",
+        "option2": "8",
+        "option3": "US",
+        "sku": "X000010155100",
+        "price": 220.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "53016940839275": {
+        "id": 53016940839275,
+        "title": "Graphite/Graphite / 8.5 / US",
+        "option1": "Graphite/Graphite",
+        "option2": "8.5",
+        "option3": "US",
+        "sku": "X000010155101",
+        "price": 220.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "53016940872043": {
+        "id": 53016940872043,
+        "title": "Graphite/Graphite / 9 / US",
+        "option1": "Graphite/Graphite",
+        "option2": "9",
+        "option3": "US",
+        "sku": "X000010155102",
+        "price": 220.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "53016940904811": {
+        "id": 53016940904811,
+        "title": "Graphite/Graphite / 9.5 / US",
+        "option1": "Graphite/Graphite",
+        "option2": "9.5",
+        "option3": "US",
+        "sku": "X000010155103",
+        "price": 220.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "53016940937579": {
+        "id": 53016940937579,
+        "title": "Graphite/Graphite / 10 / US",
+        "option1": "Graphite/Graphite",
+        "option2": "10",
+        "option3": "US",
+        "sku": "X000010155104",
+        "price": 220.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "53016940970347": {
+        "id": 53016940970347,
+        "title": "Graphite/Graphite / 10.5 / US",
+        "option1": "Graphite/Graphite",
+        "option2": "10.5",
+        "option3": "US",
+        "sku": "X000010155105",
+        "price": 220.0,
+        "available": false,
+        "inventory_quantity": 0
+      }
+    }
+  },
   "arcteryx-ossa-overshirt-mens": {
     "handle": "arcteryx-ossa-overshirt-mens",
     "title": "Arc'teryx Ossa Overshirt Men's",
