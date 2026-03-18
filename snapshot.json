@@ -1398,6 +1398,17 @@
     "url": "https://store.miyaradventures.com/products/arcteryx-mens-norvan-ld-4-shoe",
     "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000010398-Norvan-LD-4-Shoe-Black-Cloud-Profile.jpg?v=1768909458",
     "variants": {
+      "53016899420523": {
+        "id": 53016899420523,
+        "title": "Black/Graphite / 7 / US",
+        "option1": "Black/Graphite",
+        "option2": "7",
+        "option3": "US",
+        "sku": "X000010398127",
+        "price": 170.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
       "52778013393259": {
         "id": 52778013393259,
         "title": "Black/Graphite / 7.5 / US",
@@ -9158,6 +9169,28 @@
         "price": 179.99,
         "available": true,
         "inventory_quantity": 1
+      },
+      "53016919048555": {
+        "id": 53016919048555,
+        "title": "Black/Yukon / 7",
+        "option1": "Black/Yukon",
+        "option2": "7",
+        "option3": null,
+        "sku": "X000010023040",
+        "price": 179.99,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "53016925438315": {
+        "id": 53016925438315,
+        "title": "Black/Yukon / 8",
+        "option1": "Black/Yukon",
+        "option2": "8",
+        "option3": null,
+        "sku": "X000010023042",
+        "price": 179.99,
+        "available": false,
+        "inventory_quantity": 0
       }
     }
   },
