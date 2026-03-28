@@ -1769,7 +1769,7 @@
     "title": "Arc'teryx Granville 20 Backpack",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-granville-20-backpack",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/31-487258-0-image-1313513.jpg?v=1771704765",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/31-487258-0-image-1313513.jpg?v=1771704765",
     "variants": {
       "52931287122283": {
         "id": 52931287122283,
@@ -1780,7 +1780,7 @@
         "sku": "18096 - 450523",
         "price": 180.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
@@ -2586,7 +2586,7 @@
     "title": "Arc'teryx KONSEAL GTX Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-konseal-gtx-mens",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009833-Konseal-GTX-Shoe-Black-Black-Profile.jpg?v=1770291028",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009833-Konseal-GTX-Shoe-Black-Black-Profile.jpg?v=1770291028",
     "variants": {
       "52884896874859": {
         "id": 52884896874859,
@@ -2597,7 +2597,7 @@
         "sku": "X000009833001",
         "price": 220.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52778012639595": {
         "id": 52778012639595,
@@ -2608,7 +2608,7 @@
         "sku": "X000009833002",
         "price": 220.0,
         "available": true,
-        "inventory_quantity": 3
+        "inventory_quantity": null
       },
       "52884896907627": {
         "id": 52884896907627,
@@ -2619,7 +2619,7 @@
         "sku": "X000009833003",
         "price": 220.0,
         "available": true,
-        "inventory_quantity": 1
+        "inventory_quantity": null
       },
       "52778012672363": {
         "id": 52778012672363,
@@ -2630,7 +2630,7 @@
         "sku": "X000009833004",
         "price": 220.0,
         "available": true,
-        "inventory_quantity": 3
+        "inventory_quantity": null
       },
       "52778012705131": {
         "id": 52778012705131,
@@ -2641,7 +2641,7 @@
         "sku": "X000009833005",
         "price": 220.0,
         "available": true,
-        "inventory_quantity": 7
+        "inventory_quantity": null
       },
       "52778012737899": {
         "id": 52778012737899,
@@ -2652,7 +2652,7 @@
         "sku": "X000009833006",
         "price": 220.0,
         "available": true,
-        "inventory_quantity": 9
+        "inventory_quantity": null
       },
       "52884896940395": {
         "id": 52884896940395,
@@ -2663,7 +2663,7 @@
         "sku": "X000009833007",
         "price": 220.0,
         "available": true,
-        "inventory_quantity": 3
+        "inventory_quantity": null
       },
       "52778012770667": {
         "id": 52778012770667,
@@ -2674,7 +2674,7 @@
         "sku": "X000009833008",
         "price": 220.0,
         "available": true,
-        "inventory_quantity": 9
+        "inventory_quantity": null
       },
       "52778012803435": {
         "id": 52778012803435,
@@ -2685,7 +2685,7 @@
         "sku": "X000009833009",
         "price": 220.0,
         "available": true,
-        "inventory_quantity": 4
+        "inventory_quantity": null
       },
       "52940479791467": {
         "id": 52940479791467,
@@ -2696,7 +2696,7 @@
         "sku": "X000009833010",
         "price": 220.0,
         "available": true,
-        "inventory_quantity": 1
+        "inventory_quantity": null
       },
       "52940479824235": {
         "id": 52940479824235,
@@ -2707,7 +2707,7 @@
         "sku": "X000009833011",
         "price": 220.0,
         "available": true,
-        "inventory_quantity": 1
+        "inventory_quantity": null
       }
     }
   },
@@ -2716,7 +2716,7 @@
     "title": "Arc'teryx Kragg SL Cotton Shirt SS Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-kragg-sl-cotton-shirt-ss-mens",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S25-X000009533-Kragg-SL-Cotton-Shirt-SS-White-Light-Front-View.jpg?v=1770835575",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S25-X000009533-Kragg-SL-Cotton-Shirt-SS-White-Light-Front-View.jpg?v=1770835575",
     "variants": {
       "52777646653803": {
         "id": 52777646653803,
@@ -2727,7 +2727,7 @@
         "sku": "X000009533027",
         "price": 60.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52777646686571": {
         "id": 52777646686571,
@@ -2738,7 +2738,7 @@
         "sku": "X000009533028",
         "price": 60.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52777646719339": {
         "id": 52777646719339,
@@ -2749,7 +2749,7 @@
         "sku": "X000009533029",
         "price": 60.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52777646752107": {
         "id": 52777646752107,
@@ -2760,7 +2760,7 @@
         "sku": "X000009533030",
         "price": 60.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52906727735659": {
         "id": 52906727735659,
@@ -2771,7 +2771,7 @@
         "sku": "X000009533064",
         "price": 60.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52906727768427": {
         "id": 52906727768427,
@@ -2782,7 +2782,7 @@
         "sku": "X000009533065",
         "price": 60.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
@@ -6152,7 +6152,7 @@
     "title": "Arc'teryx Beta SL Jacket Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-beta-sl-jacket-mens",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S25-X000009685-Beta-SL-Jacket-Black-Front-View.jpg?v=1759322579",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S25-X000009685-Beta-SL-Jacket-Black-Front-View.jpg?v=1759322579",
     "variants": {
       "51996154921323": {
         "id": 51996154921323,
@@ -6163,7 +6163,7 @@
         "sku": "X000009684002",
         "price": 500.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "51996154954091": {
         "id": 51996154954091,
@@ -6174,7 +6174,7 @@
         "sku": "X000009684003",
         "price": 500.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "51996154986859": {
         "id": 51996154986859,
@@ -6185,7 +6185,7 @@
         "sku": "X000009684004",
         "price": 500.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "51996155019627": {
         "id": 51996155019627,
@@ -6196,7 +6196,7 @@
         "sku": "X000009684005",
         "price": 500.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "51996155052395": {
         "id": 51996155052395,
@@ -6207,7 +6207,7 @@
         "sku": "X000009684057",
         "price": 500.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "51996155085163": {
         "id": 51996155085163,
@@ -6218,7 +6218,7 @@
         "sku": "X000009684058",
         "price": 500.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52233680879979": {
         "id": 52233680879979,
@@ -6229,7 +6229,7 @@
         "sku": "X000009684059",
         "price": 500.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52431792079211": {
         "id": 52431792079211,
@@ -6240,7 +6240,7 @@
         "sku": "X000009684056",
         "price": 500.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
@@ -8051,7 +8051,7 @@
     "title": "Arc'teryx Konseal SL Pullover Hoodie Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-konseal-sl-pullover-hoodie-mens",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/Arcteryx-Mens-Konseal-SL-Pullover-Hoody-Forage-Tatsu-X000009807-021075.jpg?v=1756234805",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/Arcteryx-Mens-Konseal-SL-Pullover-Hoody-Forage-Tatsu-X000009807-021075.jpg?v=1756234805",
     "variants": {
       "52040021999979": {
         "id": 52040021999979,
@@ -8062,7 +8062,7 @@
         "sku": "X000009807015",
         "price": 160.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52040022032747": {
         "id": 52040022032747,
@@ -8073,7 +8073,7 @@
         "sku": "X000009807016",
         "price": 160.0,
         "available": true,
-        "inventory_quantity": 2
+        "inventory_quantity": null
       },
       "52040022065515": {
         "id": 52040022065515,
@@ -8084,7 +8084,7 @@
         "sku": "X000009807017",
         "price": 160.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52233681043819": {
         "id": 52233681043819,
@@ -8095,7 +8095,7 @@
         "sku": "X000009807009",
         "price": 160.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52233681076587": {
         "id": 52233681076587,
@@ -8106,7 +8106,7 @@
         "sku": "X000009807010",
         "price": 160.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52332640239979": {
         "id": 52332640239979,
@@ -8117,7 +8117,7 @@
         "sku": "X000009807011",
         "price": 160.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
