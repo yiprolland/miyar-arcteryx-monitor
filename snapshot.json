@@ -1676,7 +1676,7 @@
     "title": "Arc'teryx Squamish Jacket Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-squamish-jacket-mens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S26-X000010284-Squamish-Jacket-Black-Front-View.jpg?v=1771942456",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S26-X000010284-Squamish-Jacket-Black-Front-View.jpg?v=1771942456",
     "variants": {
       "52936376156523": {
         "id": 52936376156523,
@@ -1687,7 +1687,7 @@
         "sku": "X000010284009",
         "price": 180.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52936588886379": {
         "id": 52936588886379,
@@ -1698,7 +1698,7 @@
         "sku": "X000010284012",
         "price": 180.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
