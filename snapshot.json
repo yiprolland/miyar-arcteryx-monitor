@@ -648,7 +648,7 @@
         "sku": "X000010292039",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52987206271339": {
         "id": 52987206271339,
@@ -659,7 +659,7 @@
         "sku": "X000010292040",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52987206304107": {
         "id": 52987206304107,
@@ -670,7 +670,7 @@
         "sku": "X000010292041",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52987206336875": {
         "id": 52987206336875,
@@ -681,7 +681,7 @@
         "sku": "X000010292042",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53019478098283": {
         "id": 53019478098283,
@@ -692,7 +692,7 @@
         "sku": "X000010292021",
         "price": 70.0,
         "available": true,
-        "inventory_quantity": 1
+        "inventory_quantity": null
       },
       "53019478131051": {
         "id": 53019478131051,
@@ -703,7 +703,7 @@
         "sku": "X000010292022",
         "price": 70.0,
         "available": true,
-        "inventory_quantity": 2
+        "inventory_quantity": null
       },
       "53019478163819": {
         "id": 53019478163819,
@@ -714,7 +714,7 @@
         "sku": "X000010292023",
         "price": 70.0,
         "available": true,
-        "inventory_quantity": 2
+        "inventory_quantity": null
       },
       "53019478196587": {
         "id": 53019478196587,
@@ -725,7 +725,7 @@
         "sku": "X000010292024",
         "price": 70.0,
         "available": true,
-        "inventory_quantity": 1
+        "inventory_quantity": null
       }
     }
   },
@@ -5504,7 +5504,7 @@
     "title": "Arc'teryx Men's Beta SL Jacket",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-mens-beta-sl-jacket",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000010552-Beta-SL-Jacket-Black-Front-View_0edf5b5d-e35f-49ac-9350-9389c7f807e2.jpg?v=1773938992",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/F25-X000010552-Beta-SL-Jacket-Black-Front-View_0edf5b5d-e35f-49ac-9350-9389c7f807e2.jpg?v=1773938992",
     "variants": {
       "52253087170923": {
         "id": 52253087170923,
@@ -5515,7 +5515,7 @@
         "sku": "X000010553008",
         "price": 500.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52253087203691": {
         "id": 52253087203691,
@@ -5526,7 +5526,7 @@
         "sku": "X000010553009",
         "price": 500.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52253087236459": {
         "id": 52253087236459,
@@ -5537,7 +5537,7 @@
         "sku": "X000010553010",
         "price": 500.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52253087269227": {
         "id": 52253087269227,
@@ -5548,7 +5548,7 @@
         "sku": "X000010553011",
         "price": 500.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53019477377387": {
         "id": 53019477377387,
@@ -5559,7 +5559,7 @@
         "sku": "X000010553069",
         "price": 500.0,
         "available": true,
-        "inventory_quantity": 1
+        "inventory_quantity": null
       },
       "53019477410155": {
         "id": 53019477410155,
@@ -5570,7 +5570,7 @@
         "sku": "X000010553070",
         "price": 500.0,
         "available": true,
-        "inventory_quantity": 1
+        "inventory_quantity": null
       },
       "53019477442923": {
         "id": 53019477442923,
@@ -5581,7 +5581,7 @@
         "sku": "X000010553071",
         "price": 500.0,
         "available": true,
-        "inventory_quantity": 1
+        "inventory_quantity": null
       }
     }
   },
@@ -6152,7 +6152,7 @@
     "title": "Arc'teryx Beta SL Jacket Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-beta-sl-jacket-mens",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S25-X000009685-Beta-SL-Jacket-Black-Front-View.jpg?v=1759322579",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S25-X000009685-Beta-SL-Jacket-Black-Front-View.jpg?v=1759322579",
     "variants": {
       "51996154921323": {
         "id": 51996154921323,
@@ -6163,7 +6163,7 @@
         "sku": "X000009684002",
         "price": 500.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "51996154954091": {
         "id": 51996154954091,
@@ -6174,7 +6174,7 @@
         "sku": "X000009684003",
         "price": 500.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "51996154986859": {
         "id": 51996154986859,
@@ -6185,7 +6185,7 @@
         "sku": "X000009684004",
         "price": 500.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "51996155019627": {
         "id": 51996155019627,
@@ -6196,7 +6196,7 @@
         "sku": "X000009684005",
         "price": 500.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "51996155052395": {
         "id": 51996155052395,
@@ -6207,7 +6207,7 @@
         "sku": "X000009684057",
         "price": 500.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "51996155085163": {
         "id": 51996155085163,
@@ -6218,7 +6218,7 @@
         "sku": "X000009684058",
         "price": 500.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52233680879979": {
         "id": 52233680879979,
@@ -6229,7 +6229,7 @@
         "sku": "X000009684059",
         "price": 500.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52431792079211": {
         "id": 52431792079211,
@@ -6240,7 +6240,7 @@
         "sku": "X000009684056",
         "price": 500.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
