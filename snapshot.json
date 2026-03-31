@@ -1246,7 +1246,7 @@
     "title": "Arc'teryx Men's Squamish Hoody",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-mens-squamish-hoody",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S26-X000010276-Squamish-Hoody-Black-Front-View.jpg?v=1773170184",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S26-X000010276-Squamish-Hoody-Black-Front-View_a7bac06b-f610-440a-9f19-60bbd3a40613.jpg?v=1774978981",
     "variants": {
       "52941142524267": {
         "id": 52941142524267,
@@ -1300,8 +1300,8 @@
         "option3": null,
         "sku": "X000010276016",
         "price": 200.0,
-        "available": true,
-        "inventory_quantity": 1
+        "available": false,
+        "inventory_quantity": 0
       },
       "52941142688107": {
         "id": 52941142688107,
@@ -1311,8 +1311,8 @@
         "option3": null,
         "sku": "X000010276017",
         "price": 200.0,
-        "available": true,
-        "inventory_quantity": 1
+        "available": false,
+        "inventory_quantity": 0
       },
       "52941142720875": {
         "id": 52941142720875,
@@ -1322,8 +1322,8 @@
         "option3": null,
         "sku": "X000010276018",
         "price": 200.0,
-        "available": true,
-        "inventory_quantity": 1
+        "available": false,
+        "inventory_quantity": 0
       },
       "52987206107499": {
         "id": 52987206107499,
