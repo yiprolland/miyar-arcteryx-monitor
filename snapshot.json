@@ -2499,8 +2499,8 @@
         "option3": "US",
         "sku": "X000009834003",
         "price": 190.0,
-        "available": true,
-        "inventory_quantity": 3
+        "available": false,
+        "inventory_quantity": 0
       },
       "52778012868971": {
         "id": 52778012868971,
@@ -2510,8 +2510,8 @@
         "option3": "US",
         "sku": "X000009834004",
         "price": 190.0,
-        "available": true,
-        "inventory_quantity": 5
+        "available": false,
+        "inventory_quantity": 0
       },
       "52778012901739": {
         "id": 52778012901739,
@@ -2521,8 +2521,8 @@
         "option3": "US",
         "sku": "X000009834005",
         "price": 190.0,
-        "available": true,
-        "inventory_quantity": 7
+        "available": false,
+        "inventory_quantity": 0
       },
       "52778012934507": {
         "id": 52778012934507,
@@ -2532,8 +2532,8 @@
         "option3": "US",
         "sku": "X000009834006",
         "price": 190.0,
-        "available": true,
-        "inventory_quantity": 7
+        "available": false,
+        "inventory_quantity": 0
       },
       "52778012967275": {
         "id": 52778012967275,
@@ -2543,8 +2543,8 @@
         "option3": "US",
         "sku": "X000009834007",
         "price": 190.0,
-        "available": true,
-        "inventory_quantity": 2
+        "available": false,
+        "inventory_quantity": 0
       },
       "52778013000043": {
         "id": 52778013000043,
@@ -4198,8 +4198,8 @@
         "option3": null,
         "sku": "X000009862012",
         "price": 900.0,
-        "available": false,
-        "inventory_quantity": 0
+        "available": true,
+        "inventory_quantity": 1
       },
       "52441146556779": {
         "id": 52441146556779,
@@ -7019,8 +7019,8 @@
         "option3": null,
         "sku": "X000010516012",
         "price": 400.0,
-        "available": false,
-        "inventory_quantity": 0
+        "available": true,
+        "inventory_quantity": 5
       },
       "52332640272747": {
         "id": 52332640272747,
