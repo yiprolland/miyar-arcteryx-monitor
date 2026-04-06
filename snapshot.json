@@ -1470,8 +1470,8 @@
         "option3": null,
         "sku": "X000010078013",
         "price": 140.0,
-        "available": true,
-        "inventory_quantity": 1
+        "available": false,
+        "inventory_quantity": 0
       },
       "52940759728491": {
         "id": 52940759728491,
@@ -1481,8 +1481,8 @@
         "option3": null,
         "sku": "X000010078014",
         "price": 140.0,
-        "available": true,
-        "inventory_quantity": 1
+        "available": false,
+        "inventory_quantity": 0
       },
       "52940759761259": {
         "id": 52940759761259,
@@ -1492,8 +1492,8 @@
         "option3": null,
         "sku": "X000010078015",
         "price": 140.0,
-        "available": true,
-        "inventory_quantity": 3
+        "available": false,
+        "inventory_quantity": 0
       },
       "52940759794027": {
         "id": 52940759794027,
@@ -1503,8 +1503,8 @@
         "option3": null,
         "sku": "X000010078016",
         "price": 140.0,
-        "available": true,
-        "inventory_quantity": 1
+        "available": false,
+        "inventory_quantity": 0
       },
       "52940759826795": {
         "id": 52940759826795,
@@ -2424,8 +2424,8 @@
         "option3": "US",
         "sku": "X000010397002",
         "price": 200.0,
-        "available": true,
-        "inventory_quantity": 5
+        "available": false,
+        "inventory_quantity": 0
       },
       "52778013131115": {
         "id": 52778013131115,
@@ -2435,8 +2435,8 @@
         "option3": "US",
         "sku": "X000010397003",
         "price": 200.0,
-        "available": true,
-        "inventory_quantity": 5
+        "available": false,
+        "inventory_quantity": 0
       },
       "52778013163883": {
         "id": 52778013163883,
@@ -2446,8 +2446,8 @@
         "option3": "US",
         "sku": "X000010397004",
         "price": 200.0,
-        "available": true,
-        "inventory_quantity": 5
+        "available": false,
+        "inventory_quantity": -1
       },
       "52778013196651": {
         "id": 52778013196651,
@@ -2457,8 +2457,8 @@
         "option3": "US",
         "sku": "X000010397005",
         "price": 200.0,
-        "available": true,
-        "inventory_quantity": 5
+        "available": false,
+        "inventory_quantity": 0
       },
       "52778013229419": {
         "id": 52778013229419,
@@ -2468,8 +2468,8 @@
         "option3": "US",
         "sku": "X000010397006",
         "price": 200.0,
-        "available": true,
-        "inventory_quantity": 5
+        "available": false,
+        "inventory_quantity": 0
       },
       "52778013262187": {
         "id": 52778013262187,
@@ -2479,8 +2479,8 @@
         "option3": "US",
         "sku": "X000010397007",
         "price": 200.0,
-        "available": true,
-        "inventory_quantity": 5
+        "available": false,
+        "inventory_quantity": 0
       },
       "52778013294955": {
         "id": 52778013294955,
@@ -2491,7 +2491,7 @@
         "sku": "X000010397008",
         "price": 200.0,
         "available": true,
-        "inventory_quantity": 6
+        "inventory_quantity": 1
       },
       "52778013327723": {
         "id": 52778013327723,
