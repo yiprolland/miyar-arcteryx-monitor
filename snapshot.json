@@ -5581,7 +5581,7 @@
     "title": "Arc'teryx Men's Beta SL Jacket",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-mens-beta-sl-jacket",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000010552-Beta-SL-Jacket-Black-Front-View_0edf5b5d-e35f-49ac-9350-9389c7f807e2.jpg?v=1773938992",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000010552-Beta-SL-Jacket-Black-Front-View.jpg?v=1775571212",
     "variants": {
       "52253087170923": {
         "id": 52253087170923,
@@ -5656,6 +5656,39 @@
         "option2": "XL",
         "option3": null,
         "sku": "X000010553071",
+        "price": 500.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "53071205630315": {
+        "id": 53071205630315,
+        "title": "Void / S",
+        "option1": "Void",
+        "option2": "S",
+        "option3": null,
+        "sku": "X000010553050",
+        "price": 500.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "53071205663083": {
+        "id": 53071205663083,
+        "title": "Void / M",
+        "option1": "Void",
+        "option2": "M",
+        "option3": null,
+        "sku": "X000010553051",
+        "price": 500.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "53071205695851": {
+        "id": 53071205695851,
+        "title": "Void / L",
+        "option1": "Void",
+        "option2": "L",
+        "option3": null,
+        "sku": "X000010553052",
         "price": 500.0,
         "available": false,
         "inventory_quantity": 0
