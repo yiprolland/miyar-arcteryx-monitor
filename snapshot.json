@@ -1,4 +1,57 @@
 {
+  "arcteryx-gamma-sl-short-9-mens": {
+    "handle": "arcteryx-gamma-sl-short-9-mens",
+    "title": "Arc'teryx Gamma SL Short 9\" Men's",
+    "vendor": "Arc'teryx",
+    "url": "https://store.miyaradventures.com/products/arcteryx-gamma-sl-short-9-mens",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S26-X000009531-Gamma-SL-Short-9-Black.jpg?v=1775931892",
+    "variants": {
+      "53082157678955": {
+        "id": 53082157678955,
+        "title": "Black / 30",
+        "option1": "Black",
+        "option2": "30",
+        "option3": null,
+        "sku": "X000009531004",
+        "price": 120.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "53082157711723": {
+        "id": 53082157711723,
+        "title": "Black / 32",
+        "option1": "Black",
+        "option2": "32",
+        "option3": null,
+        "sku": "X000009531006",
+        "price": 120.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "53082157744491": {
+        "id": 53082157744491,
+        "title": "Black / 34",
+        "option1": "Black",
+        "option2": "34",
+        "option3": null,
+        "sku": "X000009531008",
+        "price": 120.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "53082157777259": {
+        "id": 53082157777259,
+        "title": "Black / 36",
+        "option1": "Black",
+        "option2": "36",
+        "option3": null,
+        "sku": "X000009531009",
+        "price": 120.0,
+        "available": false,
+        "inventory_quantity": 0
+      }
+    }
+  },
   "arcteryx-gamma-lightweight-hoody-womens": {
     "handle": "arcteryx-gamma-lightweight-hoody-womens",
     "title": "Arc'teryx Gamma Lightweight Hoody Women's",
