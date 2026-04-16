@@ -1468,7 +1468,7 @@
     "title": "Arc'teryx Ion SL Chalkbag",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-ion-sl-chalkbag",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S26-X000010364-Ion-SL-Chalkbag-Mantis-Side.jpg?v=1776280545",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S26-X000010364-Ion-SL-Chalkbag-Mantis-Side_94074cec-c5ee-4a64-9b88-edb0a4717b68.jpg?v=1776343790",
     "variants": {
       "52941143015787": {
         "id": 52941143015787,
@@ -1510,6 +1510,28 @@
         "option2": "L",
         "option3": null,
         "sku": "X000010364002",
+        "price": 50.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "53109901164907": {
+        "id": 53109901164907,
+        "title": "Reef / M",
+        "option1": "Reef",
+        "option2": "M",
+        "option3": null,
+        "sku": "X000010364005",
+        "price": 50.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "53109901197675": {
+        "id": 53109901197675,
+        "title": "Reef / L",
+        "option1": "Reef",
+        "option2": "L",
+        "option3": null,
+        "sku": "X000010364006",
         "price": 50.0,
         "available": false,
         "inventory_quantity": 0
