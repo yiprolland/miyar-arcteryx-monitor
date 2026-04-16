@@ -4051,6 +4051,17 @@
         "price": 50.0,
         "available": false,
         "inventory_quantity": 0
+      },
+      "53110951313771": {
+        "id": 53110951313771,
+        "title": "Arctic Silk / Aster",
+        "option1": "Arctic Silk / Aster",
+        "option2": null,
+        "option3": null,
+        "sku": "X000009828012",
+        "price": 50.0,
+        "available": false,
+        "inventory_quantity": 0
       }
     }
   },
