@@ -1362,7 +1362,7 @@
     "title": "Arc'teryx AR-395a Men's Harness",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-ar-395a-mens-harness",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S26-X000010388-AR-395a-Harness-Forage-Mantis-Front.jpg?v=1772135969",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S26-X000010388-AR-395a-Harness-Forage-Mantis-Front.jpg?v=1772135969",
     "variants": {
       "52941143540075": {
         "id": 52941143540075,
@@ -1373,7 +1373,7 @@
         "sku": "X000010388012",
         "price": 160.0,
         "available": true,
-        "inventory_quantity": 1
+        "inventory_quantity": null
       },
       "52941143572843": {
         "id": 52941143572843,
@@ -1384,7 +1384,7 @@
         "sku": "X000010388013",
         "price": 160.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52941143605611": {
         "id": 52941143605611,
@@ -1395,7 +1395,7 @@
         "sku": "X000010388014",
         "price": 160.0,
         "available": true,
-        "inventory_quantity": 1
+        "inventory_quantity": null
       },
       "52941143638379": {
         "id": 52941143638379,
@@ -1406,7 +1406,7 @@
         "sku": "X000010388015",
         "price": 160.0,
         "available": true,
-        "inventory_quantity": 1
+        "inventory_quantity": null
       }
     }
   },
