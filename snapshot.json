@@ -1118,6 +1118,17 @@
         "price": 300.0,
         "available": false,
         "inventory_quantity": 0
+      },
+      "53124408705387": {
+        "id": 53124408705387,
+        "title": "Black / XS",
+        "option1": "Black",
+        "option2": "XS",
+        "option3": null,
+        "sku": "X000010561016",
+        "price": 300.0,
+        "available": false,
+        "inventory_quantity": 0
       }
     }
   },
@@ -1803,6 +1814,39 @@
         "option2": "XL",
         "option3": null,
         "sku": "X000010276048",
+        "price": 200.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "53124644667755": {
+        "id": 53124644667755,
+        "title": "Habitat / S",
+        "option1": "Habitat",
+        "option2": "S",
+        "option3": null,
+        "sku": "X000010276027",
+        "price": 200.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "53124644700523": {
+        "id": 53124644700523,
+        "title": "Habitat / M",
+        "option1": "Habitat",
+        "option2": "M",
+        "option3": null,
+        "sku": "X000010276028",
+        "price": 200.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "53124644733291": {
+        "id": 53124644733291,
+        "title": "Habitat / XL",
+        "option1": "Habitat",
+        "option2": "XL",
+        "option3": null,
+        "sku": "X000010276030",
         "price": 200.0,
         "available": false,
         "inventory_quantity": 0
