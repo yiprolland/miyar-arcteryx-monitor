@@ -5774,7 +5774,7 @@
     "title": "Arc'teryx Rho LT Hoody Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-rho-lt-hoody-mens-2",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009423-Rho-LT-Hoody-Black-Sapphire-II-Front-View.avif?v=1765915004",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009423-Rho-LT-Hoody-Black-Sapphire-II-Front-View.avif?v=1765915004",
     "variants": {
       "52395051286891": {
         "id": 52395051286891,
@@ -5785,7 +5785,7 @@
         "sku": "X000009423001",
         "price": 120.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52395051319659": {
         "id": 52395051319659,
@@ -5796,7 +5796,7 @@
         "sku": "X000009423002",
         "price": 120.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52395051352427": {
         "id": 52395051352427,
@@ -5807,7 +5807,7 @@
         "sku": "X000009423003",
         "price": 120.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52395051385195": {
         "id": 52395051385195,
@@ -5818,7 +5818,7 @@
         "sku": "X000009423004",
         "price": 120.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52441145835883": {
         "id": 52441145835883,
@@ -5829,7 +5829,7 @@
         "sku": "X000009423016",
         "price": 120.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52441145868651": {
         "id": 52441145868651,
@@ -5840,7 +5840,7 @@
         "sku": "X000009423017",
         "price": 120.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52441145901419": {
         "id": 52441145901419,
@@ -5851,7 +5851,7 @@
         "sku": "X000009423018",
         "price": 120.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52441145934187": {
         "id": 52441145934187,
@@ -5862,7 +5862,7 @@
         "sku": "X000009423019",
         "price": 120.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
