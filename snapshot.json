@@ -1944,7 +1944,7 @@
     "title": "Arc'teryx Atom SL Jacket Women's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-atom-sl-jacket-womens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/ArcticSilk_b392caec-afdc-4bbb-9465-ef2b3aca451e.avif?v=1774885948",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/ArcticSilk_b392caec-afdc-4bbb-9465-ef2b3aca451e.avif?v=1774885948",
     "variants": {
       "52941141246315": {
         "id": 52941141246315,
@@ -1955,7 +1955,7 @@
         "sku": "X000009510031",
         "price": 260.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52941141279083": {
         "id": 52941141279083,
@@ -1966,7 +1966,7 @@
         "sku": "X000009510032",
         "price": 260.0,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       },
       "52941141311851": {
         "id": 52941141311851,
@@ -1977,7 +1977,7 @@
         "sku": "X000009510033",
         "price": 260.0,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       }
     }
   },
@@ -2297,7 +2297,7 @@
         "sku": "X000007992003",
         "price": 130.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52936376058219": {
         "id": 52936376058219,
@@ -2308,7 +2308,7 @@
         "sku": "X000007992004",
         "price": 130.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52936376090987": {
         "id": 52936376090987,
@@ -2319,7 +2319,7 @@
         "sku": "X000007992005",
         "price": 130.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
@@ -2348,7 +2348,7 @@
     "title": "Arc'teryx Granville Zip 16 Backpack",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-granville-zip-16-backpack",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/31-487259-0-image-1313514.jpg?v=1771704758",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/31-487259-0-image-1313514.jpg?v=1771704758",
     "variants": {
       "52931286958443": {
         "id": 52931286958443,
@@ -2359,7 +2359,7 @@
         "sku": "18792 - 450528",
         "price": 180.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
@@ -2368,7 +2368,7 @@
     "title": "Arc'teryx Aerios 30 Backpack Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-aerios-30-backpack-mens",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/Aerios-30-Backpack-Glade.jpg?v=1771704615",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/Aerios-30-Backpack-Glade.jpg?v=1771704615",
     "variants": {
       "52931283255659": {
         "id": 52931283255659,
@@ -2379,7 +2379,7 @@
         "sku": "27337 - 451450",
         "price": 190.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
