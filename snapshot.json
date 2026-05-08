@@ -1944,7 +1944,7 @@
     "title": "Arc'teryx Atom SL Jacket Women's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-atom-sl-jacket-womens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/ArcticSilk_b392caec-afdc-4bbb-9465-ef2b3aca451e.avif?v=1774885948",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/ArcticSilk_b392caec-afdc-4bbb-9465-ef2b3aca451e.avif?v=1774885948",
     "variants": {
       "52941141246315": {
         "id": 52941141246315,
@@ -1955,7 +1955,7 @@
         "sku": "X000009510031",
         "price": 260.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52941141279083": {
         "id": 52941141279083,
@@ -1966,7 +1966,7 @@
         "sku": "X000009510032",
         "price": 260.0,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       },
       "52941141311851": {
         "id": 52941141311851,
@@ -1977,7 +1977,7 @@
         "sku": "X000009510033",
         "price": 260.0,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       }
     }
   },
