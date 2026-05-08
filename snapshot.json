@@ -2368,7 +2368,7 @@
     "title": "Arc'teryx Aerios 30 Backpack Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-aerios-30-backpack-mens",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/Aerios-30-Backpack-Glade.jpg?v=1771704615",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/Aerios-30-Backpack-Glade.jpg?v=1771704615",
     "variants": {
       "52931283255659": {
         "id": 52931283255659,
@@ -2379,7 +2379,7 @@
         "sku": "27337 - 451450",
         "price": 190.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
@@ -2428,7 +2428,7 @@
     "title": "Arc'teryx Rush SK 42 Backpack",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-rush-sk-42-backpack",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/Rush-SK-42-Backpack-Tatsu.jpg?v=1771704575",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/Rush-SK-42-Backpack-Tatsu.jpg?v=1771704575",
     "variants": {
       "52931280339307": {
         "id": 52931280339307,
@@ -2439,7 +2439,7 @@
         "sku": "27453 - 473020",
         "price": 240.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
@@ -2596,7 +2596,7 @@
     "title": "Arc'teryx Kragg Cotton Little Bird Crew Shirt SS Women's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-kragg-cotton-little-bird-crew-shirt-ss-womens",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S26-X000008468-Kragg-Cotton-Little-Bird-Crew-Neck-Shirt-SS-Pineberry-Women-s-Front-View_34455526-2824-470f-a505-d843ba1d29d6.jpg?v=1776280537",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S26-X000008468-Kragg-Cotton-Little-Bird-Crew-Neck-Shirt-SS-Pineberry-Women-s-Front-View_34455526-2824-470f-a505-d843ba1d29d6.jpg?v=1776280537",
     "variants": {
       "52906728227179": {
         "id": 52906728227179,
@@ -2607,7 +2607,7 @@
         "sku": "X000008468102",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52906728259947": {
         "id": 52906728259947,
@@ -2618,7 +2618,7 @@
         "sku": "X000008468103",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52906728292715": {
         "id": 52906728292715,
@@ -2629,7 +2629,7 @@
         "sku": "X000008468104",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53107711967595": {
         "id": 53107711967595,
@@ -2640,7 +2640,7 @@
         "sku": "X000008468003",
         "price": 70.0,
         "available": true,
-        "inventory_quantity": 1
+        "inventory_quantity": null
       },
       "53107712000363": {
         "id": 53107712000363,
@@ -2651,7 +2651,7 @@
         "sku": "X000008468004",
         "price": 70.0,
         "available": true,
-        "inventory_quantity": 1
+        "inventory_quantity": null
       },
       "53107712033131": {
         "id": 53107712033131,
@@ -2662,7 +2662,7 @@
         "sku": "X000008468005",
         "price": 70.0,
         "available": true,
-        "inventory_quantity": 1
+        "inventory_quantity": null
       },
       "53107712065899": {
         "id": 53107712065899,
@@ -2673,7 +2673,7 @@
         "sku": "X000008468006",
         "price": 70.0,
         "available": true,
-        "inventory_quantity": 1
+        "inventory_quantity": null
       }
     }
   },
