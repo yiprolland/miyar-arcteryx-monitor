@@ -2428,7 +2428,7 @@
     "title": "Arc'teryx Rush SK 42 Backpack",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-rush-sk-42-backpack",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/Rush-SK-42-Backpack-Tatsu.jpg?v=1771704575",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/Rush-SK-42-Backpack-Tatsu.jpg?v=1771704575",
     "variants": {
       "52931280339307": {
         "id": 52931280339307,
@@ -2439,7 +2439,7 @@
         "sku": "27453 - 473020",
         "price": 240.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
@@ -2543,7 +2543,7 @@
     "title": "Arc'teryx Kyanite Jacket Women's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-kyanite-jacket-womens",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000008516-Kyanite-Jacket-Black-Women-s-Front-View.jpg?v=1770835578",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/F25-X000008516-Kyanite-Jacket-Black-Women-s-Front-View.jpg?v=1770835578",
     "variants": {
       "52906728489323": {
         "id": 52906728489323,
@@ -2554,7 +2554,7 @@
         "sku": "X000008516003",
         "price": 180.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52906728522091": {
         "id": 52906728522091,
@@ -2565,7 +2565,7 @@
         "sku": "X000008516004",
         "price": 180.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52906728554859": {
         "id": 52906728554859,
@@ -2576,7 +2576,7 @@
         "sku": "X000008516073",
         "price": 180.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52906728587627": {
         "id": 52906728587627,
@@ -2587,7 +2587,7 @@
         "sku": "X000008516074",
         "price": 180.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
@@ -2702,7 +2702,7 @@
     "title": "Arc'teryx Kyanite Lightweight Jacket Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-kyanite-lightweight-jacket-mens",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/unnamed_19_763b29b2-f418-4914-aa12-a706a89ca23b.png?v=1771942441",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/unnamed_19_763b29b2-f418-4914-aa12-a706a89ca23b.png?v=1771942441",
     "variants": {
       "52936375665003": {
         "id": 52936375665003,
@@ -2713,7 +2713,7 @@
         "sku": "X000009640002",
         "price": 140.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52783807889771": {
         "id": 52783807889771,
@@ -2724,7 +2724,7 @@
         "sku": "X000009640003",
         "price": 140.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52783807922539": {
         "id": 52783807922539,
@@ -2735,7 +2735,7 @@
         "sku": "X000009640004",
         "price": 140.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52936375697771": {
         "id": 52936375697771,
@@ -2746,7 +2746,7 @@
         "sku": "X000009640008",
         "price": 140.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52936375730539": {
         "id": 52936375730539,
@@ -2757,7 +2757,7 @@
         "sku": "X000009640009",
         "price": 140.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52936375763307": {
         "id": 52936375763307,
@@ -2768,7 +2768,7 @@
         "sku": "X000009640010",
         "price": 140.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
