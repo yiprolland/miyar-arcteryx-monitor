@@ -8301,7 +8301,7 @@
     "title": "Arc'teryx Men's Covert 1/2 Zip",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-mens-covert-1-2-zip",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/F25-X000010360-Covert-1-2-Zip-Neck-Black-Heather-II-Front-View.jpg?v=1762275096",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000010360-Covert-1-2-Zip-Neck-Black-Heather-II-Front-View.jpg?v=1762275096",
     "variants": {
       "52194938552683": {
         "id": 52194938552683,
@@ -8312,7 +8312,7 @@
         "sku": "X000010360002",
         "price": 160.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52194938585451": {
         "id": 52194938585451,
@@ -8323,7 +8323,7 @@
         "sku": "X000010360003",
         "price": 160.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52194938618219": {
         "id": 52194938618219,
@@ -8334,7 +8334,7 @@
         "sku": "X000010360004",
         "price": 160.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52194938650987": {
         "id": 52194938650987,
@@ -8345,7 +8345,7 @@
         "sku": "X000010360005",
         "price": 160.0,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       },
       "52253082157419": {
         "id": 52253082157419,
@@ -8356,7 +8356,7 @@
         "sku": "X000010360020",
         "price": 160.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52253082190187": {
         "id": 52253082190187,
@@ -8367,7 +8367,7 @@
         "sku": "X000010360021",
         "price": 160.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52253082222955": {
         "id": 52253082222955,
@@ -8378,7 +8378,7 @@
         "sku": "X000010360022",
         "price": 160.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52253082255723": {
         "id": 52253082255723,
@@ -8389,7 +8389,7 @@
         "sku": "X000010360023",
         "price": 160.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52519586267499": {
         "id": 52519586267499,
@@ -8400,7 +8400,7 @@
         "sku": "X000010360009",
         "price": 160.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52519586300267": {
         "id": 52519586300267,
@@ -8411,7 +8411,7 @@
         "sku": "X000010360010",
         "price": 160.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
