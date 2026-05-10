@@ -3542,7 +3542,7 @@
     "title": "Arc'teryx Fission SV Mitten",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-fission-sv-mitten",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009940-Fission-SV-Mitten-Black-Front.jpg?v=1768237411",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009940-Fission-SV-Mitten-Black-Front.jpg?v=1768237411",
     "variants": {
       "52752651878763": {
         "id": 52752651878763,
@@ -3553,7 +3553,7 @@
         "sku": "X000009940004",
         "price": 200.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52752651911531": {
         "id": 52752651911531,
@@ -3564,7 +3564,7 @@
         "sku": "X000009940005",
         "price": 200.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52752651944299": {
         "id": 52752651944299,
@@ -3575,7 +3575,7 @@
         "sku": "X000009940006",
         "price": 200.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52752651977067": {
         "id": 52752651977067,
@@ -3586,7 +3586,7 @@
         "sku": "X000009940007",
         "price": 200.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
