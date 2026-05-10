@@ -2368,7 +2368,7 @@
     "title": "Arc'teryx Aerios 30 Backpack Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-aerios-30-backpack-mens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/Aerios-30-Backpack-Glade.jpg?v=1771704615",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/Aerios-30-Backpack-Glade.jpg?v=1771704615",
     "variants": {
       "52931283255659": {
         "id": 52931283255659,
@@ -2379,7 +2379,7 @@
         "sku": "27337 - 451450",
         "price": 190.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -2468,7 +2468,7 @@
     "title": "Arc'teryx Kragg SL Cotton Emblem Crew Shirt SS Women's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-kragg-sl-cotton-emblem-crew-shirt-ss-womens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009502-Kragg-SL-Cotton-Emblem-Crew-Shirt-SS-Glacial-Women-s-Front-View.jpg?v=1770835583",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009502-Kragg-SL-Cotton-Emblem-Crew-Shirt-SS-Glacial-Women-s-Front-View.jpg?v=1770835583",
     "variants": {
       "52906729013611": {
         "id": 52906729013611,
@@ -2479,7 +2479,7 @@
         "sku": "X000009502095",
         "price": 60.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52906729046379": {
         "id": 52906729046379,
@@ -2490,7 +2490,7 @@
         "sku": "X000009502096",
         "price": 60.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52906729079147": {
         "id": 52906729079147,
@@ -2501,7 +2501,7 @@
         "sku": "X000009502097",
         "price": 60.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52906729111915": {
         "id": 52906729111915,
@@ -2512,7 +2512,7 @@
         "sku": "X000009502123",
         "price": 60.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52906729144683": {
         "id": 52906729144683,
@@ -2523,7 +2523,7 @@
         "sku": "X000009502124",
         "price": 60.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52906729177451": {
         "id": 52906729177451,
@@ -2534,7 +2534,7 @@
         "sku": "X000009502125",
         "price": 60.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
