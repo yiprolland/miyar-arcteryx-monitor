@@ -1041,8 +1041,8 @@
         "option3": null,
         "sku": "X000010292006",
         "price": 70.0,
-        "available": true,
-        "inventory_quantity": 1
+        "available": false,
+        "inventory_quantity": 0
       }
     }
   },
@@ -2328,7 +2328,7 @@
     "title": "Arc'teryx Granville 20 Backpack",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-granville-20-backpack",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/31-487258-0-image-1313513.jpg?v=1771704765",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/31-487258-0-image-1313513.jpg?v=1771704765",
     "variants": {
       "52931287122283": {
         "id": 52931287122283,
@@ -2339,7 +2339,7 @@
         "sku": "18096 - 450523",
         "price": 180.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
@@ -2348,7 +2348,7 @@
     "title": "Arc'teryx Granville Zip 16 Backpack",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-granville-zip-16-backpack",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/31-487259-0-image-1313514.jpg?v=1771704758",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/31-487259-0-image-1313514.jpg?v=1771704758",
     "variants": {
       "52931286958443": {
         "id": 52931286958443,
@@ -2359,7 +2359,7 @@
         "sku": "18792 - 450528",
         "price": 180.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -2368,7 +2368,7 @@
     "title": "Arc'teryx Aerios 30 Backpack Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-aerios-30-backpack-mens",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/Aerios-30-Backpack-Glade.jpg?v=1771704615",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/Aerios-30-Backpack-Glade.jpg?v=1771704615",
     "variants": {
       "52931283255659": {
         "id": 52931283255659,
@@ -2379,7 +2379,7 @@
         "sku": "27337 - 451450",
         "price": 190.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
@@ -2388,7 +2388,7 @@
     "title": "Arc'teryx Aerios 30 Backpack Women's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-aerios-30-backpack-womens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/Aerios-30-Backpack-W-Reflection.jpg?v=1771704611",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/Aerios-30-Backpack-W-Reflection.jpg?v=1771704611",
     "variants": {
       "52931282534763": {
         "id": 52931282534763,
@@ -2399,7 +2399,7 @@
         "sku": "27340 - 451456",
         "price": 190.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -2408,7 +2408,7 @@
     "title": "Arc'teryx Rush SK 32 Backpack",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-rush-sk-32-backpack",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/Rush-SK-32-Backpack-Black.jpg?v=1771704580",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/Rush-SK-32-Backpack-Black.jpg?v=1771704580",
     "variants": {
       "52931282141547": {
         "id": 52931282141547,
@@ -2419,7 +2419,7 @@
         "sku": "27452 - 472999",
         "price": 220.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
@@ -2428,7 +2428,7 @@
     "title": "Arc'teryx Rush SK 42 Backpack",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-rush-sk-42-backpack",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/Rush-SK-42-Backpack-Tatsu.jpg?v=1771704575",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/Rush-SK-42-Backpack-Tatsu.jpg?v=1771704575",
     "variants": {
       "52931280339307": {
         "id": 52931280339307,
@@ -2439,7 +2439,7 @@
         "sku": "27453 - 473020",
         "price": 240.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -9512,8 +9512,8 @@
         "option3": "Short",
         "sku": "X000009525005",
         "price": 160.0,
-        "available": true,
-        "inventory_quantity": 1
+        "available": false,
+        "inventory_quantity": 0
       },
       "52941138133355": {
         "id": 52941138133355,
