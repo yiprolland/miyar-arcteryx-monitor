@@ -7614,7 +7614,7 @@
     "title": "Arc'teryx Men's Cerium Vest",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-mens-cerium-vest",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000010531-Cerium-Vest-Black-Front-View.jpg?v=1764593154",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/F25-X000010531-Cerium-Vest-Black-Front-View.jpg?v=1764593154",
     "variants": {
       "52196422812011": {
         "id": 52196422812011,
@@ -7625,7 +7625,7 @@
         "sku": "X000010531002",
         "price": 300.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52196422844779": {
         "id": 52196422844779,
@@ -7636,7 +7636,7 @@
         "sku": "X000010531003",
         "price": 300.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52196422877547": {
         "id": 52196422877547,
@@ -7647,7 +7647,7 @@
         "sku": "X000010531004",
         "price": 300.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52196422910315": {
         "id": 52196422910315,
@@ -7658,7 +7658,7 @@
         "sku": "X000010531005",
         "price": 300.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52253082550635": {
         "id": 52253082550635,
@@ -7669,7 +7669,7 @@
         "sku": "X000010531008",
         "price": 300.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52253082583403": {
         "id": 52253082583403,
@@ -7680,7 +7680,7 @@
         "sku": "X000010531009",
         "price": 300.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52253082616171": {
         "id": 52253082616171,
@@ -7691,7 +7691,7 @@
         "sku": "X000010531010",
         "price": 300.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52253082648939": {
         "id": 52253082648939,
@@ -7702,7 +7702,7 @@
         "sku": "X000010531011",
         "price": 300.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
