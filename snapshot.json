@@ -2235,7 +2235,7 @@
     "title": "Arc'teryx Squamish Jacket Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-squamish-jacket-mens",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S26-X000010284-Squamish-Jacket-Black-Front-View.jpg?v=1771942456",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S26-X000010284-Squamish-Jacket-Black-Front-View.jpg?v=1771942456",
     "variants": {
       "52936376156523": {
         "id": 52936376156523,
@@ -2246,7 +2246,7 @@
         "sku": "X000010284009",
         "price": 180.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52936588886379": {
         "id": 52936588886379,
@@ -2257,7 +2257,7 @@
         "sku": "X000010284012",
         "price": 180.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
@@ -2266,7 +2266,7 @@
     "title": "Arc'teryx Gamma MX Hoody Women's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-gamma-mx-hoody-womens",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009456-Gamma-MX-Hoody-Arctic-Silk-Women-s-Front-View.jpg?v=1771942453",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009456-Gamma-MX-Hoody-Arctic-Silk-Women-s-Front-View.jpg?v=1771942453",
     "variants": {
       "52936376123755": {
         "id": 52936376123755,
@@ -2277,7 +2277,7 @@
         "sku": "X000009456027",
         "price": 400.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
@@ -2297,7 +2297,7 @@
         "sku": "X000007992003",
         "price": 130.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52936376058219": {
         "id": 52936376058219,
@@ -2308,7 +2308,7 @@
         "sku": "X000007992004",
         "price": 130.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52936376090987": {
         "id": 52936376090987,
@@ -2319,7 +2319,7 @@
         "sku": "X000007992005",
         "price": 130.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
@@ -2448,7 +2448,7 @@
     "title": "Arc'teryx Bora 75 Backpack Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-bora-75-backpack-mens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/Bora-75-Backpack-Tatsu.jpg?v=1771704560",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/Bora-75-Backpack-Tatsu.jpg?v=1771704560",
     "variants": {
       "52931279978859": {
         "id": 52931279978859,
@@ -2459,7 +2459,7 @@
         "sku": "25176 - 450564",
         "price": 360.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -4932,7 +4932,7 @@
     "title": "Arc'teryx Incendia Pant Women's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-incendia-pant-womens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009860-Incendia-Pant-Black-Women-s.avif?v=1765905326",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009860-Incendia-Pant-Black-Women-s.avif?v=1765905326",
     "variants": {
       "52441146360171": {
         "id": 52441146360171,
@@ -4943,7 +4943,7 @@
         "sku": "X000009860059",
         "price": 700.0,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       },
       "52441146392939": {
         "id": 52441146392939,
@@ -4954,7 +4954,7 @@
         "sku": "X000009860060",
         "price": 700.0,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       },
       "52441146425707": {
         "id": 52441146425707,
@@ -4965,7 +4965,7 @@
         "sku": "X000009860061",
         "price": 700.0,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       }
     }
   },
@@ -6704,7 +6704,7 @@
     "title": "Arc'teryx Elec Insulated Jacket Women's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-elec-insulated-jacket-womens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009512-Elec-Insulated-Jacket-Arctic-Silk-Women-s-Front-View.avif?v=1765911031",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009512-Elec-Insulated-Jacket-Arctic-Silk-Women-s-Front-View.avif?v=1765911031",
     "variants": {
       "52253083074923": {
         "id": 52253083074923,
@@ -6715,7 +6715,7 @@
         "sku": "X000009512003",
         "price": 300.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52253083107691": {
         "id": 52253083107691,
@@ -6726,7 +6726,7 @@
         "sku": "X000009512004",
         "price": 300.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52253083140459": {
         "id": 52253083140459,
@@ -6737,7 +6737,7 @@
         "sku": "X000009512005",
         "price": 300.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52253083173227": {
         "id": 52253083173227,
@@ -6748,7 +6748,7 @@
         "sku": "X000009512006",
         "price": 300.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
