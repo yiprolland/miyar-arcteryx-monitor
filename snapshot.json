@@ -1966,7 +1966,7 @@
     "title": "Arc'teryx Atom SL Jacket Women's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-atom-sl-jacket-womens",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/ArcticSilk_b392caec-afdc-4bbb-9465-ef2b3aca451e.avif?v=1774885948",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/ArcticSilk_b392caec-afdc-4bbb-9465-ef2b3aca451e.avif?v=1774885948",
     "variants": {
       "52941141246315": {
         "id": 52941141246315,
@@ -1977,7 +1977,7 @@
         "sku": "X000009510031",
         "price": 260.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52941141279083": {
         "id": 52941141279083,
@@ -1988,7 +1988,7 @@
         "sku": "X000009510032",
         "price": 260.0,
         "available": true,
-        "inventory_quantity": 1
+        "inventory_quantity": null
       },
       "52941141311851": {
         "id": 52941141311851,
@@ -1999,7 +1999,7 @@
         "sku": "X000009510033",
         "price": 260.0,
         "available": true,
-        "inventory_quantity": 1
+        "inventory_quantity": null
       }
     }
   },
@@ -2008,7 +2008,7 @@
     "title": "Arc'teryx Kragg Shoe Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-kragg-shoe-mens",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S26-X000010078-Kragg-Shoe-Black-Black-Profile_5dd8fd75-5694-4bbb-a178-87192578f4cd.jpg?v=1777475916",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S26-X000010078-Kragg-Shoe-Black-Black-Profile_5dd8fd75-5694-4bbb-a178-87192578f4cd.jpg?v=1777475916",
     "variants": {
       "52940759695723": {
         "id": 52940759695723,
@@ -2019,7 +2019,7 @@
         "sku": "X000010078013",
         "price": 140.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52940759728491": {
         "id": 52940759728491,
@@ -2030,7 +2030,7 @@
         "sku": "X000010078014",
         "price": 140.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52940759761259": {
         "id": 52940759761259,
@@ -2041,7 +2041,7 @@
         "sku": "X000010078015",
         "price": 140.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52940759794027": {
         "id": 52940759794027,
@@ -2052,7 +2052,7 @@
         "sku": "X000010078016",
         "price": 140.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52940759826795": {
         "id": 52940759826795,
@@ -2063,7 +2063,7 @@
         "sku": "X000010078017",
         "price": 140.0,
         "available": true,
-        "inventory_quantity": 2
+        "inventory_quantity": null
       },
       "52940759859563": {
         "id": 52940759859563,
@@ -2074,7 +2074,7 @@
         "sku": "X000010078018",
         "price": 140.0,
         "available": true,
-        "inventory_quantity": 1
+        "inventory_quantity": null
       },
       "52940759892331": {
         "id": 52940759892331,
@@ -2085,7 +2085,7 @@
         "sku": "X000010078019",
         "price": 140.0,
         "available": true,
-        "inventory_quantity": 1
+        "inventory_quantity": null
       },
       "52940759925099": {
         "id": 52940759925099,
@@ -2096,7 +2096,7 @@
         "sku": "X000010078020",
         "price": 140.0,
         "available": true,
-        "inventory_quantity": 1
+        "inventory_quantity": null
       },
       "53019477967211": {
         "id": 53019477967211,
@@ -2107,7 +2107,7 @@
         "sku": "X000010078050",
         "price": 140.0,
         "available": true,
-        "inventory_quantity": 1
+        "inventory_quantity": null
       },
       "53019477803371": {
         "id": 53019477803371,
@@ -2118,7 +2118,7 @@
         "sku": "X000010078052",
         "price": 140.0,
         "available": true,
-        "inventory_quantity": 2
+        "inventory_quantity": null
       },
       "53019477836139": {
         "id": 53019477836139,
@@ -2129,7 +2129,7 @@
         "sku": "X000010078054",
         "price": 140.0,
         "available": true,
-        "inventory_quantity": 2
+        "inventory_quantity": null
       },
       "53019477868907": {
         "id": 53019477868907,
@@ -2140,7 +2140,7 @@
         "sku": "X000010078055",
         "price": 140.0,
         "available": true,
-        "inventory_quantity": 1
+        "inventory_quantity": null
       },
       "53019477901675": {
         "id": 53019477901675,
@@ -2151,7 +2151,7 @@
         "sku": "X000010078056",
         "price": 140.0,
         "available": true,
-        "inventory_quantity": 2
+        "inventory_quantity": null
       },
       "53019477934443": {
         "id": 53019477934443,
@@ -2162,7 +2162,7 @@
         "sku": "X000010078057",
         "price": 140.0,
         "available": true,
-        "inventory_quantity": 1
+        "inventory_quantity": null
       },
       "53143878631787": {
         "id": 53143878631787,
@@ -2173,7 +2173,7 @@
         "sku": "X000010078091",
         "price": 140.0,
         "available": true,
-        "inventory_quantity": 1
+        "inventory_quantity": null
       },
       "53143878664555": {
         "id": 53143878664555,
@@ -2184,7 +2184,7 @@
         "sku": "X000010078093",
         "price": 140.0,
         "available": true,
-        "inventory_quantity": 2
+        "inventory_quantity": null
       },
       "53143878697323": {
         "id": 53143878697323,
@@ -2195,7 +2195,7 @@
         "sku": "X000010078095",
         "price": 140.0,
         "available": true,
-        "inventory_quantity": 1
+        "inventory_quantity": null
       }
     }
   },
@@ -2215,7 +2215,7 @@
         "sku": "X000010354003",
         "price": 220.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52936376254827": {
         "id": 52936376254827,
@@ -2226,7 +2226,7 @@
         "sku": "X000010354004",
         "price": 220.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52936376287595": {
         "id": 52936376287595,
@@ -2237,7 +2237,7 @@
         "sku": "X000010354005",
         "price": 220.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52936376320363": {
         "id": 52936376320363,
@@ -2248,7 +2248,7 @@
         "sku": "X000010354006",
         "price": 220.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
@@ -2257,7 +2257,7 @@
     "title": "Arc'teryx Squamish Jacket Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-squamish-jacket-mens",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S26-X000010284-Squamish-Jacket-Black-Front-View.jpg?v=1771942456",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S26-X000010284-Squamish-Jacket-Black-Front-View.jpg?v=1771942456",
     "variants": {
       "52936376156523": {
         "id": 52936376156523,
@@ -2268,7 +2268,7 @@
         "sku": "X000010284009",
         "price": 180.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52936588886379": {
         "id": 52936588886379,
@@ -2279,7 +2279,7 @@
         "sku": "X000010284012",
         "price": 180.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
@@ -2288,7 +2288,7 @@
     "title": "Arc'teryx Gamma MX Hoody Women's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-gamma-mx-hoody-womens",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009456-Gamma-MX-Hoody-Arctic-Silk-Women-s-Front-View.jpg?v=1778838221",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009456-Gamma-MX-Hoody-Arctic-Silk-Women-s-Front-View.jpg?v=1778838221",
     "variants": {
       "53234018124139": {
         "id": 53234018124139,
@@ -2299,7 +2299,7 @@
         "sku": "X000009456026",
         "price": 400.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52936376123755": {
         "id": 52936376123755,
@@ -2310,7 +2310,7 @@
         "sku": "X000009456027",
         "price": 400.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
@@ -2330,7 +2330,7 @@
         "sku": "X000007992003",
         "price": 130.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52936376058219": {
         "id": 52936376058219,
@@ -2341,7 +2341,7 @@
         "sku": "X000007992004",
         "price": 130.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52936376090987": {
         "id": 52936376090987,
@@ -2352,7 +2352,7 @@
         "sku": "X000007992005",
         "price": 130.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
@@ -2361,7 +2361,7 @@
     "title": "Arc'teryx Granville 20 Backpack",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-granville-20-backpack",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/31-487258-0-image-1313513.jpg?v=1771704765",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/31-487258-0-image-1313513.jpg?v=1771704765",
     "variants": {
       "52931287122283": {
         "id": 52931287122283,
@@ -2372,7 +2372,7 @@
         "sku": "18096 - 450523",
         "price": 180.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
@@ -2381,7 +2381,7 @@
     "title": "Arc'teryx Granville Zip 16 Backpack",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-granville-zip-16-backpack",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/31-487259-0-image-1313514.jpg?v=1771704758",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/31-487259-0-image-1313514.jpg?v=1771704758",
     "variants": {
       "52931286958443": {
         "id": 52931286958443,
@@ -2392,7 +2392,7 @@
         "sku": "18792 - 450528",
         "price": 180.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
@@ -2401,7 +2401,7 @@
     "title": "Arc'teryx Aerios 30 Backpack Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-aerios-30-backpack-mens",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/Aerios-30-Backpack-Glade.jpg?v=1771704615",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/Aerios-30-Backpack-Glade.jpg?v=1771704615",
     "variants": {
       "52931283255659": {
         "id": 52931283255659,
@@ -2412,7 +2412,7 @@
         "sku": "27337 - 451450",
         "price": 190.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
@@ -2421,7 +2421,7 @@
     "title": "Arc'teryx Aerios 30 Backpack Women's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-aerios-30-backpack-womens",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/Aerios-30-Backpack-W-Reflection.jpg?v=1771704611",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/Aerios-30-Backpack-W-Reflection.jpg?v=1771704611",
     "variants": {
       "52931282534763": {
         "id": 52931282534763,
@@ -2432,7 +2432,7 @@
         "sku": "27340 - 451456",
         "price": 190.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
@@ -2441,7 +2441,7 @@
     "title": "Arc'teryx Rush SK 32 Backpack",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-rush-sk-32-backpack",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/Rush-SK-32-Backpack-Black.jpg?v=1771704580",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/Rush-SK-32-Backpack-Black.jpg?v=1771704580",
     "variants": {
       "52931282141547": {
         "id": 52931282141547,
@@ -2452,7 +2452,7 @@
         "sku": "27452 - 472999",
         "price": 220.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
@@ -2461,7 +2461,7 @@
     "title": "Arc'teryx Rush SK 42 Backpack",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-rush-sk-42-backpack",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/Rush-SK-42-Backpack-Tatsu.jpg?v=1771704575",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/Rush-SK-42-Backpack-Tatsu.jpg?v=1771704575",
     "variants": {
       "52931280339307": {
         "id": 52931280339307,
@@ -2472,7 +2472,7 @@
         "sku": "27453 - 473020",
         "price": 240.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
@@ -2481,7 +2481,7 @@
     "title": "Arc'teryx Bora 75 Backpack Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-bora-75-backpack-mens",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/Bora-75-Backpack-Tatsu.jpg?v=1771704560",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/Bora-75-Backpack-Tatsu.jpg?v=1771704560",
     "variants": {
       "52931279978859": {
         "id": 52931279978859,
@@ -2492,7 +2492,7 @@
         "sku": "25176 - 450564",
         "price": 360.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
@@ -2501,7 +2501,7 @@
     "title": "Arc'teryx Kragg SL Cotton Emblem Crew Shirt SS Women's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-kragg-sl-cotton-emblem-crew-shirt-ss-womens",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009502-Kragg-SL-Cotton-Emblem-Crew-Shirt-SS-Glacial-Women-s-Front-View.jpg?v=1770835583",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009502-Kragg-SL-Cotton-Emblem-Crew-Shirt-SS-Glacial-Women-s-Front-View.jpg?v=1770835583",
     "variants": {
       "52906729013611": {
         "id": 52906729013611,
@@ -2512,7 +2512,7 @@
         "sku": "X000009502095",
         "price": 60.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52906729046379": {
         "id": 52906729046379,
@@ -2523,7 +2523,7 @@
         "sku": "X000009502096",
         "price": 60.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52906729079147": {
         "id": 52906729079147,
@@ -2534,7 +2534,7 @@
         "sku": "X000009502097",
         "price": 60.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52906729111915": {
         "id": 52906729111915,
@@ -2545,7 +2545,7 @@
         "sku": "X000009502123",
         "price": 60.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52906729144683": {
         "id": 52906729144683,
@@ -2556,7 +2556,7 @@
         "sku": "X000009502124",
         "price": 60.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52906729177451": {
         "id": 52906729177451,
@@ -2567,7 +2567,7 @@
         "sku": "X000009502125",
         "price": 60.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
@@ -10002,7 +10002,7 @@
     "title": "Arc'teryx Men's Gamma Pant",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-mens-gamma-pant",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S25-X000009532-Gamma-Pant-Black-Front-View_c633df58-783f-43bd-9998-897fc0f706ab.jpg?v=1754400795",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S25-X000009532-Gamma-Pant-Black-Front-View_c633df58-783f-43bd-9998-897fc0f706ab.jpg?v=1754400795",
     "variants": {
       "51995988230507": {
         "id": 51995988230507,
@@ -10013,7 +10013,7 @@
         "sku": "X000009532005",
         "price": 200.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51995988263275": {
         "id": 51995988263275,
@@ -10024,7 +10024,7 @@
         "sku": "X000009532013",
         "price": 200.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51995988296043": {
         "id": 51995988296043,
@@ -10035,7 +10035,7 @@
         "sku": "X000009532015",
         "price": 200.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51995988328811": {
         "id": 51995988328811,
@@ -10046,7 +10046,7 @@
         "sku": "X000009532017",
         "price": 200.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51995988361579": {
         "id": 51995988361579,
@@ -10057,7 +10057,7 @@
         "sku": "X000009532018",
         "price": 200.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52194529444203": {
         "id": 52194529444203,
@@ -10068,7 +10068,7 @@
         "sku": "X000009532002",
         "price": 200.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51995988394347": {
         "id": 51995988394347,
@@ -10079,7 +10079,7 @@
         "sku": "X000009532091",
         "price": 200.0,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       },
       "51995988427115": {
         "id": 51995988427115,
@@ -10090,7 +10090,7 @@
         "sku": "X000009532093",
         "price": 200.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51995988459883": {
         "id": 51995988459883,
@@ -10101,7 +10101,7 @@
         "sku": "X000009532095",
         "price": 200.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51995988492651": {
         "id": 51995988492651,
@@ -10112,7 +10112,7 @@
         "sku": "X000009532096",
         "price": 200.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52253080551787": {
         "id": 52253080551787,
@@ -10123,7 +10123,7 @@
         "sku": "X000009532067",
         "price": 200.0,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 2
       },
       "52253080584555": {
         "id": 52253080584555,
@@ -10134,7 +10134,7 @@
         "sku": "X000009532069",
         "price": 200.0,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       },
       "52253080617323": {
         "id": 52253080617323,
@@ -10145,7 +10145,7 @@
         "sku": "X000009532070",
         "price": 200.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -10154,7 +10154,7 @@
     "title": "Arc'teryx Gamma Lightweight Hoody Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-gamma-lightweight-hoody-mens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S25-X000007741-Gamma-Lightweight-Hoody-Black-X-Front-View.jpg?v=1749476405",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S25-X000007741-Gamma-Lightweight-Hoody-Black-X-Front-View.jpg?v=1749476405",
     "variants": {
       "51940498768235": {
         "id": 51940498768235,
@@ -10165,7 +10165,7 @@
         "sku": "X000007741075",
         "price": 260.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51940498801003": {
         "id": 51940498801003,
@@ -10176,7 +10176,7 @@
         "sku": "X000007741076",
         "price": 260.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51940498833771": {
         "id": 51940498833771,
@@ -10187,7 +10187,7 @@
         "sku": "X000007741077",
         "price": 260.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51940498866539": {
         "id": 51940498866539,
@@ -10198,7 +10198,7 @@
         "sku": "X000007741078",
         "price": 260.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51940498899307": {
         "id": 51940498899307,
@@ -10209,7 +10209,7 @@
         "sku": "X000007741070",
         "price": 260.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51940498932075": {
         "id": 51940498932075,
@@ -10220,7 +10220,7 @@
         "sku": "X000007741071",
         "price": 260.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51940498964843": {
         "id": 51940498964843,
@@ -10231,7 +10231,7 @@
         "sku": "X000007741063",
         "price": 260.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51940498997611": {
         "id": 51940498997611,
@@ -10242,7 +10242,7 @@
         "sku": "X000007741064",
         "price": 260.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51940499030379": {
         "id": 51940499030379,
@@ -10253,7 +10253,7 @@
         "sku": "X000007741065",
         "price": 260.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51940499063147": {
         "id": 51940499063147,
@@ -10264,7 +10264,7 @@
         "sku": "X000007741066",
         "price": 260.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51995988132203": {
         "id": 51995988132203,
@@ -10275,7 +10275,7 @@
         "sku": "X000007741052",
         "price": 260.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51995988164971": {
         "id": 51995988164971,
@@ -10286,7 +10286,7 @@
         "sku": "X000007741053",
         "price": 260.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52111605989739": {
         "id": 52111605989739,
@@ -10297,7 +10297,7 @@
         "sku": "X000007741004",
         "price": 260.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52111606022507": {
         "id": 52111606022507,
@@ -10308,7 +10308,7 @@
         "sku": "X000007741005",
         "price": 260.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -10317,7 +10317,7 @@
     "title": "Arc'teryx Cormac Logo SS Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-cormac-logo-ss-mens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S25-X000009726-Cormac-Logo-Shirt-SS-Black-Heather-Front-View.jpg?v=1749476398",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S25-X000009726-Cormac-Logo-Shirt-SS-Black-Heather-Front-View.jpg?v=1749476398",
     "variants": {
       "51940496277867": {
         "id": 51940496277867,
@@ -10328,7 +10328,7 @@
         "sku": "X000009726009",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51940496310635": {
         "id": 51940496310635,
@@ -10339,7 +10339,7 @@
         "sku": "X000009726010",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51940496343403": {
         "id": 51940496343403,
@@ -10350,7 +10350,7 @@
         "sku": "X000009726002",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51940496376171": {
         "id": 51940496376171,
@@ -10361,7 +10361,7 @@
         "sku": "X000009726003",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51940496408939": {
         "id": 51940496408939,
@@ -10372,7 +10372,7 @@
         "sku": "X000009726004",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51940496441707": {
         "id": 51940496441707,
@@ -10383,7 +10383,7 @@
         "sku": "X000009726005",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51995988001131": {
         "id": 51995988001131,
@@ -10394,7 +10394,7 @@
         "sku": "X000009726008",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51995988033899": {
         "id": 51995988033899,
@@ -10405,7 +10405,7 @@
         "sku": "X000009726011",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51995988066667": {
         "id": 51995988066667,
@@ -10416,7 +10416,7 @@
         "sku": "X000009726021",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51995988099435": {
         "id": 51995988099435,
@@ -10427,7 +10427,7 @@
         "sku": "X000009726022",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52111605924203": {
         "id": 52111605924203,
@@ -10438,7 +10438,7 @@
         "sku": "X000009726020",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52111605956971": {
         "id": 52111605956971,
@@ -10449,7 +10449,7 @@
         "sku": "X000009726023",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -10458,7 +10458,7 @@
     "title": "Arc'teryx Beta SL Jacket Women's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-beta-sl-jacket-womens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S25-X000009674-Beta-SL-Jacket-Twilight-Trail-Women-s-Front-View.jpg?v=1741718812",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S25-X000009674-Beta-SL-Jacket-Twilight-Trail-Women-s-Front-View.jpg?v=1741718812",
     "variants": {
       "51940441784683": {
         "id": 51940441784683,
@@ -10469,7 +10469,7 @@
         "sku": "X000009674073",
         "price": 500.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51940441817451": {
         "id": 51940441817451,
@@ -10480,7 +10480,7 @@
         "sku": "X000009674074",
         "price": 500.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51973066326379": {
         "id": 51973066326379,
@@ -10491,7 +10491,7 @@
         "sku": "X000009674075",
         "price": 500.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -10500,7 +10500,7 @@
     "title": "Arc'teryx Solano Jacket Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-solano-jacket-mens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S25-X000009650-Solano-Jacket-Black-Front-View.jpg?v=1741633216",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S25-X000009650-Solano-Jacket-Black-Front-View.jpg?v=1741633216",
     "variants": {
       "51938119745899": {
         "id": 51938119745899,
@@ -10511,7 +10511,7 @@
         "sku": "X000009650003",
         "price": 350.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51938119778667": {
         "id": 51938119778667,
@@ -10522,7 +10522,7 @@
         "sku": "X000009650004",
         "price": 350.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51938119811435": {
         "id": 51938119811435,
@@ -10533,7 +10533,7 @@
         "sku": "X000009650005",
         "price": 350.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51938119844203": {
         "id": 51938119844203,
@@ -10544,7 +10544,7 @@
         "sku": "X000009650006",
         "price": 350.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -10553,7 +10553,7 @@
     "title": "Arc'teryx Kyanite Lightweight Hoody Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-kyanite-lightweight-hoody-mens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S25-X000009641-Kyanite-Lightweight-Hoody-Stone-Green-Front-View.jpg?v=1772135900",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S25-X000009641-Kyanite-Lightweight-Hoody-Stone-Green-Front-View.jpg?v=1772135900",
     "variants": {
       "51938119483755": {
         "id": 51938119483755,
@@ -10564,7 +10564,7 @@
         "sku": "X000009641026",
         "price": 150.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51938119516523": {
         "id": 51938119516523,
@@ -10575,7 +10575,7 @@
         "sku": "X000009641027",
         "price": 150.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51938119549291": {
         "id": 51938119549291,
@@ -10586,7 +10586,7 @@
         "sku": "X000009641028",
         "price": 150.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51938119582059": {
         "id": 51938119582059,
@@ -10597,7 +10597,7 @@
         "sku": "X000009641029",
         "price": 150.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51938119614827": {
         "id": 51938119614827,
@@ -10608,7 +10608,7 @@
         "sku": "X000009641002",
         "price": 150.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51938119647595": {
         "id": 51938119647595,
@@ -10619,7 +10619,7 @@
         "sku": "X000009641003",
         "price": 150.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51938119680363": {
         "id": 51938119680363,
@@ -10630,7 +10630,7 @@
         "sku": "X000009641004",
         "price": 150.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51938119713131": {
         "id": 51938119713131,
@@ -10641,7 +10641,7 @@
         "sku": "X000009641005",
         "price": 150.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51995987902827": {
         "id": 51995987902827,
@@ -10652,7 +10652,7 @@
         "sku": "X000009641009",
         "price": 150.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51995987935595": {
         "id": 51995987935595,
@@ -10663,7 +10663,7 @@
         "sku": "X000009641010",
         "price": 150.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51995987968363": {
         "id": 51995987968363,
@@ -10674,7 +10674,7 @@
         "sku": "X000009641011",
         "price": 150.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52941137314155": {
         "id": 52941137314155,
@@ -10685,7 +10685,7 @@
         "sku": "X000009641039",
         "price": 150.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52941137346923": {
         "id": 52941137346923,
@@ -10696,7 +10696,7 @@
         "sku": "X000009641040",
         "price": 150.0,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       },
       "52941137379691": {
         "id": 52941137379691,
@@ -10707,7 +10707,7 @@
         "sku": "X000009641050",
         "price": 150.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52941137412459": {
         "id": 52941137412459,
@@ -10718,7 +10718,7 @@
         "sku": "X000009641051",
         "price": 150.0,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       },
       "52941137445227": {
         "id": 52941137445227,
@@ -10729,7 +10729,7 @@
         "sku": "X000009641052",
         "price": 150.0,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       },
       "52941137477995": {
         "id": 52941137477995,
@@ -10740,7 +10740,7 @@
         "sku": "X000009641053",
         "price": 150.0,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       }
     }
   },
@@ -10749,7 +10749,7 @@
     "title": "Arc'teryx Beta Down Parka Women's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-beta-down-parka-womens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/F24-X000009101-Beta-Down-Parka-Black-Women-s-Flat.jpg?v=1759810481",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F24-X000009101-Beta-Down-Parka-Black-Women-s-Flat.jpg?v=1759810481",
     "variants": {
       "52153976521067": {
         "id": 52153976521067,
@@ -10760,7 +10760,7 @@
         "sku": "X000009101008",
         "price": 900.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -10769,7 +10769,7 @@
     "title": "Arc'teryx Kopec GTX Shoe Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-kopec-gtx-shoe-mens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S25-X000010023-Kopec-GTX-Shoe-Black-Black-Profile.jpg?v=1773938981",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S25-X000010023-Kopec-GTX-Shoe-Black-Black-Profile.jpg?v=1773938981",
     "variants": {
       "52778012082539": {
         "id": 52778012082539,
@@ -10780,7 +10780,7 @@
         "sku": "X000010023001",
         "price": 179.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52778012115307": {
         "id": 52778012115307,
@@ -10791,7 +10791,7 @@
         "sku": "X000010023002",
         "price": 179.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52778012148075": {
         "id": 52778012148075,
@@ -10802,7 +10802,7 @@
         "sku": "X000010023003",
         "price": 179.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52778012180843": {
         "id": 52778012180843,
@@ -10813,7 +10813,7 @@
         "sku": "X000010023004",
         "price": 179.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52778012213611": {
         "id": 52778012213611,
@@ -10824,7 +10824,7 @@
         "sku": "X000010023005",
         "price": 179.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52778012246379": {
         "id": 52778012246379,
@@ -10835,7 +10835,7 @@
         "sku": "X000010023006",
         "price": 179.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52778012279147": {
         "id": 52778012279147,
@@ -10846,7 +10846,7 @@
         "sku": "X000010023007",
         "price": 179.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52778012311915": {
         "id": 52778012311915,
@@ -10857,7 +10857,7 @@
         "sku": "X000010023008",
         "price": 179.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52778012344683": {
         "id": 52778012344683,
@@ -10868,7 +10868,7 @@
         "sku": "X000010023009",
         "price": 179.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52778012377451": {
         "id": 52778012377451,
@@ -10879,7 +10879,7 @@
         "sku": "X000010023010",
         "price": 179.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52778012410219": {
         "id": 52778012410219,
@@ -10890,7 +10890,7 @@
         "sku": "X000010023011",
         "price": 179.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52778012442987": {
         "id": 52778012442987,
@@ -10901,7 +10901,7 @@
         "sku": "X000010023012",
         "price": 179.99,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 2
       },
       "52778012475755": {
         "id": 52778012475755,
@@ -10912,7 +10912,7 @@
         "sku": "X000010023013",
         "price": 179.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53016919048555": {
         "id": 53016919048555,
@@ -10923,7 +10923,7 @@
         "sku": "X000010023040",
         "price": 179.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52940759138667": {
         "id": 52940759138667,
@@ -10934,7 +10934,7 @@
         "sku": "X000010023041",
         "price": 179.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53016925438315": {
         "id": 53016925438315,
@@ -10945,7 +10945,7 @@
         "sku": "X000010023042",
         "price": 179.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52940759171435": {
         "id": 52940759171435,
@@ -10956,7 +10956,7 @@
         "sku": "X000010023043",
         "price": 179.99,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 4
       },
       "52940759204203": {
         "id": 52940759204203,
@@ -10967,7 +10967,7 @@
         "sku": "X000010023044",
         "price": 179.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52940759236971": {
         "id": 52940759236971,
@@ -10978,7 +10978,7 @@
         "sku": "X000010023045",
         "price": 179.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52778012508523": {
         "id": 52778012508523,
@@ -10989,7 +10989,7 @@
         "sku": "X000010023046",
         "price": 179.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52778012541291": {
         "id": 52778012541291,
@@ -11000,7 +11000,7 @@
         "sku": "X000010023047",
         "price": 179.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52778012574059": {
         "id": 52778012574059,
@@ -11011,7 +11011,7 @@
         "sku": "X000010023048",
         "price": 179.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52778012606827": {
         "id": 52778012606827,
@@ -11022,7 +11022,7 @@
         "sku": "X000010023049",
         "price": 179.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52940759269739": {
         "id": 52940759269739,
@@ -11033,7 +11033,7 @@
         "sku": "X000010023050",
         "price": 179.99,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       },
       "52940759302507": {
         "id": 52940759302507,
@@ -11044,7 +11044,7 @@
         "sku": "X000010023051",
         "price": 179.99,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       },
       "52940759335275": {
         "id": 52940759335275,
@@ -11055,7 +11055,7 @@
         "sku": "X000010023052",
         "price": 179.99,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       },
       "53019476853099": {
         "id": 53019476853099,
@@ -11066,7 +11066,7 @@
         "sku": "X000010023101",
         "price": 179.99,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       },
       "53019476885867": {
         "id": 53019476885867,
@@ -11077,7 +11077,7 @@
         "sku": "X000010023103",
         "price": 179.99,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       },
       "53019476918635": {
         "id": 53019476918635,
@@ -11088,7 +11088,7 @@
         "sku": "X000010023104",
         "price": 179.99,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 2
       },
       "53019476951403": {
         "id": 53019476951403,
@@ -11099,7 +11099,7 @@
         "sku": "X000010023105",
         "price": 179.99,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 3
       },
       "53019476984171": {
         "id": 53019476984171,
@@ -11110,7 +11110,7 @@
         "sku": "X000010023106",
         "price": 179.99,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 2
       },
       "53019477016939": {
         "id": 53019477016939,
@@ -11121,7 +11121,7 @@
         "sku": "X000010023107",
         "price": 179.99,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 2
       },
       "53019477049707": {
         "id": 53019477049707,
@@ -11132,7 +11132,7 @@
         "sku": "X000010023108",
         "price": 179.99,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       }
     }
   },
@@ -11141,7 +11141,7 @@
     "title": "Arc'teryx Norvan LD 4 Shoe Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-norvan-ld-4-shoe-mens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S25-X000009614-Norvan-LD-4-Shoe-Dk-Canvas-Dk-Arctic-Silk-Profile_f66fbf7c-d1df-410a-9c80-8bfe28914a09.jpg?v=1768856359",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S25-X000009614-Norvan-LD-4-Shoe-Dk-Canvas-Dk-Arctic-Silk-Profile_f66fbf7c-d1df-410a-9c80-8bfe28914a09.jpg?v=1768856359",
     "variants": {
       "52778011230571": {
         "id": 52778011230571,
@@ -11152,7 +11152,7 @@
         "sku": "X000009614014",
         "price": 169.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52778011263339": {
         "id": 52778011263339,
@@ -11163,7 +11163,7 @@
         "sku": "X000009614015",
         "price": 169.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52778011296107": {
         "id": 52778011296107,
@@ -11174,7 +11174,7 @@
         "sku": "X000009614016",
         "price": 169.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52778011328875": {
         "id": 52778011328875,
@@ -11185,7 +11185,7 @@
         "sku": "X000009614017",
         "price": 169.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52778011361643": {
         "id": 52778011361643,
@@ -11196,7 +11196,7 @@
         "sku": "X000009614018",
         "price": 169.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52778011394411": {
         "id": 52778011394411,
@@ -11207,7 +11207,7 @@
         "sku": "X000009614019",
         "price": 169.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52778011427179": {
         "id": 52778011427179,
@@ -11218,7 +11218,7 @@
         "sku": "X000009614020",
         "price": 169.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52778011459947": {
         "id": 52778011459947,
@@ -11229,7 +11229,7 @@
         "sku": "X000009614021",
         "price": 169.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52778011492715": {
         "id": 52778011492715,
@@ -11240,7 +11240,7 @@
         "sku": "X000009614022",
         "price": 169.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52778011525483": {
         "id": 52778011525483,
@@ -11251,7 +11251,7 @@
         "sku": "X000009614023",
         "price": 169.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52778011558251": {
         "id": 52778011558251,
@@ -11262,7 +11262,7 @@
         "sku": "X000009614024",
         "price": 169.99,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       },
       "52778011591019": {
         "id": 52778011591019,
@@ -11273,7 +11273,7 @@
         "sku": "X000009614025",
         "price": 169.99,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       },
       "52778011623787": {
         "id": 52778011623787,
@@ -11284,7 +11284,7 @@
         "sku": "X000009614026",
         "price": 169.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52778011656555": {
         "id": 52778011656555,
@@ -11295,7 +11295,7 @@
         "sku": "X000009614027",
         "price": 169.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52778011689323": {
         "id": 52778011689323,
@@ -11306,7 +11306,7 @@
         "sku": "X000009614028",
         "price": 169.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52778011722091": {
         "id": 52778011722091,
@@ -11317,7 +11317,7 @@
         "sku": "X000009614029",
         "price": 169.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52778011754859": {
         "id": 52778011754859,
@@ -11328,7 +11328,7 @@
         "sku": "X000009614030",
         "price": 169.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52778011787627": {
         "id": 52778011787627,
@@ -11339,7 +11339,7 @@
         "sku": "X000009614031",
         "price": 169.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52778011820395": {
         "id": 52778011820395,
@@ -11350,7 +11350,7 @@
         "sku": "X000009614032",
         "price": 169.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52778011853163": {
         "id": 52778011853163,
@@ -11361,7 +11361,7 @@
         "sku": "X000009614033",
         "price": 169.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52778011885931": {
         "id": 52778011885931,
@@ -11372,7 +11372,7 @@
         "sku": "X000009614034",
         "price": 169.99,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       },
       "52778011918699": {
         "id": 52778011918699,
@@ -11383,7 +11383,7 @@
         "sku": "X000009614035",
         "price": 169.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52778011951467": {
         "id": 52778011951467,
@@ -11394,7 +11394,7 @@
         "sku": "X000009614036",
         "price": 169.99,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       },
       "52778011984235": {
         "id": 52778011984235,
@@ -11405,7 +11405,7 @@
         "sku": "X000009614037",
         "price": 169.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52778012017003": {
         "id": 52778012017003,
@@ -11416,7 +11416,7 @@
         "sku": "X000009614038",
         "price": 169.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52778012049771": {
         "id": 52778012049771,
@@ -11427,7 +11427,7 @@
         "sku": "X000009614039",
         "price": 169.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -11436,7 +11436,7 @@
     "title": "Arc'teryx Norvan LD 4 GTX Shoe Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-norvan-ld-4-gtx-shoe-mens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/arct01487_01_1_e1e257d0-b61e-4a46-8bb1-a77c98413d53.jpg?v=1768856356",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/arct01487_01_1_e1e257d0-b61e-4a46-8bb1-a77c98413d53.jpg?v=1768856356",
     "variants": {
       "52778010804587": {
         "id": 52778010804587,
@@ -11447,7 +11447,7 @@
         "sku": "X000009612027",
         "price": 199.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52778010837355": {
         "id": 52778010837355,
@@ -11458,7 +11458,7 @@
         "sku": "X000009612028",
         "price": 199.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52778010870123": {
         "id": 52778010870123,
@@ -11469,7 +11469,7 @@
         "sku": "X000009612029",
         "price": 199.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52778010902891": {
         "id": 52778010902891,
@@ -11480,7 +11480,7 @@
         "sku": "X000009612030",
         "price": 199.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52778010935659": {
         "id": 52778010935659,
@@ -11491,7 +11491,7 @@
         "sku": "X000009612031",
         "price": 199.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52778010968427": {
         "id": 52778010968427,
@@ -11502,7 +11502,7 @@
         "sku": "X000009612032",
         "price": 199.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52778011001195": {
         "id": 52778011001195,
@@ -11513,7 +11513,7 @@
         "sku": "X000009612033",
         "price": 199.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52778011033963": {
         "id": 52778011033963,
@@ -11524,7 +11524,7 @@
         "sku": "X000009612034",
         "price": 199.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52778011066731": {
         "id": 52778011066731,
@@ -11535,7 +11535,7 @@
         "sku": "X000009612035",
         "price": 199.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52778011099499": {
         "id": 52778011099499,
@@ -11546,7 +11546,7 @@
         "sku": "X000009612036",
         "price": 199.99,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 2
       },
       "52778011132267": {
         "id": 52778011132267,
@@ -11557,7 +11557,7 @@
         "sku": "X000009612037",
         "price": 199.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52778011165035": {
         "id": 52778011165035,
@@ -11568,7 +11568,7 @@
         "sku": "X000009612038",
         "price": 199.99,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 2
       },
       "52778011197803": {
         "id": 52778011197803,
@@ -11579,7 +11579,7 @@
         "sku": "X000009612039",
         "price": 199.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -11588,7 +11588,7 @@
     "title": "Arc'teryx Sylan GTX Shoe Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-sylan-gtx-shoe-mens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/F24-X000009601-Sylan-GTX-Shoe-Black-Black-Profile.jpg?v=1770751748",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F24-X000009601-Sylan-GTX-Shoe-Black-Black-Profile.jpg?v=1770751748",
     "variants": {
       "52896843727211": {
         "id": 52896843727211,
@@ -11599,7 +11599,7 @@
         "sku": "X000009601001",
         "price": 229.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52896843759979": {
         "id": 52896843759979,
@@ -11610,7 +11610,7 @@
         "sku": "X000009601002",
         "price": 229.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52896843792747": {
         "id": 52896843792747,
@@ -11621,7 +11621,7 @@
         "sku": "X000009601003",
         "price": 229.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52896843825515": {
         "id": 52896843825515,
@@ -11632,7 +11632,7 @@
         "sku": "X000009601004",
         "price": 229.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52896843858283": {
         "id": 52896843858283,
@@ -11643,7 +11643,7 @@
         "sku": "X000009601005",
         "price": 229.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52896843891051": {
         "id": 52896843891051,
@@ -11654,7 +11654,7 @@
         "sku": "X000009601006",
         "price": 229.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52896843923819": {
         "id": 52896843923819,
@@ -11665,7 +11665,7 @@
         "sku": "X000009601007",
         "price": 229.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52896843956587": {
         "id": 52896843956587,
@@ -11676,7 +11676,7 @@
         "sku": "X000009601008",
         "price": 229.99,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 3
       },
       "52896843989355": {
         "id": 52896843989355,
@@ -11687,7 +11687,7 @@
         "sku": "X000009601009",
         "price": 229.99,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 2
       },
       "52896844022123": {
         "id": 52896844022123,
@@ -11698,7 +11698,7 @@
         "sku": "X000009601010",
         "price": 229.99,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 2
       },
       "52896844054891": {
         "id": 52896844054891,
@@ -11709,7 +11709,7 @@
         "sku": "X000009601011",
         "price": 229.99,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       },
       "52896844087659": {
         "id": 52896844087659,
@@ -11720,7 +11720,7 @@
         "sku": "X000009601012",
         "price": 229.99,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       },
       "52896844120427": {
         "id": 52896844120427,
@@ -11731,7 +11731,7 @@
         "sku": "X000009601013",
         "price": 229.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52896844153195": {
         "id": 52896844153195,
@@ -11742,7 +11742,7 @@
         "sku": "X000009601090",
         "price": 229.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52896844185963": {
         "id": 52896844185963,
@@ -11753,7 +11753,7 @@
         "sku": "X000009601091",
         "price": 229.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52896844218731": {
         "id": 52896844218731,
@@ -11764,7 +11764,7 @@
         "sku": "X000009601092",
         "price": 229.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52896844251499": {
         "id": 52896844251499,
@@ -11775,7 +11775,7 @@
         "sku": "X000009601093",
         "price": 229.99,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       },
       "52896844284267": {
         "id": 52896844284267,
@@ -11786,7 +11786,7 @@
         "sku": "X000009601094",
         "price": 229.99,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       },
       "52896844317035": {
         "id": 52896844317035,
@@ -11797,7 +11797,7 @@
         "sku": "X000009601095",
         "price": 229.99,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 2
       },
       "52896844349803": {
         "id": 52896844349803,
@@ -11808,7 +11808,7 @@
         "sku": "X000009601096",
         "price": 229.99,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       },
       "52896844382571": {
         "id": 52896844382571,
@@ -11819,7 +11819,7 @@
         "sku": "X000009601097",
         "price": 229.99,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       },
       "52896844415339": {
         "id": 52896844415339,
@@ -11830,7 +11830,7 @@
         "sku": "X000009601098",
         "price": 229.99,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       },
       "52896844448107": {
         "id": 52896844448107,
@@ -11841,7 +11841,7 @@
         "sku": "X000009601099",
         "price": 229.99,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 2
       },
       "52896844480875": {
         "id": 52896844480875,
@@ -11852,7 +11852,7 @@
         "sku": "X000009601100",
         "price": 229.99,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       },
       "52896844513643": {
         "id": 52896844513643,
@@ -11863,7 +11863,7 @@
         "sku": "X000009601101",
         "price": 229.99,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       },
       "52896844546411": {
         "id": 52896844546411,
@@ -11874,7 +11874,7 @@
         "sku": "X000009601102",
         "price": 229.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -11883,7 +11883,7 @@
     "title": "Arcteryx Micon Litric 32 Avalanche Backpack",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-micon-litric-32-avalanche-backpack",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/323201_790_097_01_4f206fa6-f0c8-45c8-94b3-c2b0ccf1084b.jpg?v=1769705828",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/323201_790_097_01_4f206fa6-f0c8-45c8-94b3-c2b0ccf1084b.jpg?v=1769705828",
     "variants": {
       "52863582732651": {
         "id": 52863582732651,
@@ -11894,7 +11894,7 @@
         "sku": "X000009987002",
         "price": 1600.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -11903,7 +11903,7 @@
     "title": "Arc'teryx Atom SL Vest Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-atom-sl-vest-mens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/Atom-SL-Vest-Black_939e15e4-c46b-4b37-8896-0bee34eef7af.jpg?v=1740071437",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/Atom-SL-Vest-Black_939e15e4-c46b-4b37-8896-0bee34eef7af.jpg?v=1740071437",
     "variants": {
       "52153976488299": {
         "id": 52153976488299,
@@ -11914,7 +11914,7 @@
         "sku": "X000004849038",
         "price": 160.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -11923,7 +11923,7 @@
     "title": "Arc'teryx Atom Jacket Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-atom-jacket-mens-1",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S25-X000009561-Atom-Jacket-Void-Front-View_f5845fa3-9629-4517-8e88-9af0a1f7de9c.jpg?v=1776280521",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S25-X000009561-Atom-Jacket-Void-Front-View_f5845fa3-9629-4517-8e88-9af0a1f7de9c.jpg?v=1776280521",
     "variants": {
       "52194742567275": {
         "id": 52194742567275,
@@ -11934,7 +11934,7 @@
         "sku": "X000009561002",
         "price": 279.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51938060403051": {
         "id": 51938060403051,
@@ -11945,7 +11945,7 @@
         "sku": "X000009561003",
         "price": 279.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51938060435819": {
         "id": 51938060435819,
@@ -11956,7 +11956,7 @@
         "sku": "X000009561004",
         "price": 279.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51938060468587": {
         "id": 51938060468587,
@@ -11967,7 +11967,7 @@
         "sku": "X000009561005",
         "price": 279.99,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       },
       "51938060501355": {
         "id": 51938060501355,
@@ -11978,7 +11978,7 @@
         "sku": "X000009561006",
         "price": 279.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52441145311595": {
         "id": 52441145311595,
@@ -11989,7 +11989,7 @@
         "sku": "X000009561007",
         "price": 279.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51938060337515": {
         "id": 51938060337515,
@@ -12000,7 +12000,7 @@
         "sku": "X000009561045",
         "price": 279.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51802971013483": {
         "id": 51802971013483,
@@ -12011,7 +12011,7 @@
         "sku": "X000009561046",
         "price": 279.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51802971046251": {
         "id": 51802971046251,
@@ -12022,7 +12022,7 @@
         "sku": "X000009561047",
         "price": 279.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51802971079019": {
         "id": 51802971079019,
@@ -12033,7 +12033,7 @@
         "sku": "X000009561048",
         "price": 279.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51938060370283": {
         "id": 51938060370283,
@@ -12044,7 +12044,7 @@
         "sku": "X000009561033",
         "price": 279.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51802970915179": {
         "id": 51802970915179,
@@ -12055,7 +12055,7 @@
         "sku": "X000009561034",
         "price": 279.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51802970947947": {
         "id": 51802970947947,
@@ -12066,7 +12066,7 @@
         "sku": "X000009561035",
         "price": 279.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51802970980715": {
         "id": 51802970980715,
@@ -12077,7 +12077,7 @@
         "sku": "X000009561036",
         "price": 279.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52253080322411": {
         "id": 52253080322411,
@@ -12088,7 +12088,7 @@
         "sku": "X000009561009",
         "price": 279.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52139325194603": {
         "id": 52139325194603,
@@ -12099,7 +12099,7 @@
         "sku": "X000009561010",
         "price": 279.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52139325227371": {
         "id": 52139325227371,
@@ -12110,7 +12110,7 @@
         "sku": "X000009561011",
         "price": 279.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52194742600043": {
         "id": 52194742600043,
@@ -12121,7 +12121,7 @@
         "sku": "X000009561075",
         "price": 279.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52194742632811": {
         "id": 52194742632811,
@@ -12132,7 +12132,7 @@
         "sku": "X000009561077",
         "price": 279.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52194742665579": {
         "id": 52194742665579,
@@ -12143,7 +12143,7 @@
         "sku": "X000009561078",
         "price": 279.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53107711345003": {
         "id": 53107711345003,
@@ -12154,7 +12154,7 @@
         "sku": "X000009561082",
         "price": 279.99,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       },
       "53107711377771": {
         "id": 53107711377771,
@@ -12165,7 +12165,7 @@
         "sku": "X000009561083",
         "price": 279.99,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       },
       "53107711410539": {
         "id": 53107711410539,
@@ -12176,7 +12176,7 @@
         "sku": "X000009561084",
         "price": 279.99,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       }
     }
   },
@@ -12185,7 +12185,7 @@
     "title": "Arc'teryx Atom Vest Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-atom-vest-mens-1",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S25-X000009559-Atom-Vest-Black-Front-View.jpg?v=1757792324",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S25-X000009559-Atom-Vest-Black-Front-View.jpg?v=1757792324",
     "variants": {
       "52194735587691": {
         "id": 52194735587691,
@@ -12196,7 +12196,7 @@
         "sku": "X000009559003",
         "price": 199.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51802968162667": {
         "id": 51802968162667,
@@ -12207,7 +12207,7 @@
         "sku": "X000009559004",
         "price": 199.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51802968195435": {
         "id": 51802968195435,
@@ -12218,7 +12218,7 @@
         "sku": "X000009559005",
         "price": 199.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51802968228203": {
         "id": 51802968228203,
@@ -12229,7 +12229,7 @@
         "sku": "X000009559006",
         "price": 199.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51802968359275": {
         "id": 51802968359275,
@@ -12240,7 +12240,7 @@
         "sku": "X000009559021",
         "price": 199.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51802968260971": {
         "id": 51802968260971,
@@ -12251,7 +12251,7 @@
         "sku": "X000009559022",
         "price": 199.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51802968293739": {
         "id": 51802968293739,
@@ -12262,7 +12262,7 @@
         "sku": "X000009559023",
         "price": 199.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51802968326507": {
         "id": 51802968326507,
@@ -12273,7 +12273,7 @@
         "sku": "X000009559024",
         "price": 199.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51995987804523": {
         "id": 51995987804523,
@@ -12284,7 +12284,7 @@
         "sku": "X000009559010",
         "price": 199.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51995987837291": {
         "id": 51995987837291,
@@ -12295,7 +12295,7 @@
         "sku": "X000009559011",
         "price": 199.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52253079732587": {
         "id": 52253079732587,
@@ -12306,7 +12306,7 @@
         "sku": "X000009559033",
         "price": 199.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52253079765355": {
         "id": 52253079765355,
@@ -12317,7 +12317,7 @@
         "sku": "X000009559034",
         "price": 199.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52253079798123": {
         "id": 52253079798123,
@@ -12328,7 +12328,7 @@
         "sku": "X000009559035",
         "price": 199.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52253079830891": {
         "id": 52253079830891,
@@ -12339,7 +12339,7 @@
         "sku": "X000009559028",
         "price": 199.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52253079863659": {
         "id": 52253079863659,
@@ -12350,7 +12350,7 @@
         "sku": "X000009559029",
         "price": 199.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52253079896427": {
         "id": 52253079896427,
@@ -12361,7 +12361,7 @@
         "sku": "X000009559030",
         "price": 199.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52395050271083": {
         "id": 52395050271083,
@@ -12372,7 +12372,7 @@
         "sku": "X000009559027",
         "price": 199.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -12863,7 +12863,7 @@
     "title": "Arc'teryx Atom Vest Women's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-atom-vest-womens-1",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S25-X000009507-Atom-Vest-Black-Women-s-Detail-1_9a4c1072-667c-42a2-b2ad-69d3bf916a35.jpg?v=1757341305",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S25-X000009507-Atom-Vest-Black-Women-s-Detail-1_9a4c1072-667c-42a2-b2ad-69d3bf916a35.jpg?v=1757341305",
     "variants": {
       "51938060108139": {
         "id": 51938060108139,
@@ -12874,7 +12874,7 @@
         "sku": "X000009507003",
         "price": 199.99,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       },
       "51802965999979": {
         "id": 51802965999979,
@@ -12885,7 +12885,7 @@
         "sku": "X000009507004",
         "price": 199.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51802966032747": {
         "id": 51802966032747,
@@ -12896,7 +12896,7 @@
         "sku": "X000009507005",
         "price": 199.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51938060140907": {
         "id": 51938060140907,
@@ -12907,7 +12907,7 @@
         "sku": "X000009507006",
         "price": 199.99,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       },
       "51938060173675": {
         "id": 51938060173675,
@@ -12918,7 +12918,7 @@
         "sku": "X000009507007",
         "price": 199.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52194522268011": {
         "id": 52194522268011,
@@ -12929,7 +12929,7 @@
         "sku": "X000009507031",
         "price": 199.99,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 2
       },
       "52194522300779": {
         "id": 52194522300779,
@@ -12940,7 +12940,7 @@
         "sku": "X000009507032",
         "price": 199.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52194522333547": {
         "id": 52194522333547,
@@ -12951,7 +12951,7 @@
         "sku": "X000009507033",
         "price": 199.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52194522366315": {
         "id": 52194522366315,
@@ -12962,7 +12962,7 @@
         "sku": "X000009507034",
         "price": 199.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52375725048171": {
         "id": 52375725048171,
@@ -12973,7 +12973,7 @@
         "sku": "X000009507038",
         "price": 199.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52375725080939": {
         "id": 52375725080939,
@@ -12984,7 +12984,7 @@
         "sku": "X000009507039",
         "price": 199.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52375725113707": {
         "id": 52375725113707,
@@ -12995,7 +12995,7 @@
         "sku": "X000009507040",
         "price": 199.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52375725146475": {
         "id": 52375725146475,
@@ -13006,7 +13006,7 @@
         "sku": "X000009507041",
         "price": 199.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -13015,7 +13015,7 @@
     "title": "Arc'teryx Atom Hoody Women's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-atom-hoody-womens-1",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S25-X000009452-Atom-Hoody-Alpenglow-Women-s-Front-View_00d56995-f8db-4667-80a3-8bf4f515881c.jpg?v=1776280513",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S25-X000009452-Atom-Hoody-Alpenglow-Women-s-Front-View_00d56995-f8db-4667-80a3-8bf4f515881c.jpg?v=1776280513",
     "variants": {
       "51938059845995": {
         "id": 51938059845995,
@@ -13026,7 +13026,7 @@
         "sku": "X000009452003",
         "price": 299.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51802965541227": {
         "id": 51802965541227,
@@ -13037,7 +13037,7 @@
         "sku": "X000009452004",
         "price": 299.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51802965573995": {
         "id": 51802965573995,
@@ -13048,7 +13048,7 @@
         "sku": "X000009452005",
         "price": 299.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51802965606763": {
         "id": 51802965606763,
@@ -13059,7 +13059,7 @@
         "sku": "X000009452006",
         "price": 299.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51938059878763": {
         "id": 51938059878763,
@@ -13070,7 +13070,7 @@
         "sku": "X000009452045",
         "price": 299.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51938059911531": {
         "id": 51938059911531,
@@ -13081,7 +13081,7 @@
         "sku": "X000009452046",
         "price": 299.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51938059944299": {
         "id": 51938059944299,
@@ -13092,7 +13092,7 @@
         "sku": "X000009452047",
         "price": 299.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51938059977067": {
         "id": 51938059977067,
@@ -13103,7 +13103,7 @@
         "sku": "X000009452048",
         "price": 299.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52194434548075": {
         "id": 52194434548075,
@@ -13114,7 +13114,7 @@
         "sku": "X000009452017",
         "price": 299.99,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       },
       "51938060009835": {
         "id": 51938060009835,
@@ -13125,7 +13125,7 @@
         "sku": "X000009452018",
         "price": 299.99,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 2
       },
       "51938060042603": {
         "id": 51938060042603,
@@ -13136,7 +13136,7 @@
         "sku": "X000009452019",
         "price": 299.99,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       },
       "51938060075371": {
         "id": 51938060075371,
@@ -13147,7 +13147,7 @@
         "sku": "X000009452020",
         "price": 299.99,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       },
       "52194434580843": {
         "id": 52194434580843,
@@ -13158,7 +13158,7 @@
         "sku": "X000009452021",
         "price": 299.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52194434613611": {
         "id": 52194434613611,
@@ -13169,7 +13169,7 @@
         "sku": "X000009452066",
         "price": 299.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52194434646379": {
         "id": 52194434646379,
@@ -13180,7 +13180,7 @@
         "sku": "X000009452067",
         "price": 299.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52194434679147": {
         "id": 52194434679147,
@@ -13191,7 +13191,7 @@
         "sku": "X000009452068",
         "price": 299.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52194434711915": {
         "id": 52194434711915,
@@ -13202,7 +13202,7 @@
         "sku": "X000009452069",
         "price": 299.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52395050172779": {
         "id": 52395050172779,
@@ -13213,7 +13213,7 @@
         "sku": "X000009452101",
         "price": 299.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52395050205547": {
         "id": 52395050205547,
@@ -13224,7 +13224,7 @@
         "sku": "X000009452102",
         "price": 299.99,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       },
       "52395050238315": {
         "id": 52395050238315,
@@ -13235,7 +13235,7 @@
         "sku": "X000009452103",
         "price": 299.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52674592833899": {
         "id": 52674592833899,
@@ -13246,7 +13246,7 @@
         "sku": "X000009452073",
         "price": 299.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52674592866667": {
         "id": 52674592866667,
@@ -13257,7 +13257,7 @@
         "sku": "X000009452074",
         "price": 299.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52674592899435": {
         "id": 52674592899435,
@@ -13268,7 +13268,7 @@
         "sku": "X000009452075",
         "price": 299.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52956101214571": {
         "id": 52956101214571,
@@ -13279,7 +13279,7 @@
         "sku": "X000009452076",
         "price": 299.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53019474624875": {
         "id": 53019474624875,
@@ -13290,7 +13290,7 @@
         "sku": "X000009452143",
         "price": 299.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53019474657643": {
         "id": 53019474657643,
@@ -13301,7 +13301,7 @@
         "sku": "X000009452144",
         "price": 299.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53019474690411": {
         "id": 53019474690411,
@@ -13312,7 +13312,7 @@
         "sku": "X000009452145",
         "price": 299.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53019474723179": {
         "id": 53019474723179,
@@ -13323,7 +13323,7 @@
         "sku": "X000009452146",
         "price": 299.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53107710951787": {
         "id": 53107710951787,
@@ -13334,7 +13334,7 @@
         "sku": "X000009452164",
         "price": 299.99,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       },
       "53107710984555": {
         "id": 53107710984555,
@@ -13345,7 +13345,7 @@
         "sku": "X000009452165",
         "price": 299.99,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       },
       "53107711017323": {
         "id": 53107711017323,
@@ -13356,7 +13356,7 @@
         "sku": "X000009452166",
         "price": 299.99,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53107711050091": {
         "id": 53107711050091,
@@ -13367,7 +13367,7 @@
         "sku": "X000009452167",
         "price": 299.99,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       }
     }
   }
