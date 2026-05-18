@@ -2330,7 +2330,7 @@
         "sku": "X000007992003",
         "price": 130.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52936376058219": {
         "id": 52936376058219,
@@ -2341,7 +2341,7 @@
         "sku": "X000007992004",
         "price": 130.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52936376090987": {
         "id": 52936376090987,
@@ -2352,7 +2352,7 @@
         "sku": "X000007992005",
         "price": 130.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -2361,7 +2361,7 @@
     "title": "Arc'teryx Granville 20 Backpack",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-granville-20-backpack",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/31-487258-0-image-1313513.jpg?v=1771704765",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/31-487258-0-image-1313513.jpg?v=1771704765",
     "variants": {
       "52931287122283": {
         "id": 52931287122283,
@@ -2372,7 +2372,7 @@
         "sku": "18096 - 450523",
         "price": 180.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -2381,7 +2381,7 @@
     "title": "Arc'teryx Granville Zip 16 Backpack",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-granville-zip-16-backpack",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/31-487259-0-image-1313514.jpg?v=1771704758",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/31-487259-0-image-1313514.jpg?v=1771704758",
     "variants": {
       "52931286958443": {
         "id": 52931286958443,
@@ -2392,7 +2392,7 @@
         "sku": "18792 - 450528",
         "price": 180.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -2401,7 +2401,7 @@
     "title": "Arc'teryx Aerios 30 Backpack Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-aerios-30-backpack-mens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/Aerios-30-Backpack-Glade.jpg?v=1771704615",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/Aerios-30-Backpack-Glade.jpg?v=1771704615",
     "variants": {
       "52931283255659": {
         "id": 52931283255659,
@@ -2412,7 +2412,7 @@
         "sku": "27337 - 451450",
         "price": 190.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -3840,7 +3840,7 @@
     "title": "Arc'teryx Sabre SV Jacket Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-sabre-sv-jacket-mens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009910-Sabre-SV-Jacket-Black.jpg?v=1768237374",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009910-Sabre-SV-Jacket-Black.jpg?v=1768237374",
     "variants": {
       "52752650731883": {
         "id": 52752650731883,
@@ -3851,7 +3851,7 @@
         "sku": "X000009910009",
         "price": 900.0,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 2
       },
       "52752650764651": {
         "id": 52752650764651,
@@ -3862,7 +3862,7 @@
         "sku": "X000009910010",
         "price": 900.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52752650797419": {
         "id": 52752650797419,
@@ -3873,7 +3873,7 @@
         "sku": "X000009910011",
         "price": 900.0,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       },
       "52752650830187": {
         "id": 52752650830187,
@@ -3884,7 +3884,7 @@
         "sku": "X000009910012",
         "price": 900.0,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       }
     }
   },
