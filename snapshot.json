@@ -1880,7 +1880,7 @@
     "title": "Arc'teryx Women's Squamish Hoody",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-womens-squamish-hoody",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S26-X000010268-Squamish-Hoody-Black-Women-s-Front-View.jpg?v=1776280538",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S26-X000010268-Squamish-Hoody-Black-Women-s-Front-View.jpg?v=1776280538",
     "variants": {
       "52941142262123": {
         "id": 52941142262123,
@@ -1891,7 +1891,7 @@
         "sku": "X000010268024",
         "price": 200.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52941142294891": {
         "id": 52941142294891,
@@ -1902,7 +1902,7 @@
         "sku": "X000010268025",
         "price": 200.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52941142327659": {
         "id": 52941142327659,
@@ -1913,7 +1913,7 @@
         "sku": "X000010268026",
         "price": 200.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53107712098667": {
         "id": 53107712098667,
@@ -1924,7 +1924,7 @@
         "sku": "X000010268052",
         "price": 200.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53107712131435": {
         "id": 53107712131435,
@@ -1935,7 +1935,7 @@
         "sku": "X000010268053",
         "price": 200.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53107712164203": {
         "id": 53107712164203,
@@ -1946,7 +1946,7 @@
         "sku": "X000010268054",
         "price": 200.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53107712196971": {
         "id": 53107712196971,
@@ -1957,7 +1957,7 @@
         "sku": "X000010268055",
         "price": 200.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
@@ -2401,7 +2401,7 @@
     "title": "Arc'teryx Aerios 30 Backpack Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-aerios-30-backpack-mens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/Aerios-30-Backpack-Glade.jpg?v=1771704615",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/Aerios-30-Backpack-Glade.jpg?v=1771704615",
     "variants": {
       "52931283255659": {
         "id": 52931283255659,
@@ -2412,7 +2412,7 @@
         "sku": "27337 - 451450",
         "price": 190.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -2735,7 +2735,7 @@
     "title": "Arc'teryx Kyanite Lightweight Jacket Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-kyanite-lightweight-jacket-mens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/unnamed_19_763b29b2-f418-4914-aa12-a706a89ca23b.png?v=1771942441",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/unnamed_19_763b29b2-f418-4914-aa12-a706a89ca23b.png?v=1771942441",
     "variants": {
       "52936375665003": {
         "id": 52936375665003,
@@ -2746,7 +2746,7 @@
         "sku": "X000009640002",
         "price": 140.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52783807889771": {
         "id": 52783807889771,
@@ -2757,7 +2757,7 @@
         "sku": "X000009640003",
         "price": 140.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52783807922539": {
         "id": 52783807922539,
@@ -2768,7 +2768,7 @@
         "sku": "X000009640004",
         "price": 140.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52936375697771": {
         "id": 52936375697771,
@@ -2779,7 +2779,7 @@
         "sku": "X000009640008",
         "price": 140.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52936375730539": {
         "id": 52936375730539,
@@ -2790,7 +2790,7 @@
         "sku": "X000009640009",
         "price": 140.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52936375763307": {
         "id": 52936375763307,
@@ -2801,7 +2801,7 @@
         "sku": "X000009640010",
         "price": 140.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -4308,7 +4308,7 @@
     "title": "Arc'teryx Macai Shell Jacket Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-macai-shell-jacket-mens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009889-Macai-Shell-Jacket-Black.jpg?v=1761299559",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009889-Macai-Shell-Jacket-Black.jpg?v=1761299559",
     "variants": {
       "52496675471723": {
         "id": 52496675471723,
@@ -4319,7 +4319,7 @@
         "sku": "X000009889004",
         "price": 750.0,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       },
       "52496675504491": {
         "id": 52496675504491,
@@ -4330,7 +4330,7 @@
         "sku": "X000009889005",
         "price": 750.0,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       },
       "52622665449835": {
         "id": 52622665449835,
@@ -4341,7 +4341,7 @@
         "sku": "X000009889006",
         "price": 750.0,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       }
     }
   },
@@ -11883,7 +11883,7 @@
     "title": "Arcteryx Micon Litric 32 Avalanche Backpack",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-micon-litric-32-avalanche-backpack",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/323201_790_097_01_4f206fa6-f0c8-45c8-94b3-c2b0ccf1084b.jpg?v=1769705828",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/323201_790_097_01_4f206fa6-f0c8-45c8-94b3-c2b0ccf1084b.jpg?v=1769705828",
     "variants": {
       "52863582732651": {
         "id": 52863582732651,
@@ -11894,7 +11894,7 @@
         "sku": "X000009987002",
         "price": 1600.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
