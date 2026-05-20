@@ -2288,7 +2288,7 @@
     "title": "Arc'teryx Gamma MX Hoody Women's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-gamma-mx-hoody-womens",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009456-Gamma-MX-Hoody-Arctic-Silk-Women-s-Front-View.jpg?v=1778838221",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009456-Gamma-MX-Hoody-Arctic-Silk-Women-s-Front-View.jpg?v=1778838221",
     "variants": {
       "53234018124139": {
         "id": 53234018124139,
@@ -2299,7 +2299,7 @@
         "sku": "X000009456026",
         "price": 400.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52936376123755": {
         "id": 52936376123755,
@@ -2310,7 +2310,7 @@
         "sku": "X000009456027",
         "price": 400.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
@@ -2330,7 +2330,7 @@
         "sku": "X000007992003",
         "price": 130.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52936376058219": {
         "id": 52936376058219,
@@ -2341,7 +2341,7 @@
         "sku": "X000007992004",
         "price": 130.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52936376090987": {
         "id": 52936376090987,
@@ -2352,7 +2352,7 @@
         "sku": "X000007992005",
         "price": 130.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
@@ -5787,7 +5787,7 @@
     "title": "Arc'teryx Beta Pant Women's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-beta-pant-womens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S25-X000009468-Beta-Pant-Black-Women-s-Front-View.jpg?v=1757792368",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S25-X000009468-Beta-Pant-Black-Women-s-Front-View.jpg?v=1757792368",
     "variants": {
       "52395051417963": {
         "id": 52395051417963,
@@ -5798,7 +5798,7 @@
         "sku": "X000009468014",
         "price": 300.0,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       },
       "52395051450731": {
         "id": 52395051450731,
@@ -5809,7 +5809,7 @@
         "sku": "X000009468015",
         "price": 300.0,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 3
       },
       "52395051483499": {
         "id": 52395051483499,
@@ -5820,7 +5820,7 @@
         "sku": "X000009468016",
         "price": 300.0,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 2
       },
       "52395051516267": {
         "id": 52395051516267,
@@ -5831,7 +5831,7 @@
         "sku": "X000009468017",
         "price": 300.0,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       }
     }
   },
