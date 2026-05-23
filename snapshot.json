@@ -4500,7 +4500,7 @@
     "title": "Arc'teryx Cormac Crew Neck Shirt LS Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-cormac-crew-neck-shirt-ls-mens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S25-X000009719-Cormac-Crew-Neck-Shirt-LS-Black-Heather-Front-View.jpg?v=1759779702",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S25-X000009719-Cormac-Crew-Neck-Shirt-LS-Black-Heather-Front-View.jpg?v=1759779702",
     "variants": {
       "51996155117931": {
         "id": 51996155117931,
@@ -4511,7 +4511,7 @@
         "sku": "X000009719008",
         "price": 80.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51996155150699": {
         "id": 51996155150699,
@@ -4522,7 +4522,7 @@
         "sku": "X000009719009",
         "price": 80.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51996155183467": {
         "id": 51996155183467,
@@ -4533,7 +4533,7 @@
         "sku": "X000009719010",
         "price": 80.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51996155216235": {
         "id": 51996155216235,
@@ -4544,7 +4544,7 @@
         "sku": "X000009719011",
         "price": 80.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52040021672299": {
         "id": 52040021672299,
@@ -4555,7 +4555,7 @@
         "sku": "X000009719033",
         "price": 80.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52040021705067": {
         "id": 52040021705067,
@@ -4566,7 +4566,7 @@
         "sku": "X000009719034",
         "price": 80.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52040021737835": {
         "id": 52040021737835,
@@ -4577,7 +4577,7 @@
         "sku": "X000009719035",
         "price": 80.0,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       },
       "52040021770603": {
         "id": 52040021770603,
@@ -4588,7 +4588,7 @@
         "sku": "X000009719044",
         "price": 80.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52040021803371": {
         "id": 52040021803371,
@@ -4599,7 +4599,7 @@
         "sku": "X000009719045",
         "price": 80.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52040021836139": {
         "id": 52040021836139,
@@ -4610,7 +4610,7 @@
         "sku": "X000009719046",
         "price": 80.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52040021868907": {
         "id": 52040021868907,
@@ -4621,7 +4621,7 @@
         "sku": "X000009719047",
         "price": 80.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52441145475435": {
         "id": 52441145475435,
@@ -4632,7 +4632,7 @@
         "sku": "X000009719056",
         "price": 80.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52441145508203": {
         "id": 52441145508203,
@@ -4643,7 +4643,7 @@
         "sku": "X000009719057",
         "price": 80.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52441145540971": {
         "id": 52441145540971,
@@ -4654,7 +4654,7 @@
         "sku": "X000009719058",
         "price": 80.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52441145573739": {
         "id": 52441145573739,
@@ -4665,7 +4665,7 @@
         "sku": "X000009719059",
         "price": 80.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
