@@ -2268,7 +2268,7 @@
         "sku": "X000010354003",
         "price": 220.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52936376254827": {
         "id": 52936376254827,
@@ -2279,7 +2279,7 @@
         "sku": "X000010354004",
         "price": 220.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52936376287595": {
         "id": 52936376287595,
@@ -2290,7 +2290,7 @@
         "sku": "X000010354005",
         "price": 220.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52936376320363": {
         "id": 52936376320363,
@@ -2301,7 +2301,7 @@
         "sku": "X000010354006",
         "price": 220.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -2310,7 +2310,7 @@
     "title": "Arc'teryx Squamish Jacket Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-squamish-jacket-mens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S26-X000010284-Squamish-Jacket-Black-Front-View.jpg?v=1771942456",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S26-X000010284-Squamish-Jacket-Black-Front-View.jpg?v=1771942456",
     "variants": {
       "52936376156523": {
         "id": 52936376156523,
@@ -2321,7 +2321,7 @@
         "sku": "X000010284009",
         "price": 180.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52936588886379": {
         "id": 52936588886379,
@@ -2332,7 +2332,7 @@
         "sku": "X000010284012",
         "price": 180.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -6887,7 +6887,7 @@
     "title": "Arc'teryx Cormac Crew Neck Shirt SS Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-cormac-crew-neck-shirt-ss-mens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S25-X000009718-Cormac-Crew-Neck-Shirt-SS-Tatsu-Heather-Front-View.jpg?v=1749476413",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S25-X000009718-Cormac-Crew-Neck-Shirt-SS-Tatsu-Heather-Front-View.jpg?v=1749476413",
     "variants": {
       "51996155249003": {
         "id": 51996155249003,
@@ -6898,7 +6898,7 @@
         "sku": "X000009718056",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51996155281771": {
         "id": 51996155281771,
@@ -6909,7 +6909,7 @@
         "sku": "X000009718057",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51996155314539": {
         "id": 51996155314539,
@@ -6920,7 +6920,7 @@
         "sku": "X000009718058",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51996155347307": {
         "id": 51996155347307,
@@ -6931,7 +6931,7 @@
         "sku": "X000009718059",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51996155380075": {
         "id": 51996155380075,
@@ -6942,7 +6942,7 @@
         "sku": "X000009718008",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51996155412843": {
         "id": 51996155412843,
@@ -6953,7 +6953,7 @@
         "sku": "X000009718009",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51996155445611": {
         "id": 51996155445611,
@@ -6964,7 +6964,7 @@
         "sku": "X000009718010",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51996155478379": {
         "id": 51996155478379,
@@ -6975,7 +6975,7 @@
         "sku": "X000009718011",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52040021901675": {
         "id": 52040021901675,
@@ -6986,7 +6986,7 @@
         "sku": "X000009718050",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52040021934443": {
         "id": 52040021934443,
@@ -6997,7 +6997,7 @@
         "sku": "X000009718051",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52040021967211": {
         "id": 52040021967211,
@@ -7008,7 +7008,7 @@
         "sku": "X000009718052",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52111606055275": {
         "id": 52111606055275,
@@ -7019,7 +7019,7 @@
         "sku": "X000009718003",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52111606088043": {
         "id": 52111606088043,
@@ -7030,7 +7030,7 @@
         "sku": "X000009718004",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52111606120811": {
         "id": 52111606120811,
@@ -7041,7 +7041,7 @@
         "sku": "X000009718005",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -11534,7 +11534,7 @@
         "option3": null,
         "sku": "X000009614034",
         "price": 169.99,
-        "available": true,
+        "available": false,
         "inventory_quantity": null
       },
       "52778011918699": {
