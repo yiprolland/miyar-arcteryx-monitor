@@ -2310,7 +2310,7 @@
     "title": "Arc'teryx Squamish Jacket Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-squamish-jacket-mens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S26-X000010284-Squamish-Jacket-Black-Front-View.jpg?v=1771942456",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S26-X000010284-Squamish-Jacket-Black-Front-View.jpg?v=1771942456",
     "variants": {
       "52936376156523": {
         "id": 52936376156523,
@@ -2321,7 +2321,7 @@
         "sku": "X000010284009",
         "price": 180.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52936588886379": {
         "id": 52936588886379,
@@ -2332,7 +2332,7 @@
         "sku": "X000010284012",
         "price": 180.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -2341,7 +2341,7 @@
     "title": "Arc'teryx Gamma MX Hoody Women's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-gamma-mx-hoody-womens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009456-Gamma-MX-Hoody-Arctic-Silk-Women-s-Front-View.jpg?v=1778838221",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009456-Gamma-MX-Hoody-Arctic-Silk-Women-s-Front-View.jpg?v=1778838221",
     "variants": {
       "53234018124139": {
         "id": 53234018124139,
@@ -2352,7 +2352,7 @@
         "sku": "X000009456026",
         "price": 400.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52936376123755": {
         "id": 52936376123755,
@@ -2363,7 +2363,7 @@
         "sku": "X000009456027",
         "price": 400.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -2629,7 +2629,7 @@
     "title": "Arc'teryx Kyanite Jacket Women's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-kyanite-jacket-womens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/F25-X000008516-Kyanite-Jacket-Black-Women-s-Front-View.jpg?v=1770835578",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000008516-Kyanite-Jacket-Black-Women-s-Front-View.jpg?v=1770835578",
     "variants": {
       "52906728489323": {
         "id": 52906728489323,
@@ -2640,7 +2640,7 @@
         "sku": "X000008516003",
         "price": 180.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52906728522091": {
         "id": 52906728522091,
@@ -2651,7 +2651,7 @@
         "sku": "X000008516004",
         "price": 180.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52906728554859": {
         "id": 52906728554859,
@@ -2662,7 +2662,7 @@
         "sku": "X000008516073",
         "price": 180.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52906728587627": {
         "id": 52906728587627,
@@ -2673,7 +2673,7 @@
         "sku": "X000008516074",
         "price": 180.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -2682,7 +2682,7 @@
     "title": "Arc'teryx Kragg Cotton Little Bird Crew Shirt SS Women's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-kragg-cotton-little-bird-crew-shirt-ss-womens",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S26-X000008468-Kragg-Cotton-Little-Bird-Crew-Neck-Shirt-SS-Pineberry-Women-s-Front-View_34455526-2824-470f-a505-d843ba1d29d6.jpg?v=1776280537",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S26-X000008468-Kragg-Cotton-Little-Bird-Crew-Neck-Shirt-SS-Pineberry-Women-s-Front-View_34455526-2824-470f-a505-d843ba1d29d6.jpg?v=1776280537",
     "variants": {
       "52906728227179": {
         "id": 52906728227179,
@@ -2693,7 +2693,7 @@
         "sku": "X000008468102",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52906728259947": {
         "id": 52906728259947,
@@ -2704,7 +2704,7 @@
         "sku": "X000008468103",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52906728292715": {
         "id": 52906728292715,
@@ -2715,7 +2715,7 @@
         "sku": "X000008468104",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53107711967595": {
         "id": 53107711967595,
@@ -2726,7 +2726,7 @@
         "sku": "X000008468003",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53107712000363": {
         "id": 53107712000363,
@@ -2737,7 +2737,7 @@
         "sku": "X000008468004",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53107712033131": {
         "id": 53107712033131,
@@ -2748,7 +2748,7 @@
         "sku": "X000008468005",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53107712065899": {
         "id": 53107712065899,
@@ -2759,7 +2759,7 @@
         "sku": "X000008468006",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
@@ -5937,7 +5937,7 @@
     "title": "Arc'teryx Rho LT Hoody Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-rho-lt-hoody-mens-2",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009423-Rho-LT-Hoody-Black-Sapphire-II-Front-View.avif?v=1765915004",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009423-Rho-LT-Hoody-Black-Sapphire-II-Front-View.avif?v=1765915004",
     "variants": {
       "52395051286891": {
         "id": 52395051286891,
@@ -5948,7 +5948,7 @@
         "sku": "X000009423001",
         "price": 120.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52395051319659": {
         "id": 52395051319659,
@@ -5959,7 +5959,7 @@
         "sku": "X000009423002",
         "price": 120.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52395051352427": {
         "id": 52395051352427,
@@ -5970,7 +5970,7 @@
         "sku": "X000009423003",
         "price": 120.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52395051385195": {
         "id": 52395051385195,
@@ -5981,7 +5981,7 @@
         "sku": "X000009423004",
         "price": 120.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52441145835883": {
         "id": 52441145835883,
@@ -5992,7 +5992,7 @@
         "sku": "X000009423016",
         "price": 120.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52441145868651": {
         "id": 52441145868651,
@@ -6003,7 +6003,7 @@
         "sku": "X000009423017",
         "price": 120.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52441145901419": {
         "id": 52441145901419,
@@ -6014,7 +6014,7 @@
         "sku": "X000009423018",
         "price": 120.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52441145934187": {
         "id": 52441145934187,
@@ -6025,7 +6025,7 @@
         "sku": "X000009423019",
         "price": 120.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
@@ -8801,7 +8801,7 @@
     "title": "Arc'teryx Granville 25 Backpack",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-granville-25-backpack",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S26-X000010385-Granville-25-Backpack-Dk-Stratus-Front-View_d658c222-339c-4e5e-91ff-c1411fcf8649.jpg?v=1773938985",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S26-X000010385-Granville-25-Backpack-Dk-Stratus-Front-View_d658c222-339c-4e5e-91ff-c1411fcf8649.jpg?v=1773938985",
     "variants": {
       "52040022229355": {
         "id": 52040022229355,
@@ -8812,7 +8812,7 @@
         "sku": "X000010385001",
         "price": 230.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53019477180779": {
         "id": 53019477180779,
@@ -8823,7 +8823,7 @@
         "sku": "X000010385005",
         "price": 230.0,
         "available": true,
-        "inventory_quantity": 1
+        "inventory_quantity": null
       },
       "52111606153579": {
         "id": 52111606153579,
@@ -8834,7 +8834,7 @@
         "sku": "X000009625002",
         "price": 220.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52941139181931": {
         "id": 52941139181931,
@@ -8845,7 +8845,7 @@
         "sku": "X000010385002",
         "price": 230.0,
         "available": true,
-        "inventory_quantity": 1
+        "inventory_quantity": null
       }
     }
   },
