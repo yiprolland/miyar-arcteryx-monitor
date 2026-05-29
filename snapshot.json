@@ -2268,7 +2268,7 @@
         "sku": "X000010354003",
         "price": 220.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52936376254827": {
         "id": 52936376254827,
@@ -2279,7 +2279,7 @@
         "sku": "X000010354004",
         "price": 220.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52936376287595": {
         "id": 52936376287595,
@@ -2290,7 +2290,7 @@
         "sku": "X000010354005",
         "price": 220.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52936376320363": {
         "id": 52936376320363,
@@ -2301,7 +2301,7 @@
         "sku": "X000010354006",
         "price": 220.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -2310,7 +2310,7 @@
     "title": "Arc'teryx Squamish Jacket Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-squamish-jacket-mens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S26-X000010284-Squamish-Jacket-Black-Front-View.jpg?v=1771942456",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S26-X000010284-Squamish-Jacket-Black-Front-View.jpg?v=1771942456",
     "variants": {
       "52936376156523": {
         "id": 52936376156523,
@@ -2321,7 +2321,7 @@
         "sku": "X000010284009",
         "price": 180.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52936588886379": {
         "id": 52936588886379,
@@ -2332,7 +2332,7 @@
         "sku": "X000010284012",
         "price": 180.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -2341,7 +2341,7 @@
     "title": "Arc'teryx Gamma MX Hoody Women's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-gamma-mx-hoody-womens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009456-Gamma-MX-Hoody-Arctic-Silk-Women-s-Front-View.jpg?v=1778838221",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009456-Gamma-MX-Hoody-Arctic-Silk-Women-s-Front-View.jpg?v=1778838221",
     "variants": {
       "53234018124139": {
         "id": 53234018124139,
@@ -2352,7 +2352,7 @@
         "sku": "X000009456026",
         "price": 400.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52936376123755": {
         "id": 52936376123755,
@@ -2363,7 +2363,7 @@
         "sku": "X000009456027",
         "price": 400.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -2383,7 +2383,7 @@
         "sku": "X000007992003",
         "price": 130.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52936376058219": {
         "id": 52936376058219,
@@ -2394,7 +2394,7 @@
         "sku": "X000007992004",
         "price": 130.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52936376090987": {
         "id": 52936376090987,
@@ -2405,7 +2405,7 @@
         "sku": "X000007992005",
         "price": 130.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -2414,7 +2414,7 @@
     "title": "Arc'teryx Granville 20 Backpack",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-granville-20-backpack",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/31-487258-0-image-1313513.jpg?v=1771704765",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/31-487258-0-image-1313513.jpg?v=1771704765",
     "variants": {
       "52931287122283": {
         "id": 52931287122283,
@@ -2425,7 +2425,7 @@
         "sku": "18096 - 450523",
         "price": 180.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -2434,7 +2434,7 @@
     "title": "Arc'teryx Granville Zip 16 Backpack",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-granville-zip-16-backpack",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/31-487259-0-image-1313514.jpg?v=1771704758",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/31-487259-0-image-1313514.jpg?v=1771704758",
     "variants": {
       "52931286958443": {
         "id": 52931286958443,
@@ -2445,7 +2445,7 @@
         "sku": "18792 - 450528",
         "price": 180.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -4213,7 +4213,7 @@
     "title": "Arc'teryx Heliad Crossbody Bag",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-heliad-crossbody",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009828-Heliad-Crossbody-Rune-Front_c623d75d-1028-4bee-afc3-f791715af432.jpg?v=1764165580",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009828-Heliad-Crossbody-Rune-Front_c623d75d-1028-4bee-afc3-f791715af432.jpg?v=1764165580",
     "variants": {
       "52519586791787": {
         "id": 52519586791787,
@@ -4224,7 +4224,7 @@
         "sku": "X000009828005",
         "price": 50.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52622627144043": {
         "id": 52622627144043,
@@ -4235,7 +4235,7 @@
         "sku": "X000009828011",
         "price": 50.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52622627176811": {
         "id": 52622627176811,
@@ -4246,7 +4246,7 @@
         "sku": "X000009828007",
         "price": 50.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52622627209579": {
         "id": 52622627209579,
@@ -4257,7 +4257,7 @@
         "sku": "X000009828001",
         "price": 50.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53110951313771": {
         "id": 53110951313771,
@@ -4268,7 +4268,7 @@
         "sku": "X000009828012",
         "price": 50.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -12046,7 +12046,7 @@
     "title": "Arcteryx Micon Litric 32 Avalanche Backpack",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-micon-litric-32-avalanche-backpack",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/323201_790_097_01_4f206fa6-f0c8-45c8-94b3-c2b0ccf1084b.jpg?v=1769705828",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/323201_790_097_01_4f206fa6-f0c8-45c8-94b3-c2b0ccf1084b.jpg?v=1769705828",
     "variants": {
       "52863582732651": {
         "id": 52863582732651,
@@ -12057,7 +12057,7 @@
         "sku": "X000009987002",
         "price": 1600.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
