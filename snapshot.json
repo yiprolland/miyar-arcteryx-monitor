@@ -2434,7 +2434,7 @@
     "title": "Arc'teryx Granville Zip 16 Backpack",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-granville-zip-16-backpack",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/31-487259-0-image-1313514.jpg?v=1771704758",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/31-487259-0-image-1313514.jpg?v=1771704758",
     "variants": {
       "52931286958443": {
         "id": 52931286958443,
@@ -2445,7 +2445,7 @@
         "sku": "18792 - 450528",
         "price": 180.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -6781,7 +6781,7 @@
     "title": "Arc'teryx Women's Atom Jacket",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-womens-atom-jacket",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009855-Atom-Jacket-Arctic-Silk-Women-s.jpg?v=1754400830",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009855-Atom-Jacket-Arctic-Silk-Women-s.jpg?v=1754400830",
     "variants": {
       "52253085303147": {
         "id": 52253085303147,
@@ -6792,7 +6792,7 @@
         "sku": "X000009855009",
         "price": 280.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52253085335915": {
         "id": 52253085335915,
@@ -6803,7 +6803,7 @@
         "sku": "X000009855010",
         "price": 280.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52253085368683": {
         "id": 52253085368683,
@@ -6814,7 +6814,7 @@
         "sku": "X000009855011",
         "price": 280.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52253085401451": {
         "id": 52253085401451,
@@ -6825,7 +6825,7 @@
         "sku": "X000009855012",
         "price": 280.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
@@ -8854,7 +8854,7 @@
     "title": "Arc'teryx Granville 16 Backpack",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-granville-16-backpack",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S25-X000009624-Granville-16-Backpack-Black-Front.jpg?v=1746640014",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S25-X000009624-Granville-16-Backpack-Black-Front.jpg?v=1746640014",
     "variants": {
       "52040022163819": {
         "id": 52040022163819,
@@ -8865,7 +8865,7 @@
         "sku": "X000009624001",
         "price": 200.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
