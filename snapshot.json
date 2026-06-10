@@ -2474,7 +2474,7 @@
     "title": "Arc'teryx Aerios 30 Backpack Women's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-aerios-30-backpack-womens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/Aerios-30-Backpack-W-Reflection.jpg?v=1771704611",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/Aerios-30-Backpack-W-Reflection.jpg?v=1771704611",
     "variants": {
       "52931282534763": {
         "id": 52931282534763,
@@ -2485,7 +2485,7 @@
         "sku": "27340 - 451456",
         "price": 190.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -2629,7 +2629,7 @@
     "title": "Arc'teryx Kyanite Jacket Women's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-kyanite-jacket-womens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/F25-X000008516-Kyanite-Jacket-Black-Women-s-Front-View.jpg?v=1770835578",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000008516-Kyanite-Jacket-Black-Women-s-Front-View.jpg?v=1770835578",
     "variants": {
       "52906728489323": {
         "id": 52906728489323,
@@ -2640,7 +2640,7 @@
         "sku": "X000008516003",
         "price": 180.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52906728522091": {
         "id": 52906728522091,
@@ -2651,7 +2651,7 @@
         "sku": "X000008516004",
         "price": 180.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52906728554859": {
         "id": 52906728554859,
@@ -2662,7 +2662,7 @@
         "sku": "X000008516073",
         "price": 180.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52906728587627": {
         "id": 52906728587627,
@@ -2673,7 +2673,7 @@
         "sku": "X000008516074",
         "price": 180.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
