@@ -3396,7 +3396,7 @@
     "title": "Arc'teryx KONSEAL GTX Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-konseal-gtx-mens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009833-Konseal-GTX-Shoe-Black-Black-Profile.jpg?v=1770291028",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009833-Konseal-GTX-Shoe-Black-Black-Profile.jpg?v=1770291028",
     "variants": {
       "52884896874859": {
         "id": 52884896874859,
@@ -3407,7 +3407,7 @@
         "sku": "X000009833001",
         "price": 220.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52778012639595": {
         "id": 52778012639595,
@@ -3418,7 +3418,7 @@
         "sku": "X000009833002",
         "price": 220.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52884896907627": {
         "id": 52884896907627,
@@ -3429,7 +3429,7 @@
         "sku": "X000009833003",
         "price": 220.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52778012672363": {
         "id": 52778012672363,
@@ -3440,7 +3440,7 @@
         "sku": "X000009833004",
         "price": 220.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52778012705131": {
         "id": 52778012705131,
@@ -3451,7 +3451,7 @@
         "sku": "X000009833005",
         "price": 220.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52778012737899": {
         "id": 52778012737899,
@@ -3462,7 +3462,7 @@
         "sku": "X000009833006",
         "price": 220.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52884896940395": {
         "id": 52884896940395,
@@ -3473,7 +3473,7 @@
         "sku": "X000009833007",
         "price": 220.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52778012770667": {
         "id": 52778012770667,
@@ -3484,7 +3484,7 @@
         "sku": "X000009833008",
         "price": 220.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52778012803435": {
         "id": 52778012803435,
@@ -3495,7 +3495,7 @@
         "sku": "X000009833009",
         "price": 220.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52940479791467": {
         "id": 52940479791467,
@@ -3506,7 +3506,7 @@
         "sku": "X000009833010",
         "price": 220.0,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       },
       "52940479824235": {
         "id": 52940479824235,
@@ -3517,7 +3517,7 @@
         "sku": "X000009833011",
         "price": 220.0,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       }
     }
   },
@@ -3526,7 +3526,7 @@
     "title": "Arc'teryx Kragg SL Cotton Shirt SS Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-kragg-sl-cotton-shirt-ss-mens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S25-X000009533-Kragg-SL-Cotton-Shirt-SS-White-Light-Front-View.jpg?v=1770835575",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S25-X000009533-Kragg-SL-Cotton-Shirt-SS-White-Light-Front-View.jpg?v=1770835575",
     "variants": {
       "52777646653803": {
         "id": 52777646653803,
@@ -3537,7 +3537,7 @@
         "sku": "X000009533027",
         "price": 60.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52777646686571": {
         "id": 52777646686571,
@@ -3548,7 +3548,7 @@
         "sku": "X000009533028",
         "price": 60.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52777646719339": {
         "id": 52777646719339,
@@ -3559,7 +3559,7 @@
         "sku": "X000009533029",
         "price": 60.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52777646752107": {
         "id": 52777646752107,
@@ -3570,7 +3570,7 @@
         "sku": "X000009533030",
         "price": 60.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52906727735659": {
         "id": 52906727735659,
@@ -3581,7 +3581,7 @@
         "sku": "X000009533064",
         "price": 60.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52906727768427": {
         "id": 52906727768427,
@@ -3592,7 +3592,7 @@
         "sku": "X000009533065",
         "price": 60.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -3601,7 +3601,7 @@
     "title": "Arc'teryx Heliad 15 Backpack",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-heliad-15-backpack",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S26-X000010358-Heliad-15-Backpack-Mantis-Front.jpg?v=1773939003",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S26-X000010358-Heliad-15-Backpack-Mantis-Front.jpg?v=1773939003",
     "variants": {
       "52777646621035": {
         "id": 52777646621035,
@@ -3612,7 +3612,7 @@
         "sku": "X000010358006",
         "price": 80.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53019477672299": {
         "id": 53019477672299,
@@ -3623,7 +3623,7 @@
         "sku": "X000010358001",
         "price": 80.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -3643,7 +3643,7 @@
         "sku": "X000009588011",
         "price": 250.0,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       }
     }
   },
