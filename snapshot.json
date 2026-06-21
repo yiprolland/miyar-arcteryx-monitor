@@ -3526,7 +3526,7 @@
     "title": "Arc'teryx Kragg SL Cotton Shirt SS Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-kragg-sl-cotton-shirt-ss-mens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S25-X000009533-Kragg-SL-Cotton-Shirt-SS-White-Light-Front-View.jpg?v=1770835575",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S25-X000009533-Kragg-SL-Cotton-Shirt-SS-White-Light-Front-View.jpg?v=1770835575",
     "variants": {
       "52777646653803": {
         "id": 52777646653803,
@@ -3537,7 +3537,7 @@
         "sku": "X000009533027",
         "price": 60.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52777646686571": {
         "id": 52777646686571,
@@ -3548,7 +3548,7 @@
         "sku": "X000009533028",
         "price": 60.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52777646719339": {
         "id": 52777646719339,
@@ -3559,7 +3559,7 @@
         "sku": "X000009533029",
         "price": 60.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52777646752107": {
         "id": 52777646752107,
@@ -3570,7 +3570,7 @@
         "sku": "X000009533030",
         "price": 60.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52906727735659": {
         "id": 52906727735659,
@@ -3581,7 +3581,7 @@
         "sku": "X000009533064",
         "price": 60.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52906727768427": {
         "id": 52906727768427,
@@ -3592,7 +3592,7 @@
         "sku": "X000009533065",
         "price": 60.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
