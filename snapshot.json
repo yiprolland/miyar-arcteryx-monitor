@@ -2434,7 +2434,7 @@
     "title": "Arc'teryx Granville Zip 16 Backpack",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-granville-zip-16-backpack",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/31-487259-0-image-1313514.jpg?v=1771704758",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/31-487259-0-image-1313514.jpg?v=1771704758",
     "variants": {
       "52931286958443": {
         "id": 52931286958443,
@@ -2445,7 +2445,7 @@
         "sku": "18792 - 450528",
         "price": 180.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -2494,7 +2494,7 @@
     "title": "Arc'teryx Rush SK 32 Backpack",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-rush-sk-32-backpack",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/Rush-SK-32-Backpack-Black.jpg?v=1771704580",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/Rush-SK-32-Backpack-Black.jpg?v=1771704580",
     "variants": {
       "52931282141547": {
         "id": 52931282141547,
@@ -2505,7 +2505,7 @@
         "sku": "27452 - 472999",
         "price": 220.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -2788,7 +2788,7 @@
     "title": "Arc'teryx Kyanite Lightweight Jacket Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-kyanite-lightweight-jacket-mens",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S26-X000009640-Kyanite-Lightweight-Jacket-Black-Front-View.jpg?v=1779456656",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S26-X000009640-Kyanite-Lightweight-Jacket-Black-Front-View.jpg?v=1779456656",
     "variants": {
       "52936375665003": {
         "id": 52936375665003,
@@ -2799,7 +2799,7 @@
         "sku": "X000009640002",
         "price": 140.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52783807889771": {
         "id": 52783807889771,
@@ -2810,7 +2810,7 @@
         "sku": "X000009640003",
         "price": 140.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52783807922539": {
         "id": 52783807922539,
@@ -2821,7 +2821,7 @@
         "sku": "X000009640004",
         "price": 140.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52936375697771": {
         "id": 52936375697771,
@@ -2832,7 +2832,7 @@
         "sku": "X000009640008",
         "price": 140.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52936375730539": {
         "id": 52936375730539,
@@ -2843,7 +2843,7 @@
         "sku": "X000009640009",
         "price": 140.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52936375763307": {
         "id": 52936375763307,
@@ -2854,7 +2854,7 @@
         "sku": "X000009640010",
         "price": 140.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53271569531243": {
         "id": 53271569531243,
@@ -2865,7 +2865,7 @@
         "sku": "X000009640050",
         "price": 140.0,
         "available": true,
-        "inventory_quantity": 1
+        "inventory_quantity": null
       },
       "53271569564011": {
         "id": 53271569564011,
@@ -2876,7 +2876,7 @@
         "sku": "X000009640051",
         "price": 140.0,
         "available": true,
-        "inventory_quantity": 1
+        "inventory_quantity": null
       },
       "53271569596779": {
         "id": 53271569596779,
@@ -2887,7 +2887,7 @@
         "sku": "X000009640052",
         "price": 140.0,
         "available": true,
-        "inventory_quantity": 2
+        "inventory_quantity": null
       },
       "53271569629547": {
         "id": 53271569629547,
@@ -2898,7 +2898,7 @@
         "sku": "X000009640053",
         "price": 140.0,
         "available": true,
-        "inventory_quantity": 1
+        "inventory_quantity": null
       }
     }
   },
