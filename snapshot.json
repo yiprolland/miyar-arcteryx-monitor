@@ -9016,8 +9016,8 @@
         "option3": "Regular",
         "sku": "X000010033181",
         "price": 200.0,
-        "available": true,
-        "inventory_quantity": 1
+        "available": false,
+        "inventory_quantity": 0
       }
     }
   },
