@@ -759,8 +759,8 @@
         "option3": null,
         "sku": "X000006816033",
         "price": 90.0,
-        "available": true,
-        "inventory_quantity": 1
+        "available": false,
+        "inventory_quantity": 0
       },
       "53107712885099": {
         "id": 53107712885099,
@@ -2341,7 +2341,7 @@
     "title": "Arc'teryx Gamma MX Hoody Women's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-gamma-mx-hoody-womens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009456-Gamma-MX-Hoody-Arctic-Silk-Women-s-Front-View.jpg?v=1778838221",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009456-Gamma-MX-Hoody-Arctic-Silk-Women-s-Front-View.jpg?v=1778838221",
     "variants": {
       "53234018124139": {
         "id": 53234018124139,
@@ -2352,7 +2352,7 @@
         "sku": "X000009456026",
         "price": 400.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52936376123755": {
         "id": 52936376123755,
@@ -2363,7 +2363,7 @@
         "sku": "X000009456027",
         "price": 400.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -2383,7 +2383,7 @@
         "sku": "X000007992003",
         "price": 130.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52936376058219": {
         "id": 52936376058219,
@@ -2394,7 +2394,7 @@
         "sku": "X000007992004",
         "price": 130.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52936376090987": {
         "id": 52936376090987,
@@ -2405,7 +2405,7 @@
         "sku": "X000007992005",
         "price": 130.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
@@ -2414,7 +2414,7 @@
     "title": "Arc'teryx Granville 20 Backpack",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-granville-20-backpack",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/31-487258-0-image-1313513.jpg?v=1771704765",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/31-487258-0-image-1313513.jpg?v=1771704765",
     "variants": {
       "52931287122283": {
         "id": 52931287122283,
@@ -2425,7 +2425,7 @@
         "sku": "18096 - 450523",
         "price": 180.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -2434,7 +2434,7 @@
     "title": "Arc'teryx Granville Zip 16 Backpack",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-granville-zip-16-backpack",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/31-487259-0-image-1313514.jpg?v=1771704758",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/31-487259-0-image-1313514.jpg?v=1771704758",
     "variants": {
       "52931286958443": {
         "id": 52931286958443,
@@ -2445,7 +2445,7 @@
         "sku": "18792 - 450528",
         "price": 180.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
@@ -2454,7 +2454,7 @@
     "title": "Arc'teryx Aerios 30 Backpack Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-aerios-30-backpack-mens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/Aerios-30-Backpack-Glade.jpg?v=1771704615",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/Aerios-30-Backpack-Glade.jpg?v=1771704615",
     "variants": {
       "52931283255659": {
         "id": 52931283255659,
@@ -2465,7 +2465,7 @@
         "sku": "27337 - 451450",
         "price": 190.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -10881,7 +10881,7 @@
         "sku": "X000009641045",
         "price": 150.0,
         "available": true,
-        "inventory_quantity": 2
+        "inventory_quantity": 1
       },
       "53271570514283": {
         "id": 53271570514283,
