@@ -1106,7 +1106,7 @@
         "sku": "X000010292006",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": -1
+        "inventory_quantity": 0
       }
     }
   },
