@@ -1954,8 +1954,8 @@
         "option3": null,
         "sku": "X000010268025",
         "price": 200.0,
-        "available": true,
-        "inventory_quantity": 1
+        "available": false,
+        "inventory_quantity": 0
       },
       "52941142327659": {
         "id": 52941142327659,
@@ -2514,7 +2514,7 @@
     "title": "Arc'teryx Rush SK 42 Backpack",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-rush-sk-42-backpack",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/Rush-SK-42-Backpack-Tatsu.jpg?v=1771704575",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/Rush-SK-42-Backpack-Tatsu.jpg?v=1771704575",
     "variants": {
       "52931280339307": {
         "id": 52931280339307,
@@ -2525,7 +2525,7 @@
         "sku": "27453 - 473020",
         "price": 240.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
