@@ -1933,7 +1933,7 @@
     "title": "Arc'teryx Women's Squamish Hoody",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-womens-squamish-hoody",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S26-X000010268-Squamish-Hoody-Black-Women-s-Front-View.jpg?v=1776280538",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S26-X000010268-Squamish-Hoody-Black-Women-s-Front-View.jpg?v=1776280538",
     "variants": {
       "52941142262123": {
         "id": 52941142262123,
@@ -1944,7 +1944,7 @@
         "sku": "X000010268024",
         "price": 200.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52941142294891": {
         "id": 52941142294891,
@@ -1955,7 +1955,7 @@
         "sku": "X000010268025",
         "price": 200.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52941142327659": {
         "id": 52941142327659,
@@ -1966,7 +1966,7 @@
         "sku": "X000010268026",
         "price": 200.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53107712098667": {
         "id": 53107712098667,
@@ -1977,7 +1977,7 @@
         "sku": "X000010268052",
         "price": 200.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53107712131435": {
         "id": 53107712131435,
@@ -1988,7 +1988,7 @@
         "sku": "X000010268053",
         "price": 200.0,
         "available": true,
-        "inventory_quantity": 2
+        "inventory_quantity": null
       },
       "53107712164203": {
         "id": 53107712164203,
@@ -1999,7 +1999,7 @@
         "sku": "X000010268054",
         "price": 200.0,
         "available": true,
-        "inventory_quantity": 2
+        "inventory_quantity": null
       },
       "53107712196971": {
         "id": 53107712196971,
@@ -2010,7 +2010,7 @@
         "sku": "X000010268055",
         "price": 200.0,
         "available": true,
-        "inventory_quantity": 1
+        "inventory_quantity": null
       }
     }
   },
@@ -4021,7 +4021,7 @@
     "title": "Arc'teryx Rho Merino Wool Crew Neck LS Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-rho-merino-wool-crew-neck-ls-mens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/F24-X000007480-Rho-Merino-Wool-Crew-Neck-LS-Black-Hover.jpg?v=1767988735",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F24-X000007480-Rho-Merino-Wool-Crew-Neck-LS-Black-Hover.jpg?v=1767988735",
     "variants": {
       "52747007361387": {
         "id": 52747007361387,
@@ -4032,7 +4032,7 @@
         "sku": "X000007480003",
         "price": 120.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52747007394155": {
         "id": 52747007394155,
@@ -4043,7 +4043,7 @@
         "sku": "X000007480004",
         "price": 120.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52747007426923": {
         "id": 52747007426923,
@@ -4054,7 +4054,7 @@
         "sku": "X000007480005",
         "price": 120.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52747007459691": {
         "id": 52747007459691,
@@ -4065,7 +4065,7 @@
         "sku": "X000007480006",
         "price": 120.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52747007492459": {
         "id": 52747007492459,
@@ -4076,7 +4076,7 @@
         "sku": "X000007480017",
         "price": 120.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -4085,7 +4085,7 @@
     "title": "Arc'teryx Kragg SL Cotton Shirt LS Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-kragg-sl-cotton-shirt-ls-mens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009536-Kragg-SL-Cotton-Shirt-LS-Black-Front-View.jpg?v=1767900735",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009536-Kragg-SL-Cotton-Shirt-LS-Black-Front-View.jpg?v=1767900735",
     "variants": {
       "52743752778091": {
         "id": 52743752778091,
@@ -4096,7 +4096,7 @@
         "sku": "X000009536003",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52743752810859": {
         "id": 52743752810859,
@@ -4107,7 +4107,7 @@
         "sku": "X000009536004",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52743752843627": {
         "id": 52743752843627,
@@ -4118,7 +4118,7 @@
         "sku": "X000009536005",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52743752876395": {
         "id": 52743752876395,
@@ -4129,7 +4129,7 @@
         "sku": "X000009536006",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52743752909163": {
         "id": 52743752909163,
@@ -4140,7 +4140,7 @@
         "sku": "X000009536022",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52743752941931": {
         "id": 52743752941931,
@@ -4151,7 +4151,7 @@
         "sku": "X000009536023",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52743752974699": {
         "id": 52743752974699,
@@ -4162,7 +4162,7 @@
         "sku": "X000009536024",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -4171,7 +4171,7 @@
     "title": "Arc'teryx Women's Patera Parka",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-womens-patera-parka",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009949-Patera-Parka-Black-Women-s-Front-View_0e5031e7-f7bd-4296-8a92-23928b8a8aab.jpg?v=1762275109",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009949-Patera-Parka-Black-Women-s-Front-View_0e5031e7-f7bd-4296-8a92-23928b8a8aab.jpg?v=1762275109",
     "variants": {
       "52519586988395": {
         "id": 52519586988395,
@@ -4182,7 +4182,7 @@
         "sku": "X000009949003",
         "price": 800.0,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       },
       "52519586824555": {
         "id": 52519586824555,
@@ -4193,7 +4193,7 @@
         "sku": "X000009949004",
         "price": 800.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52519586857323": {
         "id": 52519586857323,
@@ -4204,7 +4204,7 @@
         "sku": "X000009949005",
         "price": 800.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -4213,7 +4213,7 @@
     "title": "Arc'teryx Heliad Crossbody Bag",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-heliad-crossbody",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009828-Heliad-Crossbody-Rune-Front_c623d75d-1028-4bee-afc3-f791715af432.jpg?v=1764165580",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009828-Heliad-Crossbody-Rune-Front_c623d75d-1028-4bee-afc3-f791715af432.jpg?v=1764165580",
     "variants": {
       "52519586791787": {
         "id": 52519586791787,
@@ -4224,7 +4224,7 @@
         "sku": "X000009828005",
         "price": 50.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52622627144043": {
         "id": 52622627144043,
@@ -4235,7 +4235,7 @@
         "sku": "X000009828011",
         "price": 50.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52622627176811": {
         "id": 52622627176811,
@@ -4246,7 +4246,7 @@
         "sku": "X000009828007",
         "price": 50.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52622627209579": {
         "id": 52622627209579,
@@ -4257,7 +4257,7 @@
         "sku": "X000009828001",
         "price": 50.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53110951313771": {
         "id": 53110951313771,
@@ -4268,7 +4268,7 @@
         "sku": "X000009828012",
         "price": 50.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
