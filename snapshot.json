@@ -1,4 +1,68 @@
 {
+  "arcteryx-venta-gloves": {
+    "handle": "arcteryx-venta-gloves",
+    "title": "Arc'teryx Venta Gloves",
+    "vendor": "Arc'teryx",
+    "url": "https://store.miyaradventures.com/products/arcteryx-venta-gloves",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009934-Venta-Glove-Black-Front.jpg?v=1783946388",
+    "variants": {
+      "53528962433387": {
+        "id": 53528962433387,
+        "title": "Black / XS",
+        "option1": "Black",
+        "option2": "XS",
+        "option3": null,
+        "sku": "X000009934017",
+        "price": 80.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "53528962466155": {
+        "id": 53528962466155,
+        "title": "Black / S",
+        "option1": "Black",
+        "option2": "S",
+        "option3": null,
+        "sku": "X000009934018",
+        "price": 80.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "53528962498923": {
+        "id": 53528962498923,
+        "title": "Black / M",
+        "option1": "Black",
+        "option2": "M",
+        "option3": null,
+        "sku": "X000009934019",
+        "price": 80.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "53528962531691": {
+        "id": 53528962531691,
+        "title": "Black / L",
+        "option1": "Black",
+        "option2": "L",
+        "option3": null,
+        "sku": "X000009934020",
+        "price": 80.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "53528962564459": {
+        "id": 53528962564459,
+        "title": "Black / XL",
+        "option1": "Black",
+        "option2": "XL",
+        "option3": null,
+        "sku": "X000009934021",
+        "price": 80.0,
+        "available": false,
+        "inventory_quantity": 0
+      }
+    }
+  },
   "arcteryx-kyanite-lt-hoody-womens": {
     "handle": "arcteryx-kyanite-lt-hoody-womens",
     "title": "Arc'teryx Kyanite LT Hoody Women's",
@@ -6034,7 +6098,7 @@
     "title": "Arc'teryx Cronin Cotton Overshirt Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-cronin-cotton-overshirt-mens",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000008448-Cronin-Cotton-Overshirt-Canvas-Front-View_ad54ad40-ec64-46cb-b6c5-007730742e97.jpg?v=1759779707",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000008448-Cronin-Cotton-Overshirt-Canvas-Front-View.jpg?v=1783946391",
     "variants": {
       "52395051155819": {
         "id": 52395051155819,
@@ -6123,6 +6187,39 @@
         "price": 180.0,
         "available": true,
         "inventory_quantity": 1
+      },
+      "53528962662763": {
+        "id": 53528962662763,
+        "title": "Black / M",
+        "option1": "Black",
+        "option2": "M",
+        "option3": null,
+        "sku": "X000008448004",
+        "price": 180.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "53528962695531": {
+        "id": 53528962695531,
+        "title": "Black / L",
+        "option1": "Black",
+        "option2": "L",
+        "option3": null,
+        "sku": "X000008448005",
+        "price": 180.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "53528962728299": {
+        "id": 53528962728299,
+        "title": "Black / XL",
+        "option1": "Black",
+        "option2": "XL",
+        "option3": null,
+        "sku": "X000008448006",
+        "price": 180.0,
+        "available": false,
+        "inventory_quantity": 0
       }
     }
   },
