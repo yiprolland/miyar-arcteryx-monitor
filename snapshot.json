@@ -4001,7 +4001,7 @@
     "title": "Arc'teryx Sabre SV Jacket Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-sabre-sv-jacket-mens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009910-Sabre-SV-Jacket-Black.jpg?v=1768237374",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009910-Sabre-SV-Jacket-Black.jpg?v=1768237374",
     "variants": {
       "52752650731883": {
         "id": 52752650731883,
@@ -4012,7 +4012,7 @@
         "sku": "X000009910009",
         "price": 900.0,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 2
       },
       "52752650764651": {
         "id": 52752650764651,
@@ -4023,7 +4023,7 @@
         "sku": "X000009910010",
         "price": 900.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52752650797419": {
         "id": 52752650797419,
@@ -4034,7 +4034,7 @@
         "sku": "X000009910011",
         "price": 900.0,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       },
       "52752650830187": {
         "id": 52752650830187,
@@ -4045,7 +4045,7 @@
         "sku": "X000009910012",
         "price": 900.0,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       }
     }
   },
@@ -7429,7 +7429,7 @@
     "title": "Arc'teryx Kyanite Jacket Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-kyanite-jacket-mens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/F25-X000008447-Kyanite-Jacket-Black-Sapphire-Front-View.jpg?v=1757792343",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000008447-Kyanite-Jacket-Black-Sapphire-Front-View.jpg?v=1757792343",
     "variants": {
       "52253082943851": {
         "id": 52253082943851,
@@ -7440,7 +7440,7 @@
         "sku": "X000008447002",
         "price": 180.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52253082976619": {
         "id": 52253082976619,
@@ -7451,7 +7451,7 @@
         "sku": "X000008447003",
         "price": 180.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52253083009387": {
         "id": 52253083009387,
@@ -7462,7 +7462,7 @@
         "sku": "X000008447004",
         "price": 180.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52253083042155": {
         "id": 52253083042155,
@@ -7473,7 +7473,7 @@
         "sku": "X000008447005",
         "price": 180.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52196594844011": {
         "id": 52196594844011,
@@ -7484,7 +7484,7 @@
         "sku": "X000008447009",
         "price": 180.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52196594876779": {
         "id": 52196594876779,
@@ -7495,7 +7495,7 @@
         "sku": "X000008447010",
         "price": 180.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52196594909547": {
         "id": 52196594909547,
@@ -7506,7 +7506,7 @@
         "sku": "X000008447011",
         "price": 180.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52395050664299": {
         "id": 52395050664299,
@@ -7517,7 +7517,7 @@
         "sku": "X000008447039",
         "price": 180.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52395050697067": {
         "id": 52395050697067,
@@ -7528,7 +7528,7 @@
         "sku": "X000008447040",
         "price": 180.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52395050729835": {
         "id": 52395050729835,
@@ -7539,7 +7539,7 @@
         "sku": "X000008447041",
         "price": 180.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52395050762603": {
         "id": 52395050762603,
@@ -7550,7 +7550,7 @@
         "sku": "X000008447042",
         "price": 180.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
