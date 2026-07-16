@@ -2332,7 +2332,7 @@
         "sku": "X000010354003",
         "price": 220.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52936376254827": {
         "id": 52936376254827,
@@ -2343,7 +2343,7 @@
         "sku": "X000010354004",
         "price": 220.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52936376287595": {
         "id": 52936376287595,
@@ -2354,7 +2354,7 @@
         "sku": "X000010354005",
         "price": 220.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52936376320363": {
         "id": 52936376320363,
@@ -2365,7 +2365,7 @@
         "sku": "X000010354006",
         "price": 220.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
@@ -2374,7 +2374,7 @@
     "title": "Arc'teryx Squamish Jacket Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-squamish-jacket-mens",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S26-X000010284-Squamish-Jacket-Black-Front-View.jpg?v=1771942456",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S26-X000010284-Squamish-Jacket-Black-Front-View.jpg?v=1771942456",
     "variants": {
       "52936376156523": {
         "id": 52936376156523,
@@ -2385,7 +2385,7 @@
         "sku": "X000010284009",
         "price": 180.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52936588886379": {
         "id": 52936588886379,
@@ -2396,7 +2396,7 @@
         "sku": "X000010284012",
         "price": 180.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
@@ -2447,7 +2447,7 @@
         "sku": "X000007992003",
         "price": 130.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52936376058219": {
         "id": 52936376058219,
@@ -2458,7 +2458,7 @@
         "sku": "X000007992004",
         "price": 130.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52936376090987": {
         "id": 52936376090987,
@@ -2469,7 +2469,7 @@
         "sku": "X000007992005",
         "price": 130.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
@@ -2598,7 +2598,7 @@
     "title": "Arc'teryx Bora 75 Backpack Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-bora-75-backpack-mens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/Bora-75-Backpack-Tatsu.jpg?v=1771704560",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/Bora-75-Backpack-Tatsu.jpg?v=1771704560",
     "variants": {
       "52931279978859": {
         "id": 52931279978859,
@@ -2609,7 +2609,7 @@
         "sku": "25176 - 450564",
         "price": 360.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -2746,7 +2746,7 @@
     "title": "Arc'teryx Kragg Cotton Little Bird Crew Shirt SS Women's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-kragg-cotton-little-bird-crew-shirt-ss-womens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S26-X000008468-Kragg-Cotton-Little-Bird-Crew-Neck-Shirt-SS-Pineberry-Women-s-Front-View_34455526-2824-470f-a505-d843ba1d29d6.jpg?v=1776280537",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S26-X000008468-Kragg-Cotton-Little-Bird-Crew-Neck-Shirt-SS-Pineberry-Women-s-Front-View_34455526-2824-470f-a505-d843ba1d29d6.jpg?v=1776280537",
     "variants": {
       "52906728227179": {
         "id": 52906728227179,
@@ -2757,7 +2757,7 @@
         "sku": "X000008468102",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52906728259947": {
         "id": 52906728259947,
@@ -2768,7 +2768,7 @@
         "sku": "X000008468103",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52906728292715": {
         "id": 52906728292715,
@@ -2779,7 +2779,7 @@
         "sku": "X000008468104",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53107711967595": {
         "id": 53107711967595,
@@ -2790,7 +2790,7 @@
         "sku": "X000008468003",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53107712000363": {
         "id": 53107712000363,
@@ -2801,7 +2801,7 @@
         "sku": "X000008468004",
         "price": 70.0,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       },
       "53107712033131": {
         "id": 53107712033131,
@@ -2812,7 +2812,7 @@
         "sku": "X000008468005",
         "price": 70.0,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       },
       "53107712065899": {
         "id": 53107712065899,
@@ -2823,7 +2823,7 @@
         "sku": "X000008468006",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
