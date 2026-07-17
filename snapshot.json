@@ -2447,7 +2447,7 @@
         "sku": "X000007992003",
         "price": 130.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52936376058219": {
         "id": 52936376058219,
@@ -2458,7 +2458,7 @@
         "sku": "X000007992004",
         "price": 130.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52936376090987": {
         "id": 52936376090987,
@@ -2469,7 +2469,7 @@
         "sku": "X000007992005",
         "price": 130.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -2498,7 +2498,7 @@
     "title": "Arc'teryx Granville Zip 16 Backpack",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-granville-zip-16-backpack",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/31-487259-0-image-1313514.jpg?v=1771704758",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/31-487259-0-image-1313514.jpg?v=1771704758",
     "variants": {
       "52931286958443": {
         "id": 52931286958443,
@@ -2509,7 +2509,7 @@
         "sku": "18792 - 450528",
         "price": 180.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -2538,7 +2538,7 @@
     "title": "Arc'teryx Aerios 30 Backpack Women's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-aerios-30-backpack-womens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/Aerios-30-Backpack-W-Reflection.jpg?v=1771704611",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/Aerios-30-Backpack-W-Reflection.jpg?v=1771704611",
     "variants": {
       "52931282534763": {
         "id": 52931282534763,
@@ -2549,7 +2549,7 @@
         "sku": "27340 - 451456",
         "price": 190.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -2598,7 +2598,7 @@
     "title": "Arc'teryx Bora 75 Backpack Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-bora-75-backpack-mens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/Bora-75-Backpack-Tatsu.jpg?v=1771704560",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/Bora-75-Backpack-Tatsu.jpg?v=1771704560",
     "variants": {
       "52931279978859": {
         "id": 52931279978859,
@@ -2609,7 +2609,7 @@
         "sku": "25176 - 450564",
         "price": 360.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
