@@ -2478,7 +2478,7 @@
     "title": "Arc'teryx Granville 20 Backpack",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-granville-20-backpack",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/31-487258-0-image-1313513.jpg?v=1771704765",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/31-487258-0-image-1313513.jpg?v=1771704765",
     "variants": {
       "52931287122283": {
         "id": 52931287122283,
@@ -2489,7 +2489,7 @@
         "sku": "18096 - 450523",
         "price": 180.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
@@ -2498,7 +2498,7 @@
     "title": "Arc'teryx Granville Zip 16 Backpack",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-granville-zip-16-backpack",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/31-487259-0-image-1313514.jpg?v=1771704758",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/31-487259-0-image-1313514.jpg?v=1771704758",
     "variants": {
       "52931286958443": {
         "id": 52931286958443,
@@ -2509,7 +2509,7 @@
         "sku": "18792 - 450528",
         "price": 180.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
@@ -2518,7 +2518,7 @@
     "title": "Arc'teryx Aerios 30 Backpack Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-aerios-30-backpack-mens",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/Aerios-30-Backpack-Glade.jpg?v=1771704615",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/Aerios-30-Backpack-Glade.jpg?v=1771704615",
     "variants": {
       "52931283255659": {
         "id": 52931283255659,
@@ -2529,7 +2529,7 @@
         "sku": "27337 - 451450",
         "price": 190.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
@@ -2538,7 +2538,7 @@
     "title": "Arc'teryx Aerios 30 Backpack Women's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-aerios-30-backpack-womens",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/Aerios-30-Backpack-W-Reflection.jpg?v=1771704611",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/Aerios-30-Backpack-W-Reflection.jpg?v=1771704611",
     "variants": {
       "52931282534763": {
         "id": 52931282534763,
@@ -2549,7 +2549,7 @@
         "sku": "27340 - 451456",
         "price": 190.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
@@ -4277,7 +4277,7 @@
     "title": "Arc'teryx Heliad Crossbody Bag",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-heliad-crossbody",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009828-Heliad-Crossbody-Rune-Front_c623d75d-1028-4bee-afc3-f791715af432.jpg?v=1764165580",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009828-Heliad-Crossbody-Rune-Front_c623d75d-1028-4bee-afc3-f791715af432.jpg?v=1764165580",
     "variants": {
       "52519586791787": {
         "id": 52519586791787,
@@ -4288,7 +4288,7 @@
         "sku": "X000009828005",
         "price": 50.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52622627144043": {
         "id": 52622627144043,
@@ -4299,7 +4299,7 @@
         "sku": "X000009828011",
         "price": 50.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52622627176811": {
         "id": 52622627176811,
@@ -4310,7 +4310,7 @@
         "sku": "X000009828007",
         "price": 50.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52622627209579": {
         "id": 52622627209579,
@@ -4321,7 +4321,7 @@
         "sku": "X000009828001",
         "price": 50.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53110951313771": {
         "id": 53110951313771,
@@ -4332,7 +4332,7 @@
         "sku": "X000009828012",
         "price": 50.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
@@ -4877,7 +4877,7 @@
     "title": "Arc'teryx Beta Women's AR Jacket",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-beta-womens-ar-jacket",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009863-Beta-AR-Jacket-Nightscape-Glacial-Women-s-Front-View_db42703c-c6fa-4d25-819e-1d54daaac7e8.jpg?v=1773939002",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009863-Beta-AR-Jacket-Nightscape-Glacial-Women-s-Front-View_db42703c-c6fa-4d25-819e-1d54daaac7e8.jpg?v=1773939002",
     "variants": {
       "52441146589547": {
         "id": 52441146589547,
@@ -4888,7 +4888,7 @@
         "sku": "X000009863038",
         "price": 650.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52441146622315": {
         "id": 52441146622315,
@@ -4899,7 +4899,7 @@
         "sku": "X000009863039",
         "price": 650.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52441146655083": {
         "id": 52441146655083,
@@ -4910,7 +4910,7 @@
         "sku": "X000009863040",
         "price": 650.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52441146687851": {
         "id": 52441146687851,
@@ -4921,7 +4921,7 @@
         "sku": "X000009863041",
         "price": 650.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52941140427115": {
         "id": 52941140427115,
@@ -4932,7 +4932,7 @@
         "sku": "X000009863017",
         "price": 650.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52441146720619": {
         "id": 52441146720619,
@@ -4943,7 +4943,7 @@
         "sku": "X000009863018",
         "price": 650.0,
         "available": true,
-        "inventory_quantity": 1
+        "inventory_quantity": null
       },
       "52441146753387": {
         "id": 52441146753387,
@@ -4954,7 +4954,7 @@
         "sku": "X000009863019",
         "price": 650.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52441146786155": {
         "id": 52441146786155,
@@ -4965,7 +4965,7 @@
         "sku": "X000009863020",
         "price": 650.0,
         "available": true,
-        "inventory_quantity": 1
+        "inventory_quantity": null
       },
       "52777646457195": {
         "id": 52777646457195,
@@ -4976,7 +4976,7 @@
         "sku": "X000009863080",
         "price": 650.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52777646489963": {
         "id": 52777646489963,
@@ -4987,7 +4987,7 @@
         "sku": "X000009863081",
         "price": 650.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52777646522731": {
         "id": 52777646522731,
@@ -4998,7 +4998,7 @@
         "sku": "X000009863082",
         "price": 650.0,
         "available": true,
-        "inventory_quantity": 1
+        "inventory_quantity": null
       },
       "52777646555499": {
         "id": 52777646555499,
@@ -5009,7 +5009,7 @@
         "sku": "X000009863083",
         "price": 650.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53019477573995": {
         "id": 53019477573995,
@@ -5020,7 +5020,7 @@
         "sku": "X000009863052",
         "price": 650.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53019477606763": {
         "id": 53019477606763,
@@ -5031,7 +5031,7 @@
         "sku": "X000009863053",
         "price": 650.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53019477639531": {
         "id": 53019477639531,
@@ -5042,7 +5042,7 @@
         "sku": "X000009863054",
         "price": 650.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
@@ -5807,7 +5807,7 @@
     "title": "Arc'teryx Atom SV Hoody Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-atom-sv-hoody-mens",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/61-hAm5eTlL._AC_SY550_4bb6b729-e42c-4ff3-8f16-680af0d6ad6a.jpg?v=1762015946",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/61-hAm5eTlL._AC_SY550_4bb6b729-e42c-4ff3-8f16-680af0d6ad6a.jpg?v=1762015946",
     "variants": {
       "52395051647339": {
         "id": 52395051647339,
@@ -5818,7 +5818,7 @@
         "sku": "X000009902003",
         "price": 350.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52395051680107": {
         "id": 52395051680107,
@@ -5829,7 +5829,7 @@
         "sku": "X000009902004",
         "price": 350.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52395051712875": {
         "id": 52395051712875,
@@ -5840,7 +5840,7 @@
         "sku": "X000009902005",
         "price": 350.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52395051745643": {
         "id": 52395051745643,
@@ -5851,7 +5851,7 @@
         "sku": "X000009902006",
         "price": 350.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52441146098027": {
         "id": 52441146098027,
@@ -5862,7 +5862,7 @@
         "sku": "X000009902009",
         "price": 350.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52441146130795": {
         "id": 52441146130795,
@@ -5873,7 +5873,7 @@
         "sku": "X000009902010",
         "price": 350.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52441146163563": {
         "id": 52441146163563,
@@ -5884,7 +5884,7 @@
         "sku": "X000009902011",
         "price": 350.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52441146196331": {
         "id": 52441146196331,
@@ -5895,7 +5895,7 @@
         "sku": "X000009902012",
         "price": 350.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52519479509355": {
         "id": 52519479509355,
@@ -5906,7 +5906,7 @@
         "sku": "X000009902015",
         "price": 350.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52519479542123": {
         "id": 52519479542123,
@@ -5917,7 +5917,7 @@
         "sku": "X000009902016",
         "price": 350.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52519479574891": {
         "id": 52519479574891,
@@ -5928,7 +5928,7 @@
         "sku": "X000009902017",
         "price": 350.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52519479607659": {
         "id": 52519479607659,
@@ -5939,7 +5939,7 @@
         "sku": "X000009902018",
         "price": 350.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
@@ -6858,7 +6858,7 @@
     "title": "Arc'teryx Gamma SL Pant Women's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-gamma-sl-pant-womens",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S25-X000010034-Gamma-SL-Pant-Black-Women-s-Front-View.jpg?v=1754400835",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S25-X000010034-Gamma-SL-Pant-Black-Women-s-Front-View.jpg?v=1754400835",
     "variants": {
       "52253085434219": {
         "id": 52253085434219,
@@ -6869,7 +6869,7 @@
         "sku": "X000010034011",
         "price": 160.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
@@ -7722,7 +7722,7 @@
     "title": "Arc'teryx Men's Cerium Jacket",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-mens-cerium-jacket",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000010579-Cerium-Jacket-Forage-Hover.avif?v=1765907178",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/F25-X000010579-Cerium-Jacket-Forage-Hover.avif?v=1765907178",
     "variants": {
       "52196433232235": {
         "id": 52196433232235,
@@ -7733,7 +7733,7 @@
         "sku": "X000010579020",
         "price": 380.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52196433265003": {
         "id": 52196433265003,
@@ -7744,7 +7744,7 @@
         "sku": "X000010579021",
         "price": 380.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52196433297771": {
         "id": 52196433297771,
@@ -7755,7 +7755,7 @@
         "sku": "X000010579022",
         "price": 380.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52196433330539": {
         "id": 52196433330539,
@@ -7766,7 +7766,7 @@
         "sku": "X000010579023",
         "price": 380.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52253082681707": {
         "id": 52253082681707,
@@ -7777,7 +7777,7 @@
         "sku": "X000010579014",
         "price": 380.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52253082714475": {
         "id": 52253082714475,
@@ -7788,7 +7788,7 @@
         "sku": "X000010579015",
         "price": 380.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52253082747243": {
         "id": 52253082747243,
@@ -7799,7 +7799,7 @@
         "sku": "X000010579016",
         "price": 380.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52253082780011": {
         "id": 52253082780011,
@@ -7810,7 +7810,7 @@
         "sku": "X000010579017",
         "price": 380.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52395050533227": {
         "id": 52395050533227,
@@ -7821,7 +7821,7 @@
         "sku": "X000010579008",
         "price": 380.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52395050565995": {
         "id": 52395050565995,
@@ -7832,7 +7832,7 @@
         "sku": "X000010579009",
         "price": 380.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52395050598763": {
         "id": 52395050598763,
@@ -7843,7 +7843,7 @@
         "sku": "X000010579010",
         "price": 380.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52395050631531": {
         "id": 52395050631531,
@@ -7854,7 +7854,7 @@
         "sku": "X000010579011",
         "price": 380.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
@@ -10716,7 +10716,7 @@
     "title": "Arc'teryx Solano Jacket Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-solano-jacket-mens",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S25-X000009650-Solano-Jacket-Black-Front-View.jpg?v=1741633216",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S25-X000009650-Solano-Jacket-Black-Front-View.jpg?v=1741633216",
     "variants": {
       "51938119745899": {
         "id": 51938119745899,
@@ -10727,7 +10727,7 @@
         "sku": "X000009650003",
         "price": 350.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "51938119778667": {
         "id": 51938119778667,
@@ -10738,7 +10738,7 @@
         "sku": "X000009650004",
         "price": 350.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "51938119811435": {
         "id": 51938119811435,
@@ -10749,7 +10749,7 @@
         "sku": "X000009650005",
         "price": 350.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "51938119844203": {
         "id": 51938119844203,
@@ -10760,7 +10760,7 @@
         "sku": "X000009650006",
         "price": 350.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
