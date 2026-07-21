@@ -2863,7 +2863,7 @@
     "title": "Arc'teryx AR-385a Women's Harness",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-ar-385a-womens-harness",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S26-X000010386-AR-385a-Harness-Forage-Mantis-Women-s-Front.jpg?v=1772135964",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S26-X000010386-AR-385a-Harness-Forage-Mantis-Women-s-Front.jpg?v=1772135964",
     "variants": {
       "52941143245163": {
         "id": 52941143245163,
@@ -2874,7 +2874,7 @@
         "sku": "X000010386006",
         "price": 160.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52941143277931": {
         "id": 52941143277931,
@@ -2885,7 +2885,7 @@
         "sku": "X000010386007",
         "price": 160.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52941143310699": {
         "id": 52941143310699,
@@ -2896,7 +2896,7 @@
         "sku": "X000010386008",
         "price": 160.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52941143343467": {
         "id": 52941143343467,
@@ -2907,7 +2907,7 @@
         "sku": "X000010386009",
         "price": 160.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
