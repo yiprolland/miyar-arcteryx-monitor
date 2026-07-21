@@ -1097,7 +1097,7 @@
     "title": "Arc'teryx Axios 4 Crossbody",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-axios-4-crossbody",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/ImageComingsoon_717b60b3-4ea9-45ad-bd44-9f56f82e90fd.png?v=1784299206",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/ImageComingsoon_717b60b3-4ea9-45ad-bd44-9f56f82e90fd.png?v=1784299206",
     "variants": {
       "53564323299691": {
         "id": 53564323299691,
@@ -1108,7 +1108,7 @@
         "sku": "X000010709002",
         "price": 80.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
@@ -1128,7 +1128,7 @@
         "sku": "X000010707002",
         "price": 130.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53564323266923": {
         "id": 53564323266923,
@@ -1139,7 +1139,7 @@
         "sku": "X000010707004",
         "price": 130.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
@@ -1148,7 +1148,7 @@
     "title": "Arc'teryx Venta Gloves",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-venta-gloves",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009934-Venta-Glove-Black-Front.jpg?v=1783946388",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009934-Venta-Glove-Black-Front.jpg?v=1783946388",
     "variants": {
       "53528962433387": {
         "id": 53528962433387,
@@ -1159,7 +1159,7 @@
         "sku": "X000009934017",
         "price": 80.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53528962466155": {
         "id": 53528962466155,
@@ -1170,7 +1170,7 @@
         "sku": "X000009934018",
         "price": 80.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53528962498923": {
         "id": 53528962498923,
@@ -1181,7 +1181,7 @@
         "sku": "X000009934019",
         "price": 80.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53528962531691": {
         "id": 53528962531691,
@@ -1192,7 +1192,7 @@
         "sku": "X000009934020",
         "price": 80.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53528962564459": {
         "id": 53528962564459,
@@ -1203,7 +1203,7 @@
         "sku": "X000009934021",
         "price": 80.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
@@ -1244,8 +1244,8 @@
         "option3": null,
         "sku": "X000009645039",
         "price": 150.0,
-        "available": true,
-        "inventory_quantity": 1
+        "available": false,
+        "inventory_quantity": 0
       },
       "53271571005803": {
         "id": 53271571005803,
@@ -2863,7 +2863,7 @@
     "title": "Arc'teryx AR-385a Women's Harness",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-ar-385a-womens-harness",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S26-X000010386-AR-385a-Harness-Forage-Mantis-Women-s-Front.jpg?v=1772135964",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S26-X000010386-AR-385a-Harness-Forage-Mantis-Women-s-Front.jpg?v=1772135964",
     "variants": {
       "52941143245163": {
         "id": 52941143245163,
@@ -2874,7 +2874,7 @@
         "sku": "X000010386006",
         "price": 160.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52941143277931": {
         "id": 52941143277931,
@@ -2885,7 +2885,7 @@
         "sku": "X000010386007",
         "price": 160.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52941143310699": {
         "id": 52941143310699,
@@ -2896,7 +2896,7 @@
         "sku": "X000010386008",
         "price": 160.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52941143343467": {
         "id": 52941143343467,
@@ -2907,7 +2907,7 @@
         "sku": "X000010386009",
         "price": 160.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
