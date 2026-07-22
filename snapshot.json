@@ -1097,7 +1097,7 @@
     "title": "Arc'teryx Axios 4 Crossbody",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-axios-4-crossbody",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/ImageComingsoon_717b60b3-4ea9-45ad-bd44-9f56f82e90fd.png?v=1784299206",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/ImageComingsoon_717b60b3-4ea9-45ad-bd44-9f56f82e90fd.png?v=1784299206",
     "variants": {
       "53564323299691": {
         "id": 53564323299691,
@@ -1108,7 +1108,7 @@
         "sku": "X000010709002",
         "price": 80.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
