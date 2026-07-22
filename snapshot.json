@@ -2261,7 +2261,7 @@
     "title": "Arc'teryx Ossa Overshirt Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-ossa-overshirt-mens",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/arcteryx-ossa-overshirt-mens-alpine-blue.png?v=1773170188",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/arcteryx-ossa-overshirt-mens-alpine-blue.png?v=1773170188",
     "variants": {
       "52987206369643": {
         "id": 52987206369643,
@@ -2272,7 +2272,7 @@
         "sku": "X000010306005",
         "price": 180.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52987206402411": {
         "id": 52987206402411,
@@ -2283,7 +2283,7 @@
         "sku": "X000010306006",
         "price": 180.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
@@ -2292,7 +2292,7 @@
     "title": "Arc'teryx Men's Cormac Crew Neck Shirt SS",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-mens-cormac-crew-neck-shirt-ss",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S26-X000010292-Cormac-Crew-Neck-Shirt-SS-Alpine-Blue-Front-View.jpg?v=1776280548",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S26-X000010292-Cormac-Crew-Neck-Shirt-SS-Alpine-Blue-Front-View.jpg?v=1776280548",
     "variants": {
       "52987206238571": {
         "id": 52987206238571,
@@ -2303,7 +2303,7 @@
         "sku": "X000010292039",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52987206271339": {
         "id": 52987206271339,
@@ -2314,7 +2314,7 @@
         "sku": "X000010292040",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52987206304107": {
         "id": 52987206304107,
@@ -2325,7 +2325,7 @@
         "sku": "X000010292041",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52987206336875": {
         "id": 52987206336875,
@@ -2336,7 +2336,7 @@
         "sku": "X000010292042",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53019478098283": {
         "id": 53019478098283,
@@ -2347,7 +2347,7 @@
         "sku": "X000010292021",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53019478131051": {
         "id": 53019478131051,
@@ -2358,7 +2358,7 @@
         "sku": "X000010292022",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53019478163819": {
         "id": 53019478163819,
@@ -2369,7 +2369,7 @@
         "sku": "X000010292023",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53019478196587": {
         "id": 53019478196587,
@@ -2380,7 +2380,7 @@
         "sku": "X000010292024",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53107712524651": {
         "id": 53107712524651,
@@ -2391,7 +2391,7 @@
         "sku": "X000010292009",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53107712557419": {
         "id": 53107712557419,
@@ -2402,7 +2402,7 @@
         "sku": "X000010292010",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53107712590187": {
         "id": 53107712590187,
@@ -2413,7 +2413,7 @@
         "sku": "X000010292011",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53107712622955": {
         "id": 53107712622955,
@@ -2424,7 +2424,7 @@
         "sku": "X000010292012",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53107712655723": {
         "id": 53107712655723,
@@ -2435,7 +2435,7 @@
         "sku": "X000010292003",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53107712688491": {
         "id": 53107712688491,
@@ -2446,7 +2446,7 @@
         "sku": "X000010292004",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53107712721259": {
         "id": 53107712721259,
@@ -2457,7 +2457,7 @@
         "sku": "X000010292005",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53107712754027": {
         "id": 53107712754027,
@@ -2468,7 +2468,7 @@
         "sku": "X000010292006",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -2574,7 +2574,7 @@
     "title": "Arc'teryx Cronin Cotton Pant Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-cronin-cotton-pant-mens",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S26-X000009316-Cronin-Cotton-Pant-Black-Front-View.jpg?v=1773939005",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S26-X000009316-Cronin-Cotton-Pant-Black-Front-View.jpg?v=1773939005",
     "variants": {
       "52944221307243": {
         "id": 52944221307243,
@@ -2585,7 +2585,7 @@
         "sku": "X000009316003",
         "price": 200.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52944221340011": {
         "id": 52944221340011,
@@ -2596,7 +2596,7 @@
         "sku": "X000009316004",
         "price": 200.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52944221372779": {
         "id": 52944221372779,
@@ -2607,7 +2607,7 @@
         "sku": "X000009316011",
         "price": 200.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53019477705067": {
         "id": 53019477705067,
@@ -2618,7 +2618,7 @@
         "sku": "X000009316008",
         "price": 200.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53019477737835": {
         "id": 53019477737835,
@@ -2629,7 +2629,7 @@
         "sku": "X000009316009",
         "price": 200.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53019477770603": {
         "id": 53019477770603,
@@ -2640,7 +2640,7 @@
         "sku": "X000009316010",
         "price": 200.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
@@ -2810,7 +2810,7 @@
     "title": "Arc'teryx AR-395a Men's Harness",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-ar-395a-mens-harness",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S26-X000010388-AR-395a-Harness-Forage-Mantis-Front.jpg?v=1772135969",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S26-X000010388-AR-395a-Harness-Forage-Mantis-Front.jpg?v=1772135969",
     "variants": {
       "52941143540075": {
         "id": 52941143540075,
@@ -2821,7 +2821,7 @@
         "sku": "X000010388012",
         "price": 160.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52941143572843": {
         "id": 52941143572843,
@@ -2832,7 +2832,7 @@
         "sku": "X000010388013",
         "price": 160.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52941143605611": {
         "id": 52941143605611,
@@ -2843,7 +2843,7 @@
         "sku": "X000010388014",
         "price": 160.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52941143638379": {
         "id": 52941143638379,
@@ -2854,7 +2854,7 @@
         "sku": "X000010388015",
         "price": 160.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -2863,7 +2863,7 @@
     "title": "Arc'teryx AR-385a Women's Harness",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-ar-385a-womens-harness",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S26-X000010386-AR-385a-Harness-Forage-Mantis-Women-s-Front.jpg?v=1772135964",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S26-X000010386-AR-385a-Harness-Forage-Mantis-Women-s-Front.jpg?v=1772135964",
     "variants": {
       "52941143245163": {
         "id": 52941143245163,
@@ -2874,7 +2874,7 @@
         "sku": "X000010386006",
         "price": 160.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52941143277931": {
         "id": 52941143277931,
@@ -2885,7 +2885,7 @@
         "sku": "X000010386007",
         "price": 160.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52941143310699": {
         "id": 52941143310699,
@@ -2896,7 +2896,7 @@
         "sku": "X000010386008",
         "price": 160.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52941143343467": {
         "id": 52941143343467,
@@ -2907,7 +2907,7 @@
         "sku": "X000010386009",
         "price": 160.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
