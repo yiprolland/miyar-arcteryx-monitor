@@ -2261,7 +2261,7 @@
     "title": "Arc'teryx Ossa Overshirt Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-ossa-overshirt-mens",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/arcteryx-ossa-overshirt-mens-alpine-blue.png?v=1773170188",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/arcteryx-ossa-overshirt-mens-alpine-blue.png?v=1773170188",
     "variants": {
       "52987206369643": {
         "id": 52987206369643,
@@ -2272,7 +2272,7 @@
         "sku": "X000010306005",
         "price": 180.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52987206402411": {
         "id": 52987206402411,
@@ -2283,7 +2283,7 @@
         "sku": "X000010306006",
         "price": 180.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
@@ -2574,7 +2574,7 @@
     "title": "Arc'teryx Cronin Cotton Pant Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-cronin-cotton-pant-mens",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S26-X000009316-Cronin-Cotton-Pant-Black-Front-View.jpg?v=1773939005",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S26-X000009316-Cronin-Cotton-Pant-Black-Front-View.jpg?v=1773939005",
     "variants": {
       "52944221307243": {
         "id": 52944221307243,
@@ -2585,7 +2585,7 @@
         "sku": "X000009316003",
         "price": 200.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52944221340011": {
         "id": 52944221340011,
@@ -2596,7 +2596,7 @@
         "sku": "X000009316004",
         "price": 200.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52944221372779": {
         "id": 52944221372779,
@@ -2607,7 +2607,7 @@
         "sku": "X000009316011",
         "price": 200.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53019477705067": {
         "id": 53019477705067,
@@ -2618,7 +2618,7 @@
         "sku": "X000009316008",
         "price": 200.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53019477737835": {
         "id": 53019477737835,
@@ -2629,7 +2629,7 @@
         "sku": "X000009316009",
         "price": 200.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53019477770603": {
         "id": 53019477770603,
@@ -2640,7 +2640,7 @@
         "sku": "X000009316010",
         "price": 200.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
