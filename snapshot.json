@@ -2281,7 +2281,7 @@
     "title": "Arc'teryx Proton SL Hoody Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-proton-sl-hoody-mens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S26-X000009557-Proton-SL-Hoody-Dk-Str-Blk-Sapphire-Front-View_f8127b02-734a-48e9-8662-7a5097e1bc63.jpg?v=1776280551",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S26-X000009557-Proton-SL-Hoody-Dk-Str-Blk-Sapphire-Front-View_f8127b02-734a-48e9-8662-7a5097e1bc63.jpg?v=1776280551",
     "variants": {
       "53019478491499": {
         "id": 53019478491499,
@@ -2292,7 +2292,7 @@
         "sku": "X000009557034",
         "price": 280.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53107712917867": {
         "id": 53107712917867,
@@ -2303,7 +2303,7 @@
         "sku": "X000009557003",
         "price": 280.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53107712950635": {
         "id": 53107712950635,
@@ -2314,7 +2314,7 @@
         "sku": "X000009557004",
         "price": 280.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53107712983403": {
         "id": 53107712983403,
@@ -2325,7 +2325,7 @@
         "sku": "X000009557005",
         "price": 280.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53107713016171": {
         "id": 53107713016171,
@@ -2336,7 +2336,7 @@
         "sku": "X000009557006",
         "price": 280.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -3125,7 +3125,7 @@
     "title": "Arc'teryx Cerium SL Hoody Women's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-cerium-sl-hoody-womens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S26-X000011029-Cerium-SL-Hoody-Mallow-Women-s-Front-View.jpg?v=1772135978",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S26-X000011029-Cerium-SL-Hoody-Mallow-Women-s-Front-View.jpg?v=1772135978",
     "variants": {
       "52941144162667": {
         "id": 52941144162667,
@@ -3136,7 +3136,7 @@
         "sku": "X000011029009",
         "price": 450.0,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       },
       "52941144195435": {
         "id": 52941144195435,
@@ -3147,7 +3147,7 @@
         "sku": "X000011029010",
         "price": 450.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52941144228203": {
         "id": 52941144228203,
@@ -3158,7 +3158,7 @@
         "sku": "X000011029011",
         "price": 450.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52941144260971": {
         "id": 52941144260971,
@@ -3169,7 +3169,7 @@
         "sku": "X000011029012",
         "price": 450.0,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       }
     }
   },
