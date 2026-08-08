@@ -1761,7 +1761,7 @@
         "sku": "X000010608016",
         "price": 260.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53019479540075": {
         "id": 53019479540075,
@@ -1772,7 +1772,7 @@
         "sku": "X000010608017",
         "price": 260.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": -1
       },
       "53019479572843": {
         "id": 53019479572843,
@@ -1783,7 +1783,7 @@
         "sku": "X000010608018",
         "price": 260.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": -1
       },
       "53019479605611": {
         "id": 53019479605611,
@@ -1794,7 +1794,7 @@
         "sku": "X000010608019",
         "price": 260.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": -1
       },
       "53019479638379": {
         "id": 53019479638379,
@@ -1805,7 +1805,7 @@
         "sku": "X000010608009",
         "price": 260.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53019479671147": {
         "id": 53019479671147,
@@ -1816,7 +1816,7 @@
         "sku": "X000010608010",
         "price": 260.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53019479703915": {
         "id": 53019479703915,
@@ -1827,7 +1827,7 @@
         "sku": "X000010608011",
         "price": 260.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -2162,7 +2162,7 @@
     "title": "Arc'teryx Men's Cormac Crew Neck Shirt LS",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-mens-cormac-crew-neck-shirt-ls",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S26-X000010291-Cormac-Crew-Neck-Shirt-LS-Black-Front-View.jpg?v=1773939023",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S26-X000010291-Cormac-Crew-Neck-Shirt-LS-Black-Front-View.jpg?v=1773939023",
     "variants": {
       "53019478524267": {
         "id": 53019478524267,
@@ -2173,7 +2173,7 @@
         "sku": "X000010291003",
         "price": 80.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53019478557035": {
         "id": 53019478557035,
@@ -2184,7 +2184,7 @@
         "sku": "X000010291004",
         "price": 80.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53019478589803": {
         "id": 53019478589803,
@@ -2195,7 +2195,7 @@
         "sku": "X000010291005",
         "price": 80.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53019478622571": {
         "id": 53019478622571,
@@ -2206,7 +2206,7 @@
         "sku": "X000010291006",
         "price": 80.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53019478655339": {
         "id": 53019478655339,
@@ -2217,7 +2217,7 @@
         "sku": "X000010291010",
         "price": 80.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53019478688107": {
         "id": 53019478688107,
@@ -2228,7 +2228,7 @@
         "sku": "X000010291011",
         "price": 80.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53019478720875": {
         "id": 53019478720875,
@@ -2239,7 +2239,7 @@
         "sku": "X000010291015",
         "price": 80.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53019478753643": {
         "id": 53019478753643,
@@ -2250,7 +2250,7 @@
         "sku": "X000010291016",
         "price": 80.0,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       },
       "53019478786411": {
         "id": 53019478786411,
@@ -2261,7 +2261,7 @@
         "sku": "X000010291017",
         "price": 80.0,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       },
       "53019478819179": {
         "id": 53019478819179,
@@ -2272,7 +2272,7 @@
         "sku": "X000010291018",
         "price": 80.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -2737,7 +2737,7 @@
     "title": "Arc'teryx Ossa Overshirt Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-ossa-overshirt-mens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/arcteryx-ossa-overshirt-mens-alpine-blue.png?v=1773170188",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/arcteryx-ossa-overshirt-mens-alpine-blue.png?v=1773170188",
     "variants": {
       "52987206369643": {
         "id": 52987206369643,
@@ -2748,7 +2748,7 @@
         "sku": "X000010306005",
         "price": 180.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52987206402411": {
         "id": 52987206402411,
@@ -2759,7 +2759,7 @@
         "sku": "X000010306006",
         "price": 180.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
