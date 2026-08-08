@@ -1836,7 +1836,7 @@
     "title": "Arc'teryx Men's Gamma Lightweight Hoody",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-mens-gamma-lightweight-hoody",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S26-X000010606-Gamma-Lightweight-Hoody-Black-Front-View.jpg?v=1778838224",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S26-X000010606-Gamma-Lightweight-Hoody-Black-Front-View.jpg?v=1778838224",
     "variants": {
       "53019479081323": {
         "id": 53019479081323,
@@ -1847,7 +1847,7 @@
         "sku": "X000010606002",
         "price": 260.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": -2
       },
       "53019479114091": {
         "id": 53019479114091,
@@ -1858,7 +1858,7 @@
         "sku": "X000010606003",
         "price": 260.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": -4
       },
       "53019479146859": {
         "id": 53019479146859,
@@ -1869,7 +1869,7 @@
         "sku": "X000010606004",
         "price": 260.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": -4
       },
       "53019479179627": {
         "id": 53019479179627,
@@ -1880,7 +1880,7 @@
         "sku": "X000010606005",
         "price": 260.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": -2
       },
       "53019479212395": {
         "id": 53019479212395,
@@ -1891,7 +1891,7 @@
         "sku": "X000010606033",
         "price": 260.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53019479245163": {
         "id": 53019479245163,
@@ -1902,7 +1902,7 @@
         "sku": "X000010606034",
         "price": 260.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53019479277931": {
         "id": 53019479277931,
@@ -1913,7 +1913,7 @@
         "sku": "X000010606014",
         "price": 260.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53019479310699": {
         "id": 53019479310699,
@@ -1924,7 +1924,7 @@
         "sku": "X000010606015",
         "price": 260.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53019479343467": {
         "id": 53019479343467,
@@ -1935,7 +1935,7 @@
         "sku": "X000010606016",
         "price": 260.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53019479376235": {
         "id": 53019479376235,
@@ -1946,7 +1946,7 @@
         "sku": "X000010606017",
         "price": 260.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53019479409003": {
         "id": 53019479409003,
@@ -1957,7 +1957,7 @@
         "sku": "X000010606021",
         "price": 260.0,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 2
       },
       "53019479441771": {
         "id": 53019479441771,
@@ -1968,7 +1968,7 @@
         "sku": "X000010606022",
         "price": 260.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53019479474539": {
         "id": 53019479474539,
@@ -1979,7 +1979,7 @@
         "sku": "X000010606023",
         "price": 260.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53234018943339": {
         "id": 53234018943339,
@@ -1990,7 +1990,7 @@
         "sku": "X000010606032",
         "price": 260.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -2281,7 +2281,7 @@
     "title": "Arc'teryx Proton SL Hoody Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-proton-sl-hoody-mens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S26-X000009557-Proton-SL-Hoody-Dk-Str-Blk-Sapphire-Front-View_f8127b02-734a-48e9-8662-7a5097e1bc63.jpg?v=1776280551",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S26-X000009557-Proton-SL-Hoody-Dk-Str-Blk-Sapphire-Front-View_f8127b02-734a-48e9-8662-7a5097e1bc63.jpg?v=1776280551",
     "variants": {
       "53019478491499": {
         "id": 53019478491499,
@@ -2292,7 +2292,7 @@
         "sku": "X000009557034",
         "price": 280.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53107712917867": {
         "id": 53107712917867,
@@ -2303,7 +2303,7 @@
         "sku": "X000009557003",
         "price": 280.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53107712950635": {
         "id": 53107712950635,
@@ -2314,7 +2314,7 @@
         "sku": "X000009557004",
         "price": 280.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53107712983403": {
         "id": 53107712983403,
@@ -2325,7 +2325,7 @@
         "sku": "X000009557005",
         "price": 280.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53107713016171": {
         "id": 53107713016171,
@@ -2336,7 +2336,7 @@
         "sku": "X000009557006",
         "price": 280.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -3135,8 +3135,8 @@
         "option3": null,
         "sku": "X000011029009",
         "price": 450.0,
-        "available": true,
-        "inventory_quantity": 1
+        "available": false,
+        "inventory_quantity": 0
       },
       "52941144195435": {
         "id": 52941144195435,
@@ -3168,8 +3168,8 @@
         "option3": null,
         "sku": "X000011029012",
         "price": 450.0,
-        "available": true,
-        "inventory_quantity": 1
+        "available": false,
+        "inventory_quantity": 0
       }
     }
   },
@@ -8008,7 +8008,7 @@
     "title": "Arc'teryx Beta Pant Women's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-beta-pant-womens",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S25-X000009468-Beta-Pant-Black-Women-s-Front-View.jpg?v=1757792368",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S25-X000009468-Beta-Pant-Black-Women-s-Front-View.jpg?v=1757792368",
     "variants": {
       "52395051417963": {
         "id": 52395051417963,
@@ -8019,7 +8019,7 @@
         "sku": "X000009468014",
         "price": 300.0,
         "available": true,
-        "inventory_quantity": 1
+        "inventory_quantity": null
       },
       "52395051450731": {
         "id": 52395051450731,
@@ -8030,7 +8030,7 @@
         "sku": "X000009468015",
         "price": 300.0,
         "available": true,
-        "inventory_quantity": 3
+        "inventory_quantity": null
       },
       "52395051483499": {
         "id": 52395051483499,
@@ -8041,7 +8041,7 @@
         "sku": "X000009468016",
         "price": 300.0,
         "available": true,
-        "inventory_quantity": 2
+        "inventory_quantity": null
       },
       "52395051516267": {
         "id": 52395051516267,
@@ -8052,7 +8052,7 @@
         "sku": "X000009468017",
         "price": 300.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
@@ -8288,7 +8288,7 @@
     "title": "Arc'teryx Konseal Pullover Hoody Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-konseal-pullover-hoody-mens",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000008443-Konseal-Pullover-Hoody-Dk-Canvas-Front-View.jpg?v=1757792355",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/F25-X000008443-Konseal-Pullover-Hoody-Dk-Canvas-Front-View.jpg?v=1757792355",
     "variants": {
       "52395051024747": {
         "id": 52395051024747,
@@ -8299,7 +8299,7 @@
         "sku": "X000008443039",
         "price": 200.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52395051057515": {
         "id": 52395051057515,
@@ -8310,7 +8310,7 @@
         "sku": "X000008443040",
         "price": 200.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52395051090283": {
         "id": 52395051090283,
@@ -8321,7 +8321,7 @@
         "sku": "X000008443041",
         "price": 200.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52395051123051": {
         "id": 52395051123051,
@@ -8332,7 +8332,7 @@
         "sku": "X000008443042",
         "price": 200.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
