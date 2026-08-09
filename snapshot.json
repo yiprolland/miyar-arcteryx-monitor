@@ -1152,7 +1152,7 @@
     "title": "Arc'teryx Gamma Men's Jacket",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-gamma-mens-jacket",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/F26-X000010940-Gamma-Jacket-Black.jpg?v=1784299214",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F26-X000010940-Gamma-Jacket-Black.jpg?v=1784299214",
     "variants": {
       "53564323955051": {
         "id": 53564323955051,
@@ -1163,7 +1163,7 @@
         "sku": "X000010940002",
         "price": 280.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53564323987819": {
         "id": 53564323987819,
@@ -1174,7 +1174,7 @@
         "sku": "X000010940003",
         "price": 280.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53564324020587": {
         "id": 53564324020587,
@@ -1185,7 +1185,7 @@
         "sku": "X000010940004",
         "price": 280.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53564324053355": {
         "id": 53564324053355,
@@ -1196,7 +1196,7 @@
         "sku": "X000010940005",
         "price": 280.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -1205,7 +1205,7 @@
     "title": "Arc'teryx Gamma Lightweight Men's Hoody",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-gamma-lightweight-mens-hoody",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/ImageComingsoon_5953c9f5-99a0-4354-b07a-bd1098369549.png?v=1784299212",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/ImageComingsoon_5953c9f5-99a0-4354-b07a-bd1098369549.png?v=1784299212",
     "variants": {
       "53564323823979": {
         "id": 53564323823979,
@@ -1216,7 +1216,7 @@
         "sku": "X000010895002",
         "price": 260.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53564323856747": {
         "id": 53564323856747,
@@ -1227,7 +1227,7 @@
         "sku": "X000010895003",
         "price": 260.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53564323889515": {
         "id": 53564323889515,
@@ -1238,7 +1238,7 @@
         "sku": "X000010895004",
         "price": 260.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53564323922283": {
         "id": 53564323922283,
@@ -1249,7 +1249,7 @@
         "sku": "X000010895005",
         "price": 260.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -1258,7 +1258,7 @@
     "title": "Arc'teryx Beta Women's Jacket",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-beta-womens-jacket",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/ImageComingsoon_95ec361c-ea7e-4670-a1fb-3b64b14273f9.png?v=1784299210",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/ImageComingsoon_95ec361c-ea7e-4670-a1fb-3b64b14273f9.png?v=1784299210",
     "variants": {
       "53564323692907": {
         "id": 53564323692907,
@@ -1269,7 +1269,7 @@
         "sku": "X000010867016",
         "price": 400.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53564323725675": {
         "id": 53564323725675,
@@ -1280,7 +1280,7 @@
         "sku": "X000010867017",
         "price": 400.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53564323758443": {
         "id": 53564323758443,
@@ -1291,7 +1291,7 @@
         "sku": "X000010867018",
         "price": 400.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53564323791211": {
         "id": 53564323791211,
@@ -1302,7 +1302,7 @@
         "sku": "X000010867019",
         "price": 400.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -1492,7 +1492,7 @@
     "title": "Arc'teryx Venta Gloves",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-venta-gloves",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009934-Venta-Glove-Black-Front.jpg?v=1783946388",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009934-Venta-Glove-Black-Front.jpg?v=1783946388",
     "variants": {
       "53528962433387": {
         "id": 53528962433387,
@@ -1503,7 +1503,7 @@
         "sku": "X000009934017",
         "price": 80.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53528962466155": {
         "id": 53528962466155,
@@ -1514,7 +1514,7 @@
         "sku": "X000009934018",
         "price": 80.0,
         "available": true,
-        "inventory_quantity": 1
+        "inventory_quantity": null
       },
       "53528962498923": {
         "id": 53528962498923,
@@ -1525,7 +1525,7 @@
         "sku": "X000009934019",
         "price": 80.0,
         "available": true,
-        "inventory_quantity": 1
+        "inventory_quantity": null
       },
       "53528962531691": {
         "id": 53528962531691,
@@ -1536,7 +1536,7 @@
         "sku": "X000009934020",
         "price": 80.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53528962564459": {
         "id": 53528962564459,
@@ -1547,7 +1547,7 @@
         "sku": "X000009934021",
         "price": 80.0,
         "available": true,
-        "inventory_quantity": 1
+        "inventory_quantity": null
       }
     }
   },
@@ -1697,7 +1697,7 @@
     "title": "Arc'teryx Gamma SL Short 9\" Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-gamma-sl-short-9-mens",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S26-X000009531-Gamma-SL-Short-9-Black.jpg?v=1775931892",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S26-X000009531-Gamma-SL-Short-9-Black.jpg?v=1775931892",
     "variants": {
       "53082157678955": {
         "id": 53082157678955,
@@ -1708,7 +1708,7 @@
         "sku": "X000009531004",
         "price": 120.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53082157711723": {
         "id": 53082157711723,
@@ -1719,7 +1719,7 @@
         "sku": "X000009531006",
         "price": 120.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53082157744491": {
         "id": 53082157744491,
@@ -1730,7 +1730,7 @@
         "sku": "X000009531008",
         "price": 120.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53082157777259": {
         "id": 53082157777259,
@@ -1741,7 +1741,7 @@
         "sku": "X000009531009",
         "price": 120.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
@@ -2932,8 +2932,8 @@
         "option3": null,
         "sku": "X000010292005",
         "price": 70.0,
-        "available": true,
-        "inventory_quantity": 8
+        "available": false,
+        "inventory_quantity": 0
       },
       "53107712754027": {
         "id": 53107712754027,
