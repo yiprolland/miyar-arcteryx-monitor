@@ -2943,8 +2943,8 @@
         "option3": null,
         "sku": "X000010292006",
         "price": 70.0,
-        "available": true,
-        "inventory_quantity": 4
+        "available": false,
+        "inventory_quantity": 0
       }
     }
   },
