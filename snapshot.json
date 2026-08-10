@@ -1697,7 +1697,7 @@
     "title": "Arc'teryx Gamma SL Short 9\" Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-gamma-sl-short-9-mens",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S26-X000009531-Gamma-SL-Short-9-Black.jpg?v=1775931892",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S26-X000009531-Gamma-SL-Short-9-Black.jpg?v=1775931892",
     "variants": {
       "53082157678955": {
         "id": 53082157678955,
@@ -1708,7 +1708,7 @@
         "sku": "X000009531004",
         "price": 120.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53082157711723": {
         "id": 53082157711723,
@@ -1719,7 +1719,7 @@
         "sku": "X000009531006",
         "price": 120.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53082157744491": {
         "id": 53082157744491,
@@ -1730,7 +1730,7 @@
         "sku": "X000009531008",
         "price": 120.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53082157777259": {
         "id": 53082157777259,
@@ -1741,7 +1741,7 @@
         "sku": "X000009531009",
         "price": 120.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
@@ -3050,7 +3050,7 @@
     "title": "Arc'teryx Cronin Cotton Pant Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-cronin-cotton-pant-mens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S26-X000009316-Cronin-Cotton-Pant-Black-Front-View.jpg?v=1773939005",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S26-X000009316-Cronin-Cotton-Pant-Black-Front-View.jpg?v=1773939005",
     "variants": {
       "52944221307243": {
         "id": 52944221307243,
@@ -3061,7 +3061,7 @@
         "sku": "X000009316003",
         "price": 200.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52944221340011": {
         "id": 52944221340011,
@@ -3072,7 +3072,7 @@
         "sku": "X000009316004",
         "price": 200.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52944221372779": {
         "id": 52944221372779,
@@ -3083,7 +3083,7 @@
         "sku": "X000009316011",
         "price": 200.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53019477705067": {
         "id": 53019477705067,
@@ -3094,7 +3094,7 @@
         "sku": "X000009316008",
         "price": 200.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53019477737835": {
         "id": 53019477737835,
@@ -3105,7 +3105,7 @@
         "sku": "X000009316009",
         "price": 200.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53019477770603": {
         "id": 53019477770603,
@@ -3116,7 +3116,7 @@
         "sku": "X000009316010",
         "price": 200.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
