@@ -2953,7 +2953,7 @@
     "title": "Arc'teryx Gamma Hoody Women's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-gamma-hoody-womens",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/unnamed_3_33d252bf-8187-42ed-ac25-3c1d1ede1858.png?v=1778838223",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/unnamed_3_33d252bf-8187-42ed-ac25-3c1d1ede1858.png?v=1778838223",
     "variants": {
       "52956222751083": {
         "id": 52956222751083,
@@ -2964,7 +2964,7 @@
         "sku": "X000010561010",
         "price": 300.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52956222783851": {
         "id": 52956222783851,
@@ -2975,7 +2975,7 @@
         "sku": "X000010561011",
         "price": 300.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52956222816619": {
         "id": 52956222816619,
@@ -2986,7 +2986,7 @@
         "sku": "X000010561012",
         "price": 300.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52956222849387": {
         "id": 52956222849387,
@@ -2997,7 +2997,7 @@
         "sku": "X000010561024",
         "price": 300.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52956222882155": {
         "id": 52956222882155,
@@ -3008,7 +3008,7 @@
         "sku": "X000010561025",
         "price": 300.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52956222914923": {
         "id": 52956222914923,
@@ -3019,7 +3019,7 @@
         "sku": "X000010561026",
         "price": 300.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53124408705387": {
         "id": 53124408705387,
@@ -3030,7 +3030,7 @@
         "sku": "X000010561016",
         "price": 300.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53234018517355": {
         "id": 53234018517355,
@@ -3041,7 +3041,7 @@
         "sku": "X000010561018",
         "price": 300.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
