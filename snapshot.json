@@ -9967,7 +9967,7 @@
     "title": "Arc'teryx Men's Cerium Jacket",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-mens-cerium-jacket",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/F25-X000010579-Cerium-Jacket-Forage-Hover.avif?v=1765907178",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000010579-Cerium-Jacket-Forage-Hover.avif?v=1765907178",
     "variants": {
       "52196433232235": {
         "id": 52196433232235,
@@ -9978,7 +9978,7 @@
         "sku": "X000010579020",
         "price": 380.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52196433265003": {
         "id": 52196433265003,
@@ -9989,7 +9989,7 @@
         "sku": "X000010579021",
         "price": 380.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52196433297771": {
         "id": 52196433297771,
@@ -10000,7 +10000,7 @@
         "sku": "X000010579022",
         "price": 380.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52196433330539": {
         "id": 52196433330539,
@@ -10011,7 +10011,7 @@
         "sku": "X000010579023",
         "price": 380.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52253082681707": {
         "id": 52253082681707,
@@ -10022,7 +10022,7 @@
         "sku": "X000010579014",
         "price": 380.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52253082714475": {
         "id": 52253082714475,
@@ -10033,7 +10033,7 @@
         "sku": "X000010579015",
         "price": 380.0,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       },
       "52253082747243": {
         "id": 52253082747243,
@@ -10044,7 +10044,7 @@
         "sku": "X000010579016",
         "price": 380.0,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       },
       "52253082780011": {
         "id": 52253082780011,
@@ -10055,7 +10055,7 @@
         "sku": "X000010579017",
         "price": 380.0,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       },
       "52395050533227": {
         "id": 52395050533227,
@@ -10066,7 +10066,7 @@
         "sku": "X000010579008",
         "price": 380.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52395050565995": {
         "id": 52395050565995,
@@ -10077,7 +10077,7 @@
         "sku": "X000010579009",
         "price": 380.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52395050598763": {
         "id": 52395050598763,
@@ -10088,7 +10088,7 @@
         "sku": "X000010579010",
         "price": 380.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52395050631531": {
         "id": 52395050631531,
@@ -10099,7 +10099,7 @@
         "sku": "X000010579011",
         "price": 380.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
