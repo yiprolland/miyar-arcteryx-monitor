@@ -1183,7 +1183,7 @@
         "sku": "X000011263003",
         "price": 200.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -1203,7 +1203,7 @@
         "sku": "X000011062002",
         "price": 650.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53564324118891": {
         "id": 53564324118891,
@@ -1214,7 +1214,7 @@
         "sku": "X000011062003",
         "price": 650.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53564324151659": {
         "id": 53564324151659,
@@ -1225,7 +1225,7 @@
         "sku": "X000011062004",
         "price": 650.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53564324184427": {
         "id": 53564324184427,
@@ -1236,7 +1236,7 @@
         "sku": "X000011062005",
         "price": 650.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -1245,7 +1245,7 @@
     "title": "Arc'teryx Gamma Men's Jacket",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-gamma-mens-jacket",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/F26-X000010940-Gamma-Jacket-Black.jpg?v=1784299214",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F26-X000010940-Gamma-Jacket-Black.jpg?v=1784299214",
     "variants": {
       "53564323955051": {
         "id": 53564323955051,
@@ -1256,7 +1256,7 @@
         "sku": "X000010940002",
         "price": 280.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53564323987819": {
         "id": 53564323987819,
@@ -1267,7 +1267,7 @@
         "sku": "X000010940003",
         "price": 280.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53564324020587": {
         "id": 53564324020587,
@@ -1278,7 +1278,7 @@
         "sku": "X000010940004",
         "price": 280.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53564324053355": {
         "id": 53564324053355,
@@ -1289,7 +1289,7 @@
         "sku": "X000010940005",
         "price": 280.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -1790,7 +1790,7 @@
     "title": "Arc'teryx Gamma SL Short 9\" Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-gamma-sl-short-9-mens",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S26-X000009531-Gamma-SL-Short-9-Black.jpg?v=1775931892",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S26-X000009531-Gamma-SL-Short-9-Black.jpg?v=1775931892",
     "variants": {
       "53082157678955": {
         "id": 53082157678955,
@@ -1801,7 +1801,7 @@
         "sku": "X000009531004",
         "price": 120.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53082157711723": {
         "id": 53082157711723,
@@ -1812,7 +1812,7 @@
         "sku": "X000009531006",
         "price": 120.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53082157744491": {
         "id": 53082157744491,
@@ -1823,7 +1823,7 @@
         "sku": "X000009531008",
         "price": 120.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53082157777259": {
         "id": 53082157777259,
@@ -1834,7 +1834,7 @@
         "sku": "X000009531009",
         "price": 120.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
@@ -6139,7 +6139,7 @@
     "title": "Arc'teryx Rho Merino Wool Crew Neck LS Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-rho-merino-wool-crew-neck-ls-mens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/F24-X000007480-Rho-Merino-Wool-Crew-Neck-LS-Black-Hover.jpg?v=1767988735",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F24-X000007480-Rho-Merino-Wool-Crew-Neck-LS-Black-Hover.jpg?v=1767988735",
     "variants": {
       "52747007361387": {
         "id": 52747007361387,
@@ -6150,7 +6150,7 @@
         "sku": "X000007480003",
         "price": 120.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52747007394155": {
         "id": 52747007394155,
@@ -6161,7 +6161,7 @@
         "sku": "X000007480004",
         "price": 120.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52747007426923": {
         "id": 52747007426923,
@@ -6172,7 +6172,7 @@
         "sku": "X000007480005",
         "price": 120.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52747007459691": {
         "id": 52747007459691,
@@ -6183,7 +6183,7 @@
         "sku": "X000007480006",
         "price": 120.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52747007492459": {
         "id": 52747007492459,
@@ -6194,7 +6194,7 @@
         "sku": "X000007480017",
         "price": 120.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -6203,7 +6203,7 @@
     "title": "Arc'teryx Kragg SL Cotton Shirt LS Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-kragg-sl-cotton-shirt-ls-mens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009536-Kragg-SL-Cotton-Shirt-LS-Black-Front-View_7d41a551-31a1-43ae-b839-09dab07f2286.jpg?v=1784299190",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009536-Kragg-SL-Cotton-Shirt-LS-Black-Front-View_7d41a551-31a1-43ae-b839-09dab07f2286.jpg?v=1784299190",
     "variants": {
       "52743752778091": {
         "id": 52743752778091,
@@ -6214,7 +6214,7 @@
         "sku": "X000009536003",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52743752810859": {
         "id": 52743752810859,
@@ -6225,7 +6225,7 @@
         "sku": "X000009536004",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52743752843627": {
         "id": 52743752843627,
@@ -6236,7 +6236,7 @@
         "sku": "X000009536005",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52743752876395": {
         "id": 52743752876395,
@@ -6247,7 +6247,7 @@
         "sku": "X000009536006",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52743752909163": {
         "id": 52743752909163,
@@ -6258,7 +6258,7 @@
         "sku": "X000009536022",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52743752941931": {
         "id": 52743752941931,
@@ -6269,7 +6269,7 @@
         "sku": "X000009536023",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52743752974699": {
         "id": 52743752974699,
@@ -6280,7 +6280,7 @@
         "sku": "X000009536024",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53564322316651": {
         "id": 53564322316651,
@@ -6291,7 +6291,7 @@
         "sku": "X000009536051",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": -1
       },
       "53564322349419": {
         "id": 53564322349419,
@@ -6302,7 +6302,7 @@
         "sku": "X000009536052",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": -2
       },
       "53564322382187": {
         "id": 53564322382187,
@@ -6313,7 +6313,7 @@
         "sku": "X000009536053",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": -1
       }
     }
   },
@@ -12754,7 +12754,7 @@
     "title": "Arc'teryx Gamma Lightweight Hoody Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-gamma-lightweight-hoody-mens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S25-X000007741-Gamma-Lightweight-Hoody-Black-X-Front-View.jpg?v=1749476405",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S25-X000007741-Gamma-Lightweight-Hoody-Black-X-Front-View.jpg?v=1749476405",
     "variants": {
       "51940498768235": {
         "id": 51940498768235,
@@ -12765,7 +12765,7 @@
         "sku": "X000007741075",
         "price": 260.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51940498801003": {
         "id": 51940498801003,
@@ -12776,7 +12776,7 @@
         "sku": "X000007741076",
         "price": 260.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51940498833771": {
         "id": 51940498833771,
@@ -12787,7 +12787,7 @@
         "sku": "X000007741077",
         "price": 260.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51940498866539": {
         "id": 51940498866539,
@@ -12798,7 +12798,7 @@
         "sku": "X000007741078",
         "price": 260.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51940498899307": {
         "id": 51940498899307,
@@ -12809,7 +12809,7 @@
         "sku": "X000007741070",
         "price": 260.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51940498932075": {
         "id": 51940498932075,
@@ -12820,7 +12820,7 @@
         "sku": "X000007741071",
         "price": 260.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51940498964843": {
         "id": 51940498964843,
@@ -12831,7 +12831,7 @@
         "sku": "X000007741063",
         "price": 260.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51940498997611": {
         "id": 51940498997611,
@@ -12842,7 +12842,7 @@
         "sku": "X000007741064",
         "price": 260.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51940499030379": {
         "id": 51940499030379,
@@ -12853,7 +12853,7 @@
         "sku": "X000007741065",
         "price": 260.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51940499063147": {
         "id": 51940499063147,
@@ -12864,7 +12864,7 @@
         "sku": "X000007741066",
         "price": 260.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51995988132203": {
         "id": 51995988132203,
@@ -12875,7 +12875,7 @@
         "sku": "X000007741052",
         "price": 260.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51995988164971": {
         "id": 51995988164971,
@@ -12886,7 +12886,7 @@
         "sku": "X000007741053",
         "price": 260.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52111605989739": {
         "id": 52111605989739,
@@ -12897,7 +12897,7 @@
         "sku": "X000007741004",
         "price": 260.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52111606022507": {
         "id": 52111606022507,
@@ -12908,7 +12908,7 @@
         "sku": "X000007741005",
         "price": 260.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
