@@ -1141,7 +1141,7 @@
     "title": "Arc'teryx Mantis 2 Waist Pack",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-mantis-2-waist-pack",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S26-X000008973-Mantis-2-Waist-Pack-Fluidity-Front.jpg?v=1784299219",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S26-X000008973-Mantis-2-Waist-Pack-Fluidity-Front.jpg?v=1784299219",
     "variants": {
       "53564324249963": {
         "id": 53564324249963,
@@ -1152,7 +1152,7 @@
         "sku": "X000008973037",
         "price": 50.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53564324282731": {
         "id": 53564324282731,
@@ -1163,7 +1163,7 @@
         "sku": "X000008973040",
         "price": 50.0,
         "available": false,
-        "inventory_quantity": -2
+        "inventory_quantity": null
       }
     }
   },
@@ -2374,7 +2374,7 @@
     "title": "Arc'teryx Proton SL Hoody Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-proton-sl-hoody-mens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S26-X000009557-Proton-SL-Hoody-Dk-Str-Blk-Sapphire-Front-View_f8127b02-734a-48e9-8662-7a5097e1bc63.jpg?v=1776280551",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S26-X000009557-Proton-SL-Hoody-Dk-Str-Blk-Sapphire-Front-View_f8127b02-734a-48e9-8662-7a5097e1bc63.jpg?v=1776280551",
     "variants": {
       "53019478491499": {
         "id": 53019478491499,
@@ -2385,7 +2385,7 @@
         "sku": "X000009557034",
         "price": 280.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53107712917867": {
         "id": 53107712917867,
@@ -2396,7 +2396,7 @@
         "sku": "X000009557003",
         "price": 280.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53107712950635": {
         "id": 53107712950635,
@@ -2407,7 +2407,7 @@
         "sku": "X000009557004",
         "price": 280.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53107712983403": {
         "id": 53107712983403,
@@ -2418,7 +2418,7 @@
         "sku": "X000009557005",
         "price": 280.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53107713016171": {
         "id": 53107713016171,
@@ -2429,7 +2429,7 @@
         "sku": "X000009557006",
         "price": 280.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
