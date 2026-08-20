@@ -1426,7 +1426,7 @@
     "title": "Arc'teryx Beta Women's Jacket",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-beta-womens-jacket",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/ImageComingsoon_95ec361c-ea7e-4670-a1fb-3b64b14273f9.png?v=1784299210",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/ImageComingsoon_95ec361c-ea7e-4670-a1fb-3b64b14273f9.png?v=1784299210",
     "variants": {
       "53564323692907": {
         "id": 53564323692907,
@@ -1437,7 +1437,7 @@
         "sku": "X000010867016",
         "price": 400.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53564323725675": {
         "id": 53564323725675,
@@ -1448,7 +1448,7 @@
         "sku": "X000010867017",
         "price": 400.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53564323758443": {
         "id": 53564323758443,
@@ -1459,7 +1459,7 @@
         "sku": "X000010867018",
         "price": 400.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53564323791211": {
         "id": 53564323791211,
@@ -1470,7 +1470,7 @@
         "sku": "X000010867019",
         "price": 400.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
@@ -1609,7 +1609,7 @@
     "title": "Arc'teryx Axios 4 Crossbody",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-axios-4-crossbody",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/ImageComingsoon_717b60b3-4ea9-45ad-bd44-9f56f82e90fd.png?v=1784299206",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/ImageComingsoon_717b60b3-4ea9-45ad-bd44-9f56f82e90fd.png?v=1784299206",
     "variants": {
       "53564323299691": {
         "id": 53564323299691,
@@ -1620,7 +1620,7 @@
         "sku": "X000010709002",
         "price": 80.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
