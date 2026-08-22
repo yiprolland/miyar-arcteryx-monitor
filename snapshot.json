@@ -1174,7 +1174,7 @@
     "title": "Arc'teryx Incendo Hybrid Hoody Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-incendo-hybrid-hoody-mens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S26-X000009286-Incendo-Hybrid-Hoody-Black-Front-View.jpg?v=1784299221",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S26-X000009286-Incendo-Hybrid-Hoody-Black-Front-View.jpg?v=1784299221",
     "variants": {
       "53564324315499": {
         "id": 53564324315499,
@@ -1185,7 +1185,7 @@
         "sku": "X000009286002",
         "price": 260.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": -1
       },
       "53564324348267": {
         "id": 53564324348267,
@@ -1196,7 +1196,7 @@
         "sku": "X000009286003",
         "price": 260.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": -1
       },
       "53564324381035": {
         "id": 53564324381035,
@@ -1207,7 +1207,7 @@
         "sku": "X000009286004",
         "price": 260.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": -1
       }
     }
   },
@@ -1320,7 +1320,7 @@
     "title": "Arc'teryx Gamma Men's Jacket",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-gamma-mens-jacket",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F26-X000010940-Gamma-Jacket-Black.jpg?v=1784299214",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/F26-X000010940-Gamma-Jacket-Black.jpg?v=1784299214",
     "variants": {
       "53564323955051": {
         "id": 53564323955051,
@@ -1331,7 +1331,7 @@
         "sku": "X000010940002",
         "price": 280.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53564323987819": {
         "id": 53564323987819,
@@ -1342,7 +1342,7 @@
         "sku": "X000010940003",
         "price": 280.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53564324020587": {
         "id": 53564324020587,
@@ -1353,7 +1353,7 @@
         "sku": "X000010940004",
         "price": 280.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53564324053355": {
         "id": 53564324053355,
@@ -1364,7 +1364,7 @@
         "sku": "X000010940005",
         "price": 280.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
@@ -7417,8 +7417,8 @@
         "option3": null,
         "sku": "X000009899003",
         "price": 900.0,
-        "available": false,
-        "inventory_quantity": 0
+        "available": true,
+        "inventory_quantity": 1
       },
       "52941140328811": {
         "id": 52941140328811,
@@ -12482,8 +12482,8 @@
         "option3": null,
         "sku": "X000009560034",
         "price": 280.0,
-        "available": false,
-        "inventory_quantity": 0
+        "available": true,
+        "inventory_quantity": 1
       },
       "52253081174379": {
         "id": 52253081174379,
