@@ -1865,7 +1865,7 @@
     "title": "Arc'teryx Gamma SL Short 9\" Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-gamma-sl-short-9-mens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S26-X000009531-Gamma-SL-Short-9-Black.jpg?v=1775931892",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S26-X000009531-Gamma-SL-Short-9-Black.jpg?v=1775931892",
     "variants": {
       "53082157678955": {
         "id": 53082157678955,
@@ -1876,7 +1876,7 @@
         "sku": "X000009531004",
         "price": 120.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53082157711723": {
         "id": 53082157711723,
@@ -1887,7 +1887,7 @@
         "sku": "X000009531006",
         "price": 120.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53082157744491": {
         "id": 53082157744491,
@@ -1898,7 +1898,7 @@
         "sku": "X000009531008",
         "price": 120.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53082157777259": {
         "id": 53082157777259,
@@ -1909,7 +1909,7 @@
         "sku": "X000009531009",
         "price": 120.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
