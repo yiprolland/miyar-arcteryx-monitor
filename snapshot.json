@@ -1216,7 +1216,7 @@
     "title": "Arc'teryx Mantis 2 Waist Pack",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-mantis-2-waist-pack",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S26-X000008973-Mantis-2-Waist-Pack-Fluidity-Front.jpg?v=1784299219",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S26-X000008973-Mantis-2-Waist-Pack-Fluidity-Front.jpg?v=1784299219",
     "variants": {
       "53564324249963": {
         "id": 53564324249963,
@@ -1227,7 +1227,7 @@
         "sku": "X000008973037",
         "price": 50.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53564324282731": {
         "id": 53564324282731,
@@ -1238,7 +1238,7 @@
         "sku": "X000008973040",
         "price": 50.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": -2
       }
     }
   },
@@ -1258,7 +1258,7 @@
         "sku": "X000011263003",
         "price": 200.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
