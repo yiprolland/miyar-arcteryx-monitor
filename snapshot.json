@@ -4,7 +4,7 @@
     "title": "Arc'teryx Beta SL Men's Jacket",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-beta-sl-mens-jacket",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F26-X000010854-Beta-SL-Jacket-Black-Front-View.jpg?v=1787164322",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F26-X000010854-Beta-SL-Jacket-Black-Front-View_6f0e43f9-3bea-4c3a-a740-5a8787d85424.jpg?v=1787565190",
     "variants": {
       "53742516699499": {
         "id": 53742516699499,
@@ -68,6 +68,28 @@
         "option2": "M",
         "option3": null,
         "sku": "X000010854027",
+        "price": 500.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "53760444203371": {
+        "id": 53760444203371,
+        "title": "Cloud / M",
+        "option1": "Cloud",
+        "option2": "M",
+        "option3": null,
+        "sku": "X000010854015",
+        "price": 500.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "53760444236139": {
+        "id": 53760444236139,
+        "title": "Cloud / L",
+        "option1": "Cloud",
+        "option2": "L",
+        "option3": null,
+        "sku": "X000010854016",
         "price": 500.0,
         "available": false,
         "inventory_quantity": 0
@@ -1216,7 +1238,7 @@
     "title": "Arc'teryx Mantis 2 Waist Pack",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-mantis-2-waist-pack",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S26-X000008973-Mantis-2-Waist-Pack-Fluidity-Front.jpg?v=1784299219",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S26-X000008973-Mantis-2-Waist-Pack-Fluidity-Front.jpg?v=1784299219",
     "variants": {
       "53564324249963": {
         "id": 53564324249963,
@@ -1227,7 +1249,7 @@
         "sku": "X000008973037",
         "price": 50.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53564324282731": {
         "id": 53564324282731,
@@ -1238,7 +1260,7 @@
         "sku": "X000008973040",
         "price": 50.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": -2
       }
     }
   },
@@ -1629,7 +1651,7 @@
     "title": "Arc'teryx Axios 10 Backpack",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-axios-10-backpack",
-    "image": null,
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F26-X000010707-Axios-10-Backpack-Black-Front.jpg?v=1787564551",
     "variants": {
       "53564323234155": {
         "id": 53564323234155,
@@ -1649,6 +1671,17 @@
         "option2": "Regular",
         "option3": null,
         "sku": "X000010707004",
+        "price": 130.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "53760439714155": {
+        "id": 53760439714155,
+        "title": "Kasumi / Blurple / Regular",
+        "option1": "Kasumi / Blurple",
+        "option2": "Regular",
+        "option3": null,
+        "sku": "X000010707003",
         "price": 130.0,
         "available": false,
         "inventory_quantity": 0
@@ -2330,7 +2363,7 @@
     "title": "Arc'teryx Men's Cormac Crew Neck Shirt LS",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-mens-cormac-crew-neck-shirt-ls",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S26-X000010291-Cormac-Crew-Neck-Shirt-LS-Black-Front-View.jpg?v=1773939023",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S26-X000010291-Cormac-Crew-Neck-Shirt-LS-Black-Front-View_62103c97-e35b-43fd-88d4-83c4037d9e3e.jpg?v=1787566620",
     "variants": {
       "53019478524267": {
         "id": 53019478524267,
@@ -2441,6 +2474,17 @@
         "price": 80.0,
         "available": true,
         "inventory_quantity": 1
+      },
+      "53760525468011": {
+        "id": 53760525468011,
+        "title": "Arctic Silk / L",
+        "option1": "Arctic Silk",
+        "option2": "L",
+        "option3": null,
+        "sku": "X000010291035",
+        "price": 80.0,
+        "available": false,
+        "inventory_quantity": 0
       }
     }
   },
@@ -7524,7 +7568,7 @@
     "title": "Arc'teryx Women's Cerium Hoody",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-womens-cerium-hoody",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000010554-Cerium-Hoody-Black-Women-s-Front-View.jpg?v=1784299184",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000010554-Cerium-Hoody-Black-Women-s-Front-View_dacfc829-62c0-4cfe-b65d-7c3183c59180.jpg?v=1787565983",
     "variants": {
       "53019477541227": {
         "id": 53019477541227,
@@ -7720,6 +7764,28 @@
         "option2": "L",
         "option3": null,
         "sku": "X000010554089",
+        "price": 400.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "53760522256747": {
+        "id": 53760522256747,
+        "title": "Blurple / M",
+        "option1": "Blurple",
+        "option2": "M",
+        "option3": null,
+        "sku": "X000010554074",
+        "price": 400.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "53760522289515": {
+        "id": 53760522289515,
+        "title": "Blurple / L",
+        "option1": "Blurple",
+        "option2": "L",
+        "option3": null,
+        "sku": "X000010554075",
         "price": 400.0,
         "available": false,
         "inventory_quantity": 0
