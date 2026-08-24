@@ -5736,9 +5736,9 @@
       },
       "53615929885035": {
         "id": 53615929885035,
-        "title": "Void/Cloud / 9.5 / US",
+        "title": "Void/Cloud / 10 / US",
         "option1": "Void/Cloud",
-        "option2": "9.5",
+        "option2": "10",
         "option3": "US",
         "sku": "X000009833050",
         "price": 220.0,
@@ -5747,9 +5747,9 @@
       },
       "53615929917803": {
         "id": 53615929917803,
-        "title": "Void/Cloud / 10 / US",
+        "title": "Void/Cloud / 10.5 / US",
         "option1": "Void/Cloud",
-        "option2": "10",
+        "option2": "10.5",
         "option3": "US",
         "sku": "X000009833051",
         "price": 220.0,
@@ -5758,9 +5758,9 @@
       },
       "53615929950571": {
         "id": 53615929950571,
-        "title": "Void/Cloud / 10.5 / US",
+        "title": "Void/Cloud / 11 / US",
         "option1": "Void/Cloud",
-        "option2": "10.5",
+        "option2": "11",
         "option3": "US",
         "sku": "X000009833052",
         "price": 220.0,
@@ -5769,9 +5769,9 @@
       },
       "53615929983339": {
         "id": 53615929983339,
-        "title": "Void/Cloud / 11 / US",
+        "title": "Void/Cloud / 11.5 / US",
         "option1": "Void/Cloud",
-        "option2": "11",
+        "option2": "11.5",
         "option3": "US",
         "sku": "X000009833053",
         "price": 220.0,
@@ -10073,7 +10073,7 @@
     "title": "Arc'teryx Kyanite Hoody Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-kyanite-hoody-mens",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000008446-Kyanite-Hoody-Black-Front-View.jpg?v=1784299170",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000008446-Kyanite-Hoody-Black-Front-View.jpg?v=1787569728",
     "variants": {
       "52253082812779": {
         "id": 52253082812779,
@@ -10118,6 +10118,17 @@
         "price": 200.0,
         "available": true,
         "inventory_quantity": 1
+      },
+      "53564321759595": {
+        "id": 53564321759595,
+        "title": "Black / S",
+        "option1": "Black",
+        "option2": "S",
+        "option3": null,
+        "sku": "X000008446002",
+        "price": 200.0,
+        "available": false,
+        "inventory_quantity": 0
       },
       "52196494901611": {
         "id": 52196494901611,
@@ -10229,13 +10240,24 @@
         "available": true,
         "inventory_quantity": 1
       },
-      "53564321759595": {
-        "id": 53564321759595,
-        "title": "Black / S",
-        "option1": "Black",
-        "option2": "S",
+      "53760567312747": {
+        "id": 53760567312747,
+        "title": "Cloud / M",
+        "option1": "Cloud",
+        "option2": "M",
         "option3": null,
-        "sku": "X000008446002",
+        "sku": "X000008446070",
+        "price": 200.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "53760567345515": {
+        "id": 53760567345515,
+        "title": "Cloud / L",
+        "option1": "Cloud",
+        "option2": "L",
+        "option3": null,
+        "sku": "X000008446071",
         "price": 200.0,
         "available": false,
         "inventory_quantity": 0
@@ -12232,6 +12254,17 @@
         "option2": null,
         "option3": null,
         "sku": "X000010636012",
+        "price": 130.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "53760591659371": {
+        "id": 53760591659371,
+        "title": "Arctic Silk",
+        "option1": "Arctic Silk",
+        "option2": null,
+        "option3": null,
+        "sku": "X000010636013",
         "price": 130.0,
         "available": false,
         "inventory_quantity": 0
