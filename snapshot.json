@@ -1,4 +1,57 @@
 {
+  "arcteryx-thorium-hoody-mens": {
+    "handle": "arcteryx-thorium-hoody-mens",
+    "title": "Arc'teryx Thorium Hoody Men's",
+    "vendor": "Arc'teryx",
+    "url": "https://store.miyaradventures.com/products/arcteryx-thorium-hoody-mens",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/03-11-2023-JA_X000007380-002291_7_1.webp?v=1787574212",
+    "variants": {
+      "53760631439723": {
+        "id": 53760631439723,
+        "title": "Black / S",
+        "option1": "Black",
+        "option2": "S",
+        "option3": null,
+        "sku": "X000010657003",
+        "price": 500.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "53760631472491": {
+        "id": 53760631472491,
+        "title": "Black / M",
+        "option1": "Black",
+        "option2": "M",
+        "option3": null,
+        "sku": "X000010657004",
+        "price": 500.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "53760631505259": {
+        "id": 53760631505259,
+        "title": "Black / L",
+        "option1": "Black",
+        "option2": "L",
+        "option3": null,
+        "sku": "X000010657005",
+        "price": 500.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "53760631538027": {
+        "id": 53760631538027,
+        "title": "Black / XL",
+        "option1": "Black",
+        "option2": "XL",
+        "option3": null,
+        "sku": "X000010657006",
+        "price": 500.0,
+        "available": false,
+        "inventory_quantity": 0
+      }
+    }
+  },
   "arcteryx-beta-sl-mens-jacket": {
     "handle": "arcteryx-beta-sl-mens-jacket",
     "title": "Arc'teryx Beta SL Men's Jacket",
@@ -344,7 +397,7 @@
     "title": "Arc'teryx Kopec 2 Low GTX Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-kopec-2-low-gtx-mens",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/ImageComingsoon_12fb0670-3b62-40d2-9a72-8a6a995cf3b5.png?v=1785441092",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F26-X000010831-Kopec-2-Low-GTX-Shoe-Black-Black-Profile.jpg?v=1787575350",
     "variants": {
       "53615931588971": {
         "id": 53615931588971,
@@ -1269,15 +1322,26 @@
     "title": "Arc'teryx Verro 20 Backpack",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-verro-20-backpack",
-    "image": null,
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F26-X000011263-Verro-20-Backpack-Tatsu-Front.jpg?v=1787575014",
     "variants": {
       "53564324217195": {
         "id": 53564324217195,
-        "title": "Tatsu / Regular",
+        "title": "Tatsu / Regular / 710g / 1 lb 9 oz",
         "option1": "Tatsu",
         "option2": "Regular",
-        "option3": null,
+        "option3": "710g / 1 lb 9 oz",
         "sku": "X000011263003",
+        "price": 200.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "53760635502955": {
+        "id": 53760635502955,
+        "title": "Black / Regular / 710g / 1 lb 9 oz",
+        "option1": "Black",
+        "option2": "Regular",
+        "option3": "710g / 1 lb 9 oz",
+        "sku": "X000011263001",
         "price": 200.0,
         "available": false,
         "inventory_quantity": 0
@@ -4758,7 +4822,7 @@
         "sku": "X000009502115",
         "price": 60.0,
         "available": false,
-        "inventory_quantity": -1
+        "inventory_quantity": 0
       },
       "53564322546027": {
         "id": 53564322546027,
@@ -4769,7 +4833,7 @@
         "sku": "X000009502116",
         "price": 60.0,
         "available": false,
-        "inventory_quantity": -1
+        "inventory_quantity": 0
       },
       "53564322578795": {
         "id": 53564322578795,
@@ -4780,7 +4844,7 @@
         "sku": "X000009502117",
         "price": 60.0,
         "available": false,
-        "inventory_quantity": -1
+        "inventory_quantity": 0
       }
     }
   },
@@ -4844,7 +4908,7 @@
         "sku": "X000008516086",
         "price": 180.0,
         "available": false,
-        "inventory_quantity": -1
+        "inventory_quantity": 0
       },
       "53564322447723": {
         "id": 53564322447723,
@@ -4855,7 +4919,7 @@
         "sku": "X000008516087",
         "price": 180.0,
         "available": false,
-        "inventory_quantity": -1
+        "inventory_quantity": 0
       },
       "53564322480491": {
         "id": 53564322480491,
@@ -4866,7 +4930,7 @@
         "sku": "X000008516088",
         "price": 180.0,
         "available": false,
-        "inventory_quantity": -1
+        "inventory_quantity": 0
       }
     }
   },
@@ -5600,7 +5664,7 @@
     "title": "Arc'teryx KONSEAL GTX Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-konseal-gtx-mens",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009833-Konseal-GTX-Shoe-Black-Black-Profile.jpg?v=1785441084",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009833-Konseal-GTX-Shoe-Black-Black-Profile_677213b7-0c78-4982-8b3f-6257c89ede34.jpg?v=1787572964",
     "variants": {
       "52884896874859": {
         "id": 52884896874859,
@@ -5777,6 +5841,39 @@
         "price": 220.0,
         "available": true,
         "inventory_quantity": 1
+      },
+      "53760622723435": {
+        "id": 53760622723435,
+        "title": "Void/Cloud / 8 / US",
+        "option1": "Void/Cloud",
+        "option2": "8",
+        "option3": "US",
+        "sku": "X000009833046",
+        "price": 220.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "53760622756203": {
+        "id": 53760622756203,
+        "title": "Void/Cloud / 8.5 / US",
+        "option1": "Void/Cloud",
+        "option2": "8.5",
+        "option3": "US",
+        "sku": "X000009833047",
+        "price": 220.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "53760622788971": {
+        "id": 53760622788971,
+        "title": "Void/Cloud / 9 / US",
+        "option1": "Void/Cloud",
+        "option2": "9",
+        "option3": "US",
+        "sku": "X000009833048",
+        "price": 220.0,
+        "available": false,
+        "inventory_quantity": 0
       }
     }
   },
@@ -6432,7 +6529,7 @@
         "sku": "X000009536051",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": -1
+        "inventory_quantity": 0
       },
       "53564322349419": {
         "id": 53564322349419,
@@ -6443,7 +6540,7 @@
         "sku": "X000009536052",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": -2
+        "inventory_quantity": 0
       },
       "53564322382187": {
         "id": 53564322382187,
@@ -6453,8 +6550,8 @@
         "option3": null,
         "sku": "X000009536053",
         "price": 70.0,
-        "available": false,
-        "inventory_quantity": -1
+        "available": true,
+        "inventory_quantity": 1
       }
     }
   },
