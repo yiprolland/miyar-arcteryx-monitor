@@ -1174,7 +1174,7 @@
     "title": "Arc'teryx Incendo Hybrid Hoody Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-incendo-hybrid-hoody-mens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S26-X000009286-Incendo-Hybrid-Hoody-Black-Front-View.jpg?v=1784299221",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S26-X000009286-Incendo-Hybrid-Hoody-Black-Front-View.jpg?v=1784299221",
     "variants": {
       "53564324315499": {
         "id": 53564324315499,
@@ -1185,7 +1185,7 @@
         "sku": "X000009286002",
         "price": 260.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": -1
       },
       "53564324348267": {
         "id": 53564324348267,
@@ -1196,7 +1196,7 @@
         "sku": "X000009286003",
         "price": 260.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": -1
       },
       "53564324381035": {
         "id": 53564324381035,
@@ -1207,7 +1207,7 @@
         "sku": "X000009286004",
         "price": 260.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": -1
       }
     }
   },
@@ -1216,7 +1216,7 @@
     "title": "Arc'teryx Mantis 2 Waist Pack",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-mantis-2-waist-pack",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S26-X000008973-Mantis-2-Waist-Pack-Fluidity-Front.jpg?v=1784299219",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S26-X000008973-Mantis-2-Waist-Pack-Fluidity-Front.jpg?v=1784299219",
     "variants": {
       "53564324249963": {
         "id": 53564324249963,
@@ -1227,7 +1227,7 @@
         "sku": "X000008973037",
         "price": 50.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53564324282731": {
         "id": 53564324282731,
@@ -1238,7 +1238,7 @@
         "sku": "X000008973040",
         "price": 50.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": -2
       }
     }
   },
@@ -1724,7 +1724,7 @@
     "title": "Arc'teryx Kyanite LT Hoody Women's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-kyanite-lt-hoody-womens",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S26-X000009645-Kyanite-LT-Hoody-Reef-Women-s-Front-View_d0a4028b-4484-4d57-bcf2-2b3174ddf334.jpg?v=1784299202",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S26-X000009645-Kyanite-LT-Hoody-Reef-Women-s-Front-View_d0a4028b-4484-4d57-bcf2-2b3174ddf334.jpg?v=1784299202",
     "variants": {
       "53271570907499": {
         "id": 53271570907499,
@@ -1735,7 +1735,7 @@
         "sku": "X000009645037",
         "price": 150.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53271570940267": {
         "id": 53271570940267,
@@ -1746,7 +1746,7 @@
         "sku": "X000009645038",
         "price": 150.0,
         "available": true,
-        "inventory_quantity": 2
+        "inventory_quantity": null
       },
       "53271570973035": {
         "id": 53271570973035,
@@ -1757,7 +1757,7 @@
         "sku": "X000009645039",
         "price": 150.0,
         "available": true,
-        "inventory_quantity": 1
+        "inventory_quantity": null
       },
       "53271571005803": {
         "id": 53271571005803,
@@ -1768,7 +1768,7 @@
         "sku": "X000009645040",
         "price": 150.0,
         "available": true,
-        "inventory_quantity": 1
+        "inventory_quantity": null
       },
       "53564322972011": {
         "id": 53564322972011,
@@ -1779,7 +1779,7 @@
         "sku": "X000009645010",
         "price": 150.0,
         "available": false,
-        "inventory_quantity": -1
+        "inventory_quantity": null
       },
       "53564323004779": {
         "id": 53564323004779,
@@ -1790,7 +1790,7 @@
         "sku": "X000009645011",
         "price": 150.0,
         "available": false,
-        "inventory_quantity": -1
+        "inventory_quantity": null
       },
       "53564323037547": {
         "id": 53564323037547,
@@ -1801,7 +1801,7 @@
         "sku": "X000009645012",
         "price": 150.0,
         "available": false,
-        "inventory_quantity": -1
+        "inventory_quantity": null
       },
       "53564323070315": {
         "id": 53564323070315,
@@ -1812,7 +1812,7 @@
         "sku": "X000009645031",
         "price": 150.0,
         "available": false,
-        "inventory_quantity": -1
+        "inventory_quantity": null
       },
       "53564323103083": {
         "id": 53564323103083,
@@ -1823,7 +1823,7 @@
         "sku": "X000009645032",
         "price": 150.0,
         "available": false,
-        "inventory_quantity": -1
+        "inventory_quantity": null
       },
       "53564323135851": {
         "id": 53564323135851,
@@ -1834,7 +1834,7 @@
         "sku": "X000009645045",
         "price": 150.0,
         "available": false,
-        "inventory_quantity": -1
+        "inventory_quantity": null
       },
       "53564323168619": {
         "id": 53564323168619,
@@ -1845,7 +1845,7 @@
         "sku": "X000009645046",
         "price": 150.0,
         "available": false,
-        "inventory_quantity": -1
+        "inventory_quantity": null
       },
       "53564323201387": {
         "id": 53564323201387,
@@ -1856,7 +1856,7 @@
         "sku": "X000009645047",
         "price": 150.0,
         "available": false,
-        "inventory_quantity": -1
+        "inventory_quantity": null
       }
     }
   },
@@ -2167,7 +2167,7 @@
     "title": "Arc'teryx Cormac Logo Shirt SS Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-cormac-logo-shirt-ss-mens",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S26-X000010293-Cormac-Logo-Shirt-SS-Black-Front-View.jpg?v=1784299200",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S26-X000010293-Cormac-Logo-Shirt-SS-Black-Front-View.jpg?v=1784299200",
     "variants": {
       "53019478950251": {
         "id": 53019478950251,
@@ -2178,7 +2178,7 @@
         "sku": "X000010293021",
         "price": 80.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53019478983019": {
         "id": 53019478983019,
@@ -2189,7 +2189,7 @@
         "sku": "X000010293022",
         "price": 80.0,
         "available": true,
-        "inventory_quantity": 2
+        "inventory_quantity": null
       },
       "53019479015787": {
         "id": 53019479015787,
@@ -2200,7 +2200,7 @@
         "sku": "X000010293023",
         "price": 80.0,
         "available": true,
-        "inventory_quantity": 2
+        "inventory_quantity": null
       },
       "53019479048555": {
         "id": 53019479048555,
@@ -2211,7 +2211,7 @@
         "sku": "X000010293024",
         "price": 80.0,
         "available": true,
-        "inventory_quantity": 1
+        "inventory_quantity": null
       },
       "53107713048939": {
         "id": 53107713048939,
@@ -2222,7 +2222,7 @@
         "sku": "X000010293009",
         "price": 80.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53107713081707": {
         "id": 53107713081707,
@@ -2233,7 +2233,7 @@
         "sku": "X000010293010",
         "price": 80.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53107713114475": {
         "id": 53107713114475,
@@ -2244,7 +2244,7 @@
         "sku": "X000010293011",
         "price": 80.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53107713147243": {
         "id": 53107713147243,
@@ -2255,7 +2255,7 @@
         "sku": "X000010293012",
         "price": 80.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53107713180011": {
         "id": 53107713180011,
@@ -2266,7 +2266,7 @@
         "sku": "X000010293003",
         "price": 80.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53107713212779": {
         "id": 53107713212779,
@@ -2277,7 +2277,7 @@
         "sku": "X000010293004",
         "price": 80.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53107713245547": {
         "id": 53107713245547,
@@ -2288,7 +2288,7 @@
         "sku": "X000010293005",
         "price": 80.0,
         "available": false,
-        "inventory_quantity": -2
+        "inventory_quantity": null
       },
       "53107713278315": {
         "id": 53107713278315,
@@ -2299,7 +2299,7 @@
         "sku": "X000010293006",
         "price": 80.0,
         "available": false,
-        "inventory_quantity": -2
+        "inventory_quantity": null
       },
       "53564322906475": {
         "id": 53564322906475,
@@ -2310,7 +2310,7 @@
         "sku": "X000010293029",
         "price": 80.0,
         "available": false,
-        "inventory_quantity": -2
+        "inventory_quantity": null
       },
       "53564322939243": {
         "id": 53564322939243,
@@ -2321,7 +2321,7 @@
         "sku": "X000010293030",
         "price": 80.0,
         "available": false,
-        "inventory_quantity": -2
+        "inventory_quantity": null
       }
     }
   },
@@ -12090,8 +12090,8 @@
         "option3": null,
         "sku": "X000010636009",
         "price": 130.0,
-        "available": true,
-        "inventory_quantity": 1
+        "available": false,
+        "inventory_quantity": 0
       },
       "53564321399147": {
         "id": 53564321399147,
