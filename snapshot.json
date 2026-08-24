@@ -1342,7 +1342,7 @@
     "title": "Arc'teryx Gamma Men's Jacket",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-gamma-mens-jacket",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F26-X000010940-Gamma-Jacket-Black.jpg?v=1784299214",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F26-X000010940-Gamma-Jacket-Black.jpg?v=1787567358",
     "variants": {
       "53564323955051": {
         "id": 53564323955051,
@@ -1384,6 +1384,28 @@
         "option2": "XL",
         "option3": null,
         "sku": "X000010940005",
+        "price": 280.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "53760531005803": {
+        "id": 53760531005803,
+        "title": "Mongoose / M",
+        "option1": "Mongoose",
+        "option2": "M",
+        "option3": null,
+        "sku": "X000010940009",
+        "price": 280.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "53760531038571": {
+        "id": 53760531038571,
+        "title": "Mongoose / L",
+        "option1": "Mongoose",
+        "option2": "L",
+        "option3": null,
+        "sku": "X000010940010",
         "price": 280.0,
         "available": false,
         "inventory_quantity": 0
@@ -8522,7 +8544,7 @@
     "title": "Arc'teryx Konseal Pullover Hoody Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-konseal-pullover-hoody-mens",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000008443-Konseal-Pullover-Hoody-Dk-Canvas-Front-View.jpg?v=1757792355",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000008443-Konseal-Pullover-Hoody-Dk-Canvas-Front-View.jpg?v=1787567921",
     "variants": {
       "52395051024747": {
         "id": 52395051024747,
@@ -8564,6 +8586,50 @@
         "option2": "XL",
         "option3": null,
         "sku": "X000008443042",
+        "price": 200.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "53760535200107": {
+        "id": 53760535200107,
+        "title": "Black / S",
+        "option1": "Black",
+        "option2": "S",
+        "option3": null,
+        "sku": "X000008443003",
+        "price": 200.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "53760535232875": {
+        "id": 53760535232875,
+        "title": "Black / M",
+        "option1": "Black",
+        "option2": "M",
+        "option3": null,
+        "sku": "X000008443004",
+        "price": 200.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "53760535265643": {
+        "id": 53760535265643,
+        "title": "Black / L",
+        "option1": "Black",
+        "option2": "L",
+        "option3": null,
+        "sku": "X000008443005",
+        "price": 200.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "53760535298411": {
+        "id": 53760535298411,
+        "title": "Black / XL",
+        "option1": "Black",
+        "option2": "XL",
+        "option3": null,
+        "sku": "X000008443006",
         "price": 200.0,
         "available": false,
         "inventory_quantity": 0
