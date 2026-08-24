@@ -1174,7 +1174,7 @@
     "title": "Arc'teryx Incendo Hybrid Hoody Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-incendo-hybrid-hoody-mens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S26-X000009286-Incendo-Hybrid-Hoody-Black-Front-View.jpg?v=1784299221",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S26-X000009286-Incendo-Hybrid-Hoody-Black-Front-View.jpg?v=1784299221",
     "variants": {
       "53564324315499": {
         "id": 53564324315499,
@@ -1185,7 +1185,7 @@
         "sku": "X000009286002",
         "price": 260.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": -1
       },
       "53564324348267": {
         "id": 53564324348267,
@@ -1196,7 +1196,7 @@
         "sku": "X000009286003",
         "price": 260.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": -1
       },
       "53564324381035": {
         "id": 53564324381035,
@@ -1207,7 +1207,7 @@
         "sku": "X000009286004",
         "price": 260.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": -1
       }
     }
   },
@@ -16219,6 +16219,28 @@
         "price": 299.99,
         "available": false,
         "inventory_quantity": -1
+      },
+      "53760428999019": {
+        "id": 53760428999019,
+        "title": "Alpine Rose / S",
+        "option1": "Alpine Rose",
+        "option2": "S",
+        "option3": null,
+        "sku": "X000009452179",
+        "price": 300.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "53760429031787": {
+        "id": 53760429031787,
+        "title": "Alpine Rose / M",
+        "option1": "Alpine Rose",
+        "option2": "M",
+        "option3": null,
+        "sku": "X000009452180",
+        "price": 300.0,
+        "available": false,
+        "inventory_quantity": 0
       }
     }
   }
