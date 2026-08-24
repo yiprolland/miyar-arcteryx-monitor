@@ -5725,9 +5725,9 @@
       },
       "53615929852267": {
         "id": 53615929852267,
-        "title": "Void/Cloud / 9 / US",
+        "title": "Void/Cloud / 9.5 / US",
         "option1": "Void/Cloud",
-        "option2": "9",
+        "option2": "9.5",
         "option3": "US",
         "sku": "X000009833049",
         "price": 220.0,
@@ -12148,7 +12148,7 @@
     "title": "Arc'teryx Mantis 26 Backpack",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-mantis-26-backpack",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S26-X000010643-Mantis-26-Backpack-Mallow-Moondrop-Front-View.jpg?v=1784299161",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S26-X000010643-Mantis-26-Backpack-Mallow-Moondrop-Front-View.jpg?v=1787572403",
     "variants": {
       "52253081239915": {
         "id": 52253081239915,
@@ -12201,6 +12201,28 @@
         "option2": null,
         "option3": null,
         "sku": "X000010643005",
+        "price": 160.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "53760620429675": {
+        "id": 53760620429675,
+        "title": "Stratus / Blk Sapphire",
+        "option1": "Stratus / Blk Sapphire",
+        "option2": null,
+        "option3": null,
+        "sku": "X000010643014",
+        "price": 160.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "53760620462443": {
+        "id": 53760620462443,
+        "title": "Dark Jade / Mongoose",
+        "option1": "Dark Jade / Mongoose",
+        "option2": null,
+        "option3": null,
+        "sku": "X000010643010",
         "price": 160.0,
         "available": false,
         "inventory_quantity": 0
