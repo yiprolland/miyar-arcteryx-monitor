@@ -1280,7 +1280,7 @@
     "title": "Arc'teryx Incendo Hybrid Hoody Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-incendo-hybrid-hoody-mens",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S26-X000009286-Incendo-Hybrid-Hoody-Black-Front-View.jpg?v=1784299221",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S26-X000009286-Incendo-Hybrid-Hoody-Black-Front-View.jpg?v=1784299221",
     "variants": {
       "53564324315499": {
         "id": 53564324315499,
@@ -1291,7 +1291,7 @@
         "sku": "X000009286002",
         "price": 260.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53564324348267": {
         "id": 53564324348267,
@@ -1302,7 +1302,7 @@
         "sku": "X000009286003",
         "price": 260.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53564324381035": {
         "id": 53564324381035,
@@ -1313,7 +1313,7 @@
         "sku": "X000009286004",
         "price": 260.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
