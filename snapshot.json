@@ -1565,7 +1565,7 @@
     "title": "Arc'teryx Beta Women's Jacket",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-beta-womens-jacket",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/ImageComingsoon_95ec361c-ea7e-4670-a1fb-3b64b14273f9.png?v=1784299210",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/ImageComingsoon_95ec361c-ea7e-4670-a1fb-3b64b14273f9.png?v=1784299210",
     "variants": {
       "53564323692907": {
         "id": 53564323692907,
@@ -1576,7 +1576,7 @@
         "sku": "X000010867016",
         "price": 400.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53564323725675": {
         "id": 53564323725675,
@@ -1587,7 +1587,7 @@
         "sku": "X000010867017",
         "price": 400.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53564323758443": {
         "id": 53564323758443,
@@ -1598,7 +1598,7 @@
         "sku": "X000010867018",
         "price": 400.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53564323791211": {
         "id": 53564323791211,
@@ -1609,7 +1609,7 @@
         "sku": "X000010867019",
         "price": 400.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
@@ -2165,7 +2165,7 @@
         "sku": "X000010606002",
         "price": 260.0,
         "available": false,
-        "inventory_quantity": -2
+        "inventory_quantity": 0
       },
       "53019479114091": {
         "id": 53019479114091,
@@ -2176,7 +2176,7 @@
         "sku": "X000010606003",
         "price": 260.0,
         "available": false,
-        "inventory_quantity": -4
+        "inventory_quantity": 0
       },
       "53019479146859": {
         "id": 53019479146859,
@@ -2187,7 +2187,7 @@
         "sku": "X000010606004",
         "price": 260.0,
         "available": false,
-        "inventory_quantity": -4
+        "inventory_quantity": 0
       },
       "53019479179627": {
         "id": 53019479179627,
