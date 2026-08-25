@@ -1353,7 +1353,7 @@
     "title": "Arc'teryx Verro 20 Backpack",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-verro-20-backpack",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/F26-X000011263-Verro-20-Backpack-Tatsu-Front.jpg?v=1787575014",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F26-X000011263-Verro-20-Backpack-Tatsu-Front.jpg?v=1787575014",
     "variants": {
       "53564324217195": {
         "id": 53564324217195,
@@ -1364,7 +1364,7 @@
         "sku": "X000011263003",
         "price": 200.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53760635502955": {
         "id": 53760635502955,
@@ -1375,7 +1375,7 @@
         "sku": "X000011263001",
         "price": 200.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -1395,7 +1395,7 @@
         "sku": "X000011062002",
         "price": 650.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53564324118891": {
         "id": 53564324118891,
@@ -1406,7 +1406,7 @@
         "sku": "X000011062003",
         "price": 650.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53564324151659": {
         "id": 53564324151659,
@@ -1417,7 +1417,7 @@
         "sku": "X000011062004",
         "price": 650.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53564324184427": {
         "id": 53564324184427,
@@ -1428,7 +1428,7 @@
         "sku": "X000011062005",
         "price": 650.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -1512,7 +1512,7 @@
     "title": "Arc'teryx Gamma Lightweight Men's Hoody",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-gamma-lightweight-mens-hoody",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/ImageComingsoon_5953c9f5-99a0-4354-b07a-bd1098369549.png?v=1784299212",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/ImageComingsoon_5953c9f5-99a0-4354-b07a-bd1098369549.png?v=1784299212",
     "variants": {
       "53564323823979": {
         "id": 53564323823979,
@@ -1523,7 +1523,7 @@
         "sku": "X000010895002",
         "price": 260.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53564323856747": {
         "id": 53564323856747,
@@ -1534,7 +1534,7 @@
         "sku": "X000010895003",
         "price": 260.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53564323889515": {
         "id": 53564323889515,
@@ -1545,7 +1545,7 @@
         "sku": "X000010895004",
         "price": 260.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53564323922283": {
         "id": 53564323922283,
@@ -1556,7 +1556,7 @@
         "sku": "X000010895005",
         "price": 260.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
