@@ -1108,7 +1108,7 @@
     "title": "Arc'teryx Kragg SL Cotton Bird Tile LS Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-kragg-sl-cotton-bird-tile-ls-mens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S26-X000009537-Kragg-SL-Cotton-Bird-Tile-Shirt-LS-Black-Arctic-Silk-Front-View.jpg?v=1784299225",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S26-X000009537-Kragg-SL-Cotton-Bird-Tile-Shirt-LS-Black-Arctic-Silk-Front-View.jpg?v=1784299225",
     "variants": {
       "53564324544875": {
         "id": 53564324544875,
@@ -1119,7 +1119,7 @@
         "sku": "X000009537002",
         "price": 80.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53564324577643": {
         "id": 53564324577643,
@@ -1130,7 +1130,7 @@
         "sku": "X000009537003",
         "price": 80.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53564324610411": {
         "id": 53564324610411,
@@ -1141,7 +1141,7 @@
         "sku": "X000009537004",
         "price": 80.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53564324643179": {
         "id": 53564324643179,
@@ -1152,7 +1152,7 @@
         "sku": "X000009537005",
         "price": 80.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53564324675947": {
         "id": 53564324675947,
@@ -1163,7 +1163,7 @@
         "sku": "X000009537040",
         "price": 80.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53564324708715": {
         "id": 53564324708715,
@@ -1174,7 +1174,7 @@
         "sku": "X000009537041",
         "price": 80.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53564324741483": {
         "id": 53564324741483,
@@ -1185,7 +1185,7 @@
         "sku": "X000009537045",
         "price": 80.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53564324774251": {
         "id": 53564324774251,
@@ -1196,7 +1196,7 @@
         "sku": "X000009537046",
         "price": 80.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53564324807019": {
         "id": 53564324807019,
@@ -1207,7 +1207,7 @@
         "sku": "X000009537047",
         "price": 80.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53564324839787": {
         "id": 53564324839787,
@@ -1218,7 +1218,7 @@
         "sku": "X000009537048",
         "price": 80.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -1227,7 +1227,7 @@
     "title": "Arc'teryx Gamma SL Short 11' Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-gamma-sl-short-11-mens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S26-X000009526-Gamma-SL-Short-11-Black-Front-View.jpg?v=1784299223",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S26-X000009526-Gamma-SL-Short-11-Black-Front-View.jpg?v=1784299223",
     "variants": {
       "53564324413803": {
         "id": 53564324413803,
@@ -1238,7 +1238,7 @@
         "sku": "X000009526004",
         "price": 120.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53564324446571": {
         "id": 53564324446571,
@@ -1249,7 +1249,7 @@
         "sku": "X000009526008",
         "price": 120.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53564324479339": {
         "id": 53564324479339,
@@ -1260,7 +1260,7 @@
         "sku": "X000009526009",
         "price": 120.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53564324512107": {
         "id": 53564324512107,
@@ -1271,7 +1271,7 @@
         "sku": "X000009526010",
         "price": 120.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -9571,7 +9571,7 @@
     "title": "Arc'teryx Cormac Crew Neck Shirt SS Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-cormac-crew-neck-shirt-ss-mens",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S25-X000009718-Cormac-Crew-Neck-Shirt-SS-Tatsu-Heather-Front-View.jpg?v=1749476413",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S25-X000009718-Cormac-Crew-Neck-Shirt-SS-Tatsu-Heather-Front-View.jpg?v=1749476413",
     "variants": {
       "51996155249003": {
         "id": 51996155249003,
@@ -9582,7 +9582,7 @@
         "sku": "X000009718056",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "51996155281771": {
         "id": 51996155281771,
@@ -9593,7 +9593,7 @@
         "sku": "X000009718057",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "51996155314539": {
         "id": 51996155314539,
@@ -9604,7 +9604,7 @@
         "sku": "X000009718058",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "51996155347307": {
         "id": 51996155347307,
@@ -9615,7 +9615,7 @@
         "sku": "X000009718059",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "51996155380075": {
         "id": 51996155380075,
@@ -9626,7 +9626,7 @@
         "sku": "X000009718008",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "51996155412843": {
         "id": 51996155412843,
@@ -9637,7 +9637,7 @@
         "sku": "X000009718009",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "51996155445611": {
         "id": 51996155445611,
@@ -9648,7 +9648,7 @@
         "sku": "X000009718010",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "51996155478379": {
         "id": 51996155478379,
@@ -9659,7 +9659,7 @@
         "sku": "X000009718011",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52040021901675": {
         "id": 52040021901675,
@@ -9670,7 +9670,7 @@
         "sku": "X000009718050",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52040021934443": {
         "id": 52040021934443,
@@ -9681,7 +9681,7 @@
         "sku": "X000009718051",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52040021967211": {
         "id": 52040021967211,
@@ -9692,7 +9692,7 @@
         "sku": "X000009718052",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52111606055275": {
         "id": 52111606055275,
@@ -9703,7 +9703,7 @@
         "sku": "X000009718003",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52111606088043": {
         "id": 52111606088043,
@@ -9714,7 +9714,7 @@
         "sku": "X000009718004",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "52111606120811": {
         "id": 52111606120811,
@@ -9725,7 +9725,7 @@
         "sku": "X000009718005",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
@@ -12373,7 +12373,7 @@
     "title": "Arc'teryx Mantis 16 Backpack",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-mantis-16-backpack",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S25-X000006136-Mantis-16-Backpack-Trail-Magic-Front_55fd2a7b-75af-4aaa-b90b-7b9e435df8b9.jpg?v=1784299159",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S25-X000006136-Mantis-16-Backpack-Trail-Magic-Front_55fd2a7b-75af-4aaa-b90b-7b9e435df8b9.jpg?v=1784299159",
     "variants": {
       "51996155773291": {
         "id": 51996155773291,
@@ -12384,7 +12384,7 @@
         "sku": "X000006136024",
         "price": 130.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53564321333611": {
         "id": 53564321333611,
@@ -12395,7 +12395,7 @@
         "sku": "X000010636002",
         "price": 130.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53564321366379": {
         "id": 53564321366379,
@@ -12406,7 +12406,7 @@
         "sku": "X000010636009",
         "price": 130.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53564321399147": {
         "id": 53564321399147,
@@ -12417,7 +12417,7 @@
         "sku": "X000010636012",
         "price": 130.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53760591659371": {
         "id": 53760591659371,
@@ -12428,7 +12428,7 @@
         "sku": "X000010636013",
         "price": 130.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
