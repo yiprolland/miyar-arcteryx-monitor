@@ -1353,7 +1353,7 @@
     "title": "Arc'teryx Verro 20 Backpack",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-verro-20-backpack",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F26-X000011263-Verro-20-Backpack-Tatsu-Front.jpg?v=1787575014",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/F26-X000011263-Verro-20-Backpack-Tatsu-Front.jpg?v=1787575014",
     "variants": {
       "53564324217195": {
         "id": 53564324217195,
@@ -1364,7 +1364,7 @@
         "sku": "X000011263003",
         "price": 200.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53760635502955": {
         "id": 53760635502955,
@@ -1375,7 +1375,7 @@
         "sku": "X000011263001",
         "price": 200.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
