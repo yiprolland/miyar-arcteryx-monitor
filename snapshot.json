@@ -1395,7 +1395,7 @@
         "sku": "X000011062002",
         "price": 650.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53564324118891": {
         "id": 53564324118891,
@@ -1406,7 +1406,7 @@
         "sku": "X000011062003",
         "price": 650.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53564324151659": {
         "id": 53564324151659,
@@ -1417,7 +1417,7 @@
         "sku": "X000011062004",
         "price": 650.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53564324184427": {
         "id": 53564324184427,
@@ -1428,7 +1428,7 @@
         "sku": "X000011062005",
         "price": 650.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
@@ -1437,7 +1437,7 @@
     "title": "Arc'teryx Gamma Men's Jacket",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-gamma-mens-jacket",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F26-X000010940-Gamma-Jacket-Black.jpg?v=1787567358",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/F26-X000010940-Gamma-Jacket-Black.jpg?v=1787567358",
     "variants": {
       "53564323955051": {
         "id": 53564323955051,
@@ -1448,7 +1448,7 @@
         "sku": "X000010940002",
         "price": 280.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53564323987819": {
         "id": 53564323987819,
@@ -1459,7 +1459,7 @@
         "sku": "X000010940003",
         "price": 280.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53564324020587": {
         "id": 53564324020587,
@@ -1470,7 +1470,7 @@
         "sku": "X000010940004",
         "price": 280.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53564324053355": {
         "id": 53564324053355,
@@ -1481,7 +1481,7 @@
         "sku": "X000010940005",
         "price": 280.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53760531005803": {
         "id": 53760531005803,
@@ -1492,7 +1492,7 @@
         "sku": "X000010940009",
         "price": 280.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53760531038571": {
         "id": 53760531038571,
@@ -1503,7 +1503,7 @@
         "sku": "X000010940010",
         "price": 280.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
@@ -1565,7 +1565,7 @@
     "title": "Arc'teryx Beta Women's Jacket",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-beta-womens-jacket",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/ImageComingsoon_95ec361c-ea7e-4670-a1fb-3b64b14273f9.png?v=1784299210",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/ImageComingsoon_95ec361c-ea7e-4670-a1fb-3b64b14273f9.png?v=1784299210",
     "variants": {
       "53564323692907": {
         "id": 53564323692907,
@@ -1576,7 +1576,7 @@
         "sku": "X000010867016",
         "price": 400.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53564323725675": {
         "id": 53564323725675,
@@ -1587,7 +1587,7 @@
         "sku": "X000010867017",
         "price": 400.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53564323758443": {
         "id": 53564323758443,
@@ -1598,7 +1598,7 @@
         "sku": "X000010867018",
         "price": 400.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53564323791211": {
         "id": 53564323791211,
@@ -1609,7 +1609,7 @@
         "sku": "X000010867019",
         "price": 400.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
