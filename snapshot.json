@@ -9445,7 +9445,7 @@
     "title": "Arc'teryx Gamma SL Pant Women's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-gamma-sl-pant-womens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S25-X000010034-Gamma-SL-Pant-Black-Women-s-Front-View.jpg?v=1754400835",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S25-X000010034-Gamma-SL-Pant-Black-Women-s-Front-View.jpg?v=1754400835",
     "variants": {
       "52253085434219": {
         "id": 52253085434219,
@@ -9456,7 +9456,7 @@
         "sku": "X000010034011",
         "price": 160.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -9465,7 +9465,7 @@
     "title": "Arc'teryx Women's Atom Jacket",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-womens-atom-jacket",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009855-Atom-Jacket-Arctic-Silk-Women-s_125c533f-bc68-4cca-9597-b8ce27451722.jpg?v=1784299173",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009855-Atom-Jacket-Arctic-Silk-Women-s_125c533f-bc68-4cca-9597-b8ce27451722.jpg?v=1784299173",
     "variants": {
       "52253085303147": {
         "id": 52253085303147,
@@ -9476,7 +9476,7 @@
         "sku": "X000009855009",
         "price": 280.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52253085335915": {
         "id": 52253085335915,
@@ -9487,7 +9487,7 @@
         "sku": "X000009855010",
         "price": 280.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52253085368683": {
         "id": 52253085368683,
@@ -9498,7 +9498,7 @@
         "sku": "X000009855011",
         "price": 280.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52253085401451": {
         "id": 52253085401451,
@@ -9509,7 +9509,7 @@
         "sku": "X000009855012",
         "price": 280.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53564321825131": {
         "id": 53564321825131,
@@ -9520,7 +9520,7 @@
         "sku": "X000009855017",
         "price": 280.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53564321857899": {
         "id": 53564321857899,
@@ -9531,7 +9531,7 @@
         "sku": "X000009855018",
         "price": 280.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -9540,7 +9540,7 @@
     "title": "Arc'teryx Elec Insulated Jacket Women's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-elec-insulated-jacket-womens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009512-Elec-Insulated-Jacket-Arctic-Silk-Women-s-Front-View.avif?v=1765911031",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009512-Elec-Insulated-Jacket-Arctic-Silk-Women-s-Front-View.avif?v=1765911031",
     "variants": {
       "52253083074923": {
         "id": 52253083074923,
@@ -9551,7 +9551,7 @@
         "sku": "X000009512003",
         "price": 300.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52253083107691": {
         "id": 52253083107691,
@@ -9562,7 +9562,7 @@
         "sku": "X000009512004",
         "price": 300.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52253083140459": {
         "id": 52253083140459,
@@ -9573,7 +9573,7 @@
         "sku": "X000009512005",
         "price": 300.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52253083173227": {
         "id": 52253083173227,
@@ -9584,7 +9584,7 @@
         "sku": "X000009512006",
         "price": 300.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
