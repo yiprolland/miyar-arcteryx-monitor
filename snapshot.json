@@ -1108,7 +1108,7 @@
     "title": "Arc'teryx Kragg SL Cotton Bird Tile LS Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-kragg-sl-cotton-bird-tile-ls-mens",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S26-X000009537-Kragg-SL-Cotton-Bird-Tile-Shirt-LS-Black-Arctic-Silk-Front-View.jpg?v=1784299225",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S26-X000009537-Kragg-SL-Cotton-Bird-Tile-Shirt-LS-Black-Arctic-Silk-Front-View.jpg?v=1784299225",
     "variants": {
       "53564324544875": {
         "id": 53564324544875,
@@ -1119,7 +1119,7 @@
         "sku": "X000009537002",
         "price": 80.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53564324577643": {
         "id": 53564324577643,
@@ -1130,7 +1130,7 @@
         "sku": "X000009537003",
         "price": 80.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53564324610411": {
         "id": 53564324610411,
@@ -1141,7 +1141,7 @@
         "sku": "X000009537004",
         "price": 80.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53564324643179": {
         "id": 53564324643179,
@@ -1152,7 +1152,7 @@
         "sku": "X000009537005",
         "price": 80.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53564324675947": {
         "id": 53564324675947,
@@ -1163,7 +1163,7 @@
         "sku": "X000009537040",
         "price": 80.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53564324708715": {
         "id": 53564324708715,
@@ -1174,7 +1174,7 @@
         "sku": "X000009537041",
         "price": 80.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53564324741483": {
         "id": 53564324741483,
@@ -1185,7 +1185,7 @@
         "sku": "X000009537045",
         "price": 80.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53564324774251": {
         "id": 53564324774251,
@@ -1196,7 +1196,7 @@
         "sku": "X000009537046",
         "price": 80.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53564324807019": {
         "id": 53564324807019,
@@ -1207,7 +1207,7 @@
         "sku": "X000009537047",
         "price": 80.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53564324839787": {
         "id": 53564324839787,
@@ -1218,7 +1218,7 @@
         "sku": "X000009537048",
         "price": 80.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
@@ -6794,7 +6794,7 @@
     "title": "Arc'teryx Andessa Down Jacket Women's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-andessa-down-jacket-womens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/unnamed_5_97265de8-3079-44ba-baeb-bbca00c44614.png?v=1762275105",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/unnamed_5_97265de8-3079-44ba-baeb-bbca00c44614.png?v=1762275105",
     "variants": {
       "52519586562411": {
         "id": 52519586562411,
@@ -6805,7 +6805,7 @@
         "sku": "X000009948010",
         "price": 1100.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52519586595179": {
         "id": 52519586595179,
@@ -6816,7 +6816,7 @@
         "sku": "X000009948011",
         "price": 1100.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52519586627947": {
         "id": 52519586627947,
@@ -6827,7 +6827,7 @@
         "sku": "X000009948012",
         "price": 1100.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52519586660715": {
         "id": 52519586660715,
@@ -6838,7 +6838,7 @@
         "sku": "X000009948013",
         "price": 1100.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -7546,7 +7546,7 @@
     "title": "Arc'teryx Alpha SV Jacket Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-alpha-sv-jacket-mens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009989-Alpha-SV-Jacket-24K-Black-Front-View_ee69abb9-5257-44ba-afa5-0a5299c00812.jpg?v=1773938995",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009989-Alpha-SV-Jacket-24K-Black-Front-View_ee69abb9-5257-44ba-afa5-0a5299c00812.jpg?v=1773938995",
     "variants": {
       "52441145966955": {
         "id": 52441145966955,
@@ -7557,7 +7557,7 @@
         "sku": "X000009899021",
         "price": 900.0,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       },
       "52441145999723": {
         "id": 52441145999723,
@@ -7568,7 +7568,7 @@
         "sku": "X000009899022",
         "price": 900.0,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       },
       "52441146032491": {
         "id": 52441146032491,
@@ -7579,7 +7579,7 @@
         "sku": "X000009899023",
         "price": 900.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52441146065259": {
         "id": 52441146065259,
@@ -7590,7 +7590,7 @@
         "sku": "X000009899024",
         "price": 900.0,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       },
       "52395051549035": {
         "id": 52395051549035,
@@ -7601,7 +7601,7 @@
         "sku": "X000009899004",
         "price": 900.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52395051581803": {
         "id": 52395051581803,
@@ -7612,7 +7612,7 @@
         "sku": "X000009899005",
         "price": 900.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52395051614571": {
         "id": 52395051614571,
@@ -7623,7 +7623,7 @@
         "sku": "X000009899006",
         "price": 900.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52941140296043": {
         "id": 52941140296043,
@@ -7634,7 +7634,7 @@
         "sku": "X000009899003",
         "price": 900.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52941140328811": {
         "id": 52941140328811,
@@ -7645,7 +7645,7 @@
         "sku": "X000009899046",
         "price": 900.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52941140361579": {
         "id": 52941140361579,
@@ -7656,7 +7656,7 @@
         "sku": "X000009899047",
         "price": 900.0,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       },
       "53019477475691": {
         "id": 53019477475691,
@@ -7667,7 +7667,7 @@
         "sku": "X000009899045",
         "price": 900.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53019477508459": {
         "id": 53019477508459,
@@ -7678,7 +7678,7 @@
         "sku": "X000009899048",
         "price": 900.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -8694,7 +8694,7 @@
     "title": "Arc'teryx Konseal Pullover Hoody Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-konseal-pullover-hoody-mens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/F25-X000008443-Konseal-Pullover-Hoody-Dk-Canvas-Front-View.jpg?v=1787567921",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000008443-Konseal-Pullover-Hoody-Dk-Canvas-Front-View.jpg?v=1787567921",
     "variants": {
       "52395051024747": {
         "id": 52395051024747,
@@ -8705,7 +8705,7 @@
         "sku": "X000008443039",
         "price": 200.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52395051057515": {
         "id": 52395051057515,
@@ -8716,7 +8716,7 @@
         "sku": "X000008443040",
         "price": 200.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52395051090283": {
         "id": 52395051090283,
@@ -8727,7 +8727,7 @@
         "sku": "X000008443041",
         "price": 200.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52395051123051": {
         "id": 52395051123051,
@@ -8738,7 +8738,7 @@
         "sku": "X000008443042",
         "price": 200.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53760535200107": {
         "id": 53760535200107,
@@ -8749,7 +8749,7 @@
         "sku": "X000008443003",
         "price": 200.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53760535232875": {
         "id": 53760535232875,
@@ -8760,7 +8760,7 @@
         "sku": "X000008443004",
         "price": 200.0,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       },
       "53760535265643": {
         "id": 53760535265643,
@@ -8771,7 +8771,7 @@
         "sku": "X000008443005",
         "price": 200.0,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       },
       "53760535298411": {
         "id": 53760535298411,
@@ -8782,7 +8782,7 @@
         "sku": "X000008443006",
         "price": 200.0,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       }
     }
   },
@@ -9593,7 +9593,7 @@
     "title": "Arc'teryx Cormac Crew Neck Shirt SS Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-cormac-crew-neck-shirt-ss-mens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S25-X000009718-Cormac-Crew-Neck-Shirt-SS-Tatsu-Heather-Front-View.jpg?v=1749476413",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S25-X000009718-Cormac-Crew-Neck-Shirt-SS-Tatsu-Heather-Front-View.jpg?v=1749476413",
     "variants": {
       "51996155249003": {
         "id": 51996155249003,
@@ -9604,7 +9604,7 @@
         "sku": "X000009718056",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51996155281771": {
         "id": 51996155281771,
@@ -9615,7 +9615,7 @@
         "sku": "X000009718057",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51996155314539": {
         "id": 51996155314539,
@@ -9626,7 +9626,7 @@
         "sku": "X000009718058",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51996155347307": {
         "id": 51996155347307,
@@ -9637,7 +9637,7 @@
         "sku": "X000009718059",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51996155380075": {
         "id": 51996155380075,
@@ -9648,7 +9648,7 @@
         "sku": "X000009718008",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51996155412843": {
         "id": 51996155412843,
@@ -9659,7 +9659,7 @@
         "sku": "X000009718009",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51996155445611": {
         "id": 51996155445611,
@@ -9670,7 +9670,7 @@
         "sku": "X000009718010",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51996155478379": {
         "id": 51996155478379,
@@ -9681,7 +9681,7 @@
         "sku": "X000009718011",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52040021901675": {
         "id": 52040021901675,
@@ -9692,7 +9692,7 @@
         "sku": "X000009718050",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52040021934443": {
         "id": 52040021934443,
@@ -9703,7 +9703,7 @@
         "sku": "X000009718051",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52040021967211": {
         "id": 52040021967211,
@@ -9714,7 +9714,7 @@
         "sku": "X000009718052",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52111606055275": {
         "id": 52111606055275,
@@ -9725,7 +9725,7 @@
         "sku": "X000009718003",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52111606088043": {
         "id": 52111606088043,
@@ -9736,7 +9736,7 @@
         "sku": "X000009718004",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52111606120811": {
         "id": 52111606120811,
@@ -9747,7 +9747,7 @@
         "sku": "X000009718005",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
