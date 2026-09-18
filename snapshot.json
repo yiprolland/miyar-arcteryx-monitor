@@ -5653,7 +5653,7 @@
         "sku": "X000009834005",
         "price": 190.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": -1
       },
       "52778012934507": {
         "id": 52778012934507,
@@ -5697,7 +5697,7 @@
         "sku": "X000009834009",
         "price": 190.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": -1
       },
       "52778013065579": {
         "id": 52778013065579,
