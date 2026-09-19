@@ -2338,8 +2338,8 @@
         "option3": null,
         "sku": "X000010293022",
         "price": 80.0,
-        "available": true,
-        "inventory_quantity": 1
+        "available": false,
+        "inventory_quantity": 0
       },
       "53019479015787": {
         "id": 53019479015787,
@@ -2695,8 +2695,8 @@
         "option3": null,
         "sku": "X000006816081",
         "price": 90.0,
-        "available": true,
-        "inventory_quantity": 1
+        "available": false,
+        "inventory_quantity": 0
       },
       "53019478425963": {
         "id": 53019478425963,
@@ -5609,7 +5609,7 @@
         "sku": "X000009834001",
         "price": 190.0,
         "available": true,
-        "inventory_quantity": 3
+        "inventory_quantity": 1
       },
       "52928876904811": {
         "id": 52928876904811,
@@ -5653,7 +5653,7 @@
         "sku": "X000009834005",
         "price": 190.0,
         "available": false,
-        "inventory_quantity": -1
+        "inventory_quantity": 0
       },
       "52778012934507": {
         "id": 52778012934507,
@@ -5663,8 +5663,8 @@
         "option3": "US",
         "sku": "X000009834006",
         "price": 190.0,
-        "available": true,
-        "inventory_quantity": 1
+        "available": false,
+        "inventory_quantity": 0
       },
       "52778012967275": {
         "id": 52778012967275,
@@ -5697,7 +5697,7 @@
         "sku": "X000009834009",
         "price": 190.0,
         "available": false,
-        "inventory_quantity": -1
+        "inventory_quantity": 0
       },
       "52778013065579": {
         "id": 52778013065579,
@@ -5707,8 +5707,8 @@
         "option3": "US",
         "sku": "X000009834010",
         "price": 190.0,
-        "available": true,
-        "inventory_quantity": 1
+        "available": false,
+        "inventory_quantity": 0
       }
     }
   },
@@ -5783,7 +5783,7 @@
         "sku": "X000009833006",
         "price": 220.0,
         "available": true,
-        "inventory_quantity": 6
+        "inventory_quantity": 5
       },
       "52884896940395": {
         "id": 52884896940395,
