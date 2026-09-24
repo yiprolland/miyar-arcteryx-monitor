@@ -1,4 +1,24 @@
 {
+  "arcteryx-skaha-harness": {
+    "handle": "arcteryx-skaha-harness",
+    "title": "Arc'teryx Skaha Harness",
+    "vendor": "Arc'teryx",
+    "url": "https://store.miyaradventures.com/products/arcteryx-skaha-harness",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F26-X000009655-Skaha-Harness-Lampyre-Boxcar-Front.jpg?v=1790270780",
+    "variants": {
+      "53904598204779": {
+        "id": 53904598204779,
+        "title": "Lampyre / Boxcar / L",
+        "option1": "Lampyre / Boxcar",
+        "option2": "L",
+        "option3": null,
+        "sku": "X000009655004",
+        "price": 180.0,
+        "available": false,
+        "inventory_quantity": 0
+      }
+    }
+  },
   "arcteryx-macai-down-jacket-mens": {
     "handle": "arcteryx-macai-down-jacket-mens",
     "title": "Arc'teryx Macai Down Jacket Men's",
@@ -10321,7 +10341,7 @@
     "title": "Arc'teryx Women's Atom Jacket",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-womens-atom-jacket",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009855-Atom-Jacket-Arctic-Silk-Women-s_125c533f-bc68-4cca-9597-b8ce27451722.jpg?v=1784299173",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009855-Atom-Jacket-Arctic-Silk-Women-s.jpg?v=1790269995",
     "variants": {
       "52253085303147": {
         "id": 52253085303147,
@@ -10385,6 +10405,28 @@
         "option2": "M",
         "option3": null,
         "sku": "X000009855018",
+        "price": 280.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "53904571400555": {
+        "id": 53904571400555,
+        "title": "Arctic Silk II / S",
+        "option1": "Arctic Silk II",
+        "option2": "S",
+        "option3": null,
+        "sku": "X000009855052",
+        "price": 280.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "53904571433323": {
+        "id": 53904571433323,
+        "title": "Arctic Silk II / M",
+        "option1": "Arctic Silk II",
+        "option2": "M",
+        "option3": null,
+        "sku": "X000009855053",
         "price": 280.0,
         "available": false,
         "inventory_quantity": 0
@@ -17191,7 +17233,7 @@
     "title": "Arc'teryx Atom Hoody Women's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-atom-hoody-womens-1",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S25-X000009452-Atom-Hoody-Alpenglow-Women-s-Front-View_38788ad7-3d8d-4cc4-9b45-52e4cb5c4dd3.jpg?v=1790172833",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S25-X000009452-Atom-Hoody-Alpenglow-Women-s-Front-View.jpg?v=1790269529",
     "variants": {
       "51938059845995": {
         "id": 51938059845995,
@@ -17567,6 +17609,28 @@
         "available": false,
         "inventory_quantity": 0
       },
+      "53899411816811": {
+        "id": 53899411816811,
+        "title": "Arctic Silk / XS",
+        "option1": "Arctic Silk",
+        "option2": "XS",
+        "option3": null,
+        "sku": "X000009452010",
+        "price": 300.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "53899411849579": {
+        "id": 53899411849579,
+        "title": "Arctic Silk / S",
+        "option1": "Arctic Silk",
+        "option2": "S",
+        "option3": null,
+        "sku": "X000009452011",
+        "price": 300.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
       "53564320973163": {
         "id": 53564320973163,
         "title": "Arctic Silk / M",
@@ -17622,24 +17686,46 @@
         "available": false,
         "inventory_quantity": 0
       },
-      "53899411816811": {
-        "id": 53899411816811,
-        "title": "Arctic Silk / XS",
-        "option1": "Arctic Silk",
+      "53904559538539": {
+        "id": 53904559538539,
+        "title": "Arctic Silk II / XS",
+        "option1": "Arctic Silk II",
         "option2": "XS",
         "option3": null,
-        "sku": "X000009452010",
+        "sku": "X000009452262",
         "price": 300.0,
         "available": false,
         "inventory_quantity": 0
       },
-      "53899411849579": {
-        "id": 53899411849579,
-        "title": "Arctic Silk / S",
-        "option1": "Arctic Silk",
+      "53904559571307": {
+        "id": 53904559571307,
+        "title": "Arctic Silk II / S",
+        "option1": "Arctic Silk II",
         "option2": "S",
         "option3": null,
-        "sku": "X000009452011",
+        "sku": "X000009452263",
+        "price": 300.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "53904559604075": {
+        "id": 53904559604075,
+        "title": "Arctic Silk II / M",
+        "option1": "Arctic Silk II",
+        "option2": "M",
+        "option3": null,
+        "sku": "X000009452264",
+        "price": 300.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "53904559636843": {
+        "id": 53904559636843,
+        "title": "Arctic Silk II / L",
+        "option1": "Arctic Silk II",
+        "option2": "L",
+        "option3": null,
+        "sku": "X000009452265",
         "price": 300.0,
         "available": false,
         "inventory_quantity": 0
