@@ -1,4 +1,24 @@
 {
+  "arcteryx-quintic-16-backpack": {
+    "handle": "arcteryx-quintic-16-backpack",
+    "title": "Arc'teryx Quintic 16 Backpack",
+    "vendor": "Arc'teryx",
+    "url": "https://store.miyaradventures.com/products/arcteryx-quintic-16-backpack",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/ImageComingsoon_214d6d64-62eb-45a7-95f0-21fe8d0ee315.png?v=1790271238",
+    "variants": {
+      "53904603414891": {
+        "id": 53904603414891,
+        "title": "Ultima",
+        "option1": "Ultima",
+        "option2": null,
+        "option3": null,
+        "sku": "X000010720002",
+        "price": 230.0,
+        "available": false,
+        "inventory_quantity": 0
+      }
+    }
+  },
   "arcteryx-skaha-harness": {
     "handle": "arcteryx-skaha-harness",
     "title": "Arc'teryx Skaha Harness",
@@ -5918,8 +5938,8 @@
         "option3": null,
         "sku": "X000009640050",
         "price": 140.0,
-        "available": true,
-        "inventory_quantity": 1
+        "available": false,
+        "inventory_quantity": 0
       },
       "53271569564011": {
         "id": 53271569564011,
