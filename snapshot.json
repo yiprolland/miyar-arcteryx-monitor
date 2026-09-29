@@ -974,7 +974,7 @@
     "title": "Arc'teryx Kopec 2 Mid GTX Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-kopec-2-mid-gtx-mens",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/ImageComingsoon_85b6f3c5-3d7a-494d-9fe5-0fc199e44704.png?v=1785441094",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F26-X000010832-Kopec-2-Mid-GTX-Boot-Black-Black-Pair.jpg?v=1790666713",
     "variants": {
       "53615932146027": {
         "id": 53615932146027,
@@ -7592,8 +7592,8 @@
         "option3": null,
         "sku": "X000009939020",
         "price": 200.0,
-        "available": true,
-        "inventory_quantity": 1
+        "available": false,
+        "inventory_quantity": 0
       }
     }
   },
