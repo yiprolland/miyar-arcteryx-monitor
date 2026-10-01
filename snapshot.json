@@ -335,8 +335,8 @@
         "option3": null,
         "sku": "X000010868030",
         "price": 400.0,
-        "available": true,
-        "inventory_quantity": 1
+        "available": false,
+        "inventory_quantity": 0
       },
       "53899416928619": {
         "id": 53899416928619,
@@ -346,8 +346,8 @@
         "option3": null,
         "sku": "X000010868031",
         "price": 400.0,
-        "available": true,
-        "inventory_quantity": 2
+        "available": false,
+        "inventory_quantity": 0
       },
       "53899416961387": {
         "id": 53899416961387,
@@ -357,8 +357,8 @@
         "option3": null,
         "sku": "X000010868032",
         "price": 400.0,
-        "available": true,
-        "inventory_quantity": 1
+        "available": false,
+        "inventory_quantity": 0
       }
     }
   },
@@ -2314,7 +2314,7 @@
     "title": "Arc'teryx Gamma Lightweight Men's Hoody",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-gamma-lightweight-mens-hoody",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/ImageComingsoon_5953c9f5-99a0-4354-b07a-bd1098369549.png?v=1784299212",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/unnamed_21_4fa879cc-b9bb-43af-8ba5-cbfeca0b8ee3.png?v=1790850612",
     "variants": {
       "53564323823979": {
         "id": 53564323823979,
@@ -2367,7 +2367,7 @@
     "title": "Arc'teryx Beta Women's Jacket",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-beta-womens-jacket",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/ImageComingsoon_f45a7341-19ef-4528-981a-cd2ed09f143e.png?v=1790172856",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F26-X000010869-Beta-Jacket-Black-Women-s-Front-View_0099f22d-9a63-4d4f-b5e2-8c5b22e025ad.jpg?v=1790849983",
     "variants": {
       "53564323692907": {
         "id": 53564323692907,
@@ -2583,7 +2583,7 @@
     "title": "Arc'teryx Axios 4 Crossbody",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-axios-4-crossbody",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/ImageComingsoon_717b60b3-4ea9-45ad-bd44-9f56f82e90fd.png?v=1784299206",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/unnamed_23_69b162fd-ad57-4b5d-8fc3-3536869dab65.png?v=1790851414",
     "variants": {
       "53564323299691": {
         "id": 53564323299691,
@@ -3163,7 +3163,7 @@
     "title": "Arc'teryx Cormac Logo Shirt SS Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-cormac-logo-shirt-ss-mens",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S26-X000010293-Cormac-Logo-Shirt-SS-Black-Front-View.jpg?v=1784299200",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S26-X000010293-Cormac-Logo-Shirt-SS-Black-Front-View_87269cce-ee3c-4558-95a6-d42d9df65c9c.jpg?v=1790851760",
     "variants": {
       "53019478950251": {
         "id": 53019478950251,
@@ -6662,7 +6662,7 @@
         "sku": "X000009833005",
         "price": 220.0,
         "available": true,
-        "inventory_quantity": 3
+        "inventory_quantity": 2
       },
       "52778012737899": {
         "id": 52778012737899,
@@ -9273,7 +9273,7 @@
         "sku": "X000009902005",
         "price": 350.0,
         "available": true,
-        "inventory_quantity": 5
+        "inventory_quantity": 4
       },
       "52395051745643": {
         "id": 52395051745643,
