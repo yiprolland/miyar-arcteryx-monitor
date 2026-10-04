@@ -3913,8 +3913,8 @@
         "option3": "US",
         "sku": "X000010155118",
         "price": 220.0,
-        "available": true,
-        "inventory_quantity": 1
+        "available": false,
+        "inventory_quantity": 0
       },
       "53800323416427": {
         "id": 53800323416427,
