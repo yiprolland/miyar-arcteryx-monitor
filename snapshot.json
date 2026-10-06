@@ -1729,7 +1729,7 @@
     "title": "Arc'teryx Konseal 15 Backpack",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-konseal-15-backpack",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/F26-X000010718-Konseal-15-Backpack-Nucleus-Front.jpg?v=1790172859",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F26-X000010718-Konseal-15-Backpack-Nucleus-Front.jpg?v=1790172859",
     "variants": {
       "53899415093611": {
         "id": 53899415093611,
@@ -1740,7 +1740,7 @@
         "sku": "X000010718004",
         "price": 100.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -1866,7 +1866,7 @@
     "title": "Arc'teryx Kragg SL Cotton Bird Tile LS Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-kragg-sl-cotton-bird-tile-ls-mens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S26-X000009537-Kragg-SL-Cotton-Bird-Tile-Shirt-LS-Black-Arctic-Silk-Front-View.jpg?v=1784299225",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S26-X000009537-Kragg-SL-Cotton-Bird-Tile-Shirt-LS-Black-Arctic-Silk-Front-View.jpg?v=1784299225",
     "variants": {
       "53564324544875": {
         "id": 53564324544875,
@@ -1877,7 +1877,7 @@
         "sku": "X000009537002",
         "price": 80.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53564324577643": {
         "id": 53564324577643,
@@ -1888,7 +1888,7 @@
         "sku": "X000009537003",
         "price": 80.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53564324610411": {
         "id": 53564324610411,
@@ -1899,7 +1899,7 @@
         "sku": "X000009537004",
         "price": 80.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53564324643179": {
         "id": 53564324643179,
@@ -1910,7 +1910,7 @@
         "sku": "X000009537005",
         "price": 80.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53564324675947": {
         "id": 53564324675947,
@@ -1921,7 +1921,7 @@
         "sku": "X000009537040",
         "price": 80.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53564324708715": {
         "id": 53564324708715,
@@ -1932,7 +1932,7 @@
         "sku": "X000009537041",
         "price": 80.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53564324741483": {
         "id": 53564324741483,
@@ -1943,7 +1943,7 @@
         "sku": "X000009537045",
         "price": 80.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53564324774251": {
         "id": 53564324774251,
@@ -1954,7 +1954,7 @@
         "sku": "X000009537046",
         "price": 80.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53564324807019": {
         "id": 53564324807019,
@@ -1965,7 +1965,7 @@
         "sku": "X000009537047",
         "price": 80.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53564324839787": {
         "id": 53564324839787,
@@ -1976,7 +1976,7 @@
         "sku": "X000009537048",
         "price": 80.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
