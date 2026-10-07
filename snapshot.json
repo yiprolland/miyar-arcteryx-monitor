@@ -240,8 +240,8 @@
         "option3": null,
         "sku": "X000010936003",
         "price": 140.0,
-        "available": false,
-        "inventory_quantity": 0
+        "available": true,
+        "inventory_quantity": 2
       },
       "53899417354603": {
         "id": 53899417354603,
@@ -251,8 +251,8 @@
         "option3": null,
         "sku": "X000010936004",
         "price": 140.0,
-        "available": false,
-        "inventory_quantity": 0
+        "available": true,
+        "inventory_quantity": 2
       },
       "53899417387371": {
         "id": 53899417387371,
@@ -262,8 +262,8 @@
         "option3": null,
         "sku": "X000010936005",
         "price": 140.0,
-        "available": false,
-        "inventory_quantity": 0
+        "available": true,
+        "inventory_quantity": 1
       }
     }
   },
@@ -843,8 +843,8 @@
         "option3": null,
         "sku": "X000010546053",
         "price": 450.0,
-        "available": false,
-        "inventory_quantity": 0
+        "available": true,
+        "inventory_quantity": 1
       },
       "53899415486827": {
         "id": 53899415486827,
@@ -877,7 +877,7 @@
         "sku": "X000010546055",
         "price": 450.0,
         "available": true,
-        "inventory_quantity": 1
+        "inventory_quantity": 2
       }
     }
   },
@@ -6995,7 +6995,7 @@
     "title": "Arc'teryx Alpha FL 30 Backpack",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-alpha-fl-30-backpack",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/fl30.avif?v=1774898274",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/fl30.avif?v=1774898274",
     "variants": {
       "52777645375851": {
         "id": 52777645375851,
@@ -7006,7 +7006,7 @@
         "sku": "X000010349001",
         "price": 280.0,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       }
     }
   },
@@ -7333,7 +7333,7 @@
     "title": "Arc'teryx Venta GTX Glove",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-venta-gtx-glove",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009935-Venta-GTX-Glove-Black-Front.jpg?v=1767988743",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009935-Venta-GTX-Glove-Black-Front.jpg?v=1767988743",
     "variants": {
       "52747007689067": {
         "id": 52747007689067,
@@ -7344,7 +7344,7 @@
         "sku": "X000009935019",
         "price": 150.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52747007721835": {
         "id": 52747007721835,
@@ -7355,7 +7355,7 @@
         "sku": "X000009935020",
         "price": 150.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -7781,7 +7781,7 @@
     "title": "Arc'teryx Macai Shell Jacket Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-macai-shell-jacket-mens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009889-Macai-Shell-Jacket-Black.jpg?v=1761299559",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009889-Macai-Shell-Jacket-Black.jpg?v=1761299559",
     "variants": {
       "52496675471723": {
         "id": 52496675471723,
@@ -7792,7 +7792,7 @@
         "sku": "X000009889004",
         "price": 750.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52496675504491": {
         "id": 52496675504491,
@@ -7803,7 +7803,7 @@
         "sku": "X000009889005",
         "price": 750.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52622665449835": {
         "id": 52622665449835,
@@ -7814,7 +7814,7 @@
         "sku": "X000009889006",
         "price": 750.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -8363,7 +8363,7 @@
     "title": "Arc'teryx Incendia Jacket Women's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-incendia-jacket-womens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/unnamed_7.png?v=1762275102",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/unnamed_7.png?v=1762275102",
     "variants": {
       "52441146458475": {
         "id": 52441146458475,
@@ -8374,7 +8374,7 @@
         "sku": "X000009862010",
         "price": 900.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "52441146491243": {
         "id": 52441146491243,
@@ -8385,7 +8385,7 @@
         "sku": "X000009862011",
         "price": 900.0,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       },
       "52441146524011": {
         "id": 52441146524011,
@@ -8396,7 +8396,7 @@
         "sku": "X000009862012",
         "price": 900.0,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       },
       "52441146556779": {
         "id": 52441146556779,
@@ -8407,7 +8407,7 @@
         "sku": "X000009862013",
         "price": 900.0,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       },
       "52519586365803": {
         "id": 52519586365803,
@@ -8418,7 +8418,7 @@
         "sku": "X000009862025",
         "price": 900.0,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       },
       "52519586398571": {
         "id": 52519586398571,
@@ -8429,7 +8429,7 @@
         "sku": "X000009862027",
         "price": 900.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -11018,7 +11018,7 @@
         "sku": "X000009905009",
         "price": 300.0,
         "available": true,
-        "inventory_quantity": 1
+        "inventory_quantity": 2
       },
       "52196669325675": {
         "id": 52196669325675,
