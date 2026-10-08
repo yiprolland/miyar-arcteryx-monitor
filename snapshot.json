@@ -1003,7 +1003,7 @@
     "title": "Arc'teryx Sylan 2 Shoe Women's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-sylan-2-shoe-womens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S26-X000010153-Sylan-2-Shoe-Black-Black-Women-s-Profile.jpg?v=1786625594",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S26-X000010153-Sylan-2-Shoe-Black-Black-Women-s-Profile.jpg?v=1786625594",
     "variants": {
       "53615932637547": {
         "id": 53615932637547,
@@ -1014,7 +1014,7 @@
         "sku": "X000010153079",
         "price": 220.0,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       },
       "53615932670315": {
         "id": 53615932670315,
@@ -1025,7 +1025,7 @@
         "sku": "X000010153080",
         "price": 220.0,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 2
       },
       "53632962527595": {
         "id": 53632962527595,
@@ -1036,7 +1036,7 @@
         "sku": "X000010153081",
         "price": 220.0,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 2
       },
       "53718367142251": {
         "id": 53718367142251,
@@ -1047,7 +1047,7 @@
         "sku": "X000010153082",
         "price": 220.0,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       },
       "53718367175019": {
         "id": 53718367175019,
@@ -1058,7 +1058,7 @@
         "sku": "X000010153083",
         "price": 220.0,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       }
     }
   },
@@ -4557,8 +4557,8 @@
         "option3": null,
         "sku": "X000010386007",
         "price": 160.0,
-        "available": false,
-        "inventory_quantity": 0
+        "available": true,
+        "inventory_quantity": 1
       },
       "52941143310699": {
         "id": 52941143310699,
@@ -7100,8 +7100,8 @@
         "option3": null,
         "sku": "X000009157005",
         "price": 650.0,
-        "available": true,
-        "inventory_quantity": 1
+        "available": false,
+        "inventory_quantity": 0
       },
       "52752651387243": {
         "id": 52752651387243,
@@ -17272,8 +17272,8 @@
         "option3": null,
         "sku": "X000009556228",
         "price": 299.99,
-        "available": false,
-        "inventory_quantity": 0
+        "available": true,
+        "inventory_quantity": 1
       },
       "53899411980651": {
         "id": 53899411980651,
@@ -17283,8 +17283,8 @@
         "option3": null,
         "sku": "X000009556229",
         "price": 299.99,
-        "available": false,
-        "inventory_quantity": 0
+        "available": true,
+        "inventory_quantity": 1
       },
       "53899412013419": {
         "id": 53899412013419,
@@ -17294,8 +17294,8 @@
         "option3": null,
         "sku": "X000009556242",
         "price": 299.99,
-        "available": false,
-        "inventory_quantity": 0
+        "available": true,
+        "inventory_quantity": 1
       },
       "53899412046187": {
         "id": 53899412046187,
@@ -17305,8 +17305,8 @@
         "option3": null,
         "sku": "X000009556243",
         "price": 299.99,
-        "available": false,
-        "inventory_quantity": 0
+        "available": true,
+        "inventory_quantity": 1
       },
       "53899412078955": {
         "id": 53899412078955,
