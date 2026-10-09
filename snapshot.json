@@ -2453,7 +2453,7 @@
         "sku": "X000010727003",
         "price": 180.0,
         "available": true,
-        "inventory_quantity": 4
+        "inventory_quantity": 2
       },
       "53564323365227": {
         "id": 53564323365227,
@@ -2464,7 +2464,7 @@
         "sku": "X000010727004",
         "price": 180.0,
         "available": true,
-        "inventory_quantity": 12
+        "inventory_quantity": 7
       },
       "53564323397995": {
         "id": 53564323397995,
@@ -2475,7 +2475,7 @@
         "sku": "X000010727005",
         "price": 180.0,
         "available": true,
-        "inventory_quantity": 9
+        "inventory_quantity": 4
       },
       "53564323430763": {
         "id": 53564323430763,
@@ -2486,7 +2486,7 @@
         "sku": "X000010727006",
         "price": 180.0,
         "available": true,
-        "inventory_quantity": 3
+        "inventory_quantity": 1
       },
       "53564323463531": {
         "id": 53564323463531,
@@ -3043,8 +3043,8 @@
         "option3": null,
         "sku": "X000010606033",
         "price": 260.0,
-        "available": true,
-        "inventory_quantity": 4
+        "available": false,
+        "inventory_quantity": 0
       },
       "53019479245163": {
         "id": 53019479245163,
@@ -3054,8 +3054,8 @@
         "option3": null,
         "sku": "X000010606034",
         "price": 260.0,
-        "available": true,
-        "inventory_quantity": 4
+        "available": false,
+        "inventory_quantity": 0
       },
       "53019479277931": {
         "id": 53019479277931,
@@ -3142,8 +3142,8 @@
         "option3": null,
         "sku": "X000010606032",
         "price": 260.0,
-        "available": true,
-        "inventory_quantity": 2
+        "available": false,
+        "inventory_quantity": 0
       },
       "53967365472619": {
         "id": 53967365472619,
@@ -3153,8 +3153,8 @@
         "option3": null,
         "sku": "X000010606035",
         "price": 260.0,
-        "available": true,
-        "inventory_quantity": 2
+        "available": false,
+        "inventory_quantity": 0
       }
     }
   },
