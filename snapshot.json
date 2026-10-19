@@ -1067,7 +1067,7 @@
     "title": "Arc'teryx Kopec 2 Mid GTX Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-kopec-2-mid-gtx-mens",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F26-X000010832-Kopec-2-Mid-GTX-Boot-Black-Black-Pair.jpg?v=1790666713",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F26-X000010832-Kopec-2-Mid-GTX-Boot-Black-Black-Pair.jpg?v=1792408543",
     "variants": {
       "53615932146027": {
         "id": 53615932146027,
@@ -1142,6 +1142,61 @@
         "option2": "12.5",
         "option3": "US",
         "sku": "X000010832012",
+        "price": 200.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "54130474320235": {
+        "id": 54130474320235,
+        "title": "Dk Mongoose/Dk Mongoose / 9.5 / US",
+        "option1": "Dk Mongoose/Dk Mongoose",
+        "option2": "9.5",
+        "option3": "US",
+        "sku": "X000010832062",
+        "price": 200.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "54130474353003": {
+        "id": 54130474353003,
+        "title": "Dk Mongoose/Dk Mongoose / 10 / US",
+        "option1": "Dk Mongoose/Dk Mongoose",
+        "option2": "10",
+        "option3": "US",
+        "sku": "X000010832063",
+        "price": 200.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "54130474385771": {
+        "id": 54130474385771,
+        "title": "Dk Mongoose/Dk Mongoose / 10.5 / US",
+        "option1": "Dk Mongoose/Dk Mongoose",
+        "option2": "10.5",
+        "option3": "US",
+        "sku": "X000010832064",
+        "price": 200.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "54130474418539": {
+        "id": 54130474418539,
+        "title": "Dk Mongoose/Dk Mongoose / 11 / US",
+        "option1": "Dk Mongoose/Dk Mongoose",
+        "option2": "11",
+        "option3": "US",
+        "sku": "X000010832065",
+        "price": 200.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "54130474451307": {
+        "id": 54130474451307,
+        "title": "Dk Mongoose/Dk Mongoose / 11.5 / US",
+        "option1": "Dk Mongoose/Dk Mongoose",
+        "option2": "11.5",
+        "option3": "US",
+        "sku": "X000010832066",
         "price": 200.0,
         "available": false,
         "inventory_quantity": 0
@@ -6336,7 +6391,7 @@
     "title": "Arc'teryx Men's Norvan LD 4 GTX Shoe",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-mens-norvan-ld-4-gtx-shoe",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000010397-Norvan-LD-4-GTX-Shoe-Black-Black-Profile.jpg?v=1770291030",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000010397-Norvan-LD-4-GTX-Shoe-Black-Black-Profile_f58f8d02-a405-48aa-8cbf-1f3f812cc7c4.jpg?v=1792410539",
     "variants": {
       "52884897366379": {
         "id": 52884897366379,
@@ -6477,6 +6532,61 @@
         "option2": "13",
         "option3": "US",
         "sku": "X000010397049",
+        "price": 200.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "54130805375339": {
+        "id": 54130805375339,
+        "title": "Dk Mongoose/Dk Mongoose / 10 / US",
+        "option1": "Dk Mongoose/Dk Mongoose",
+        "option2": "10",
+        "option3": "US",
+        "sku": "X000010397114",
+        "price": 200.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "54130805408107": {
+        "id": 54130805408107,
+        "title": "Dk Mongoose/Dk Mongoose / 10.5 / US",
+        "option1": "Dk Mongoose/Dk Mongoose",
+        "option2": "10.5",
+        "option3": "US",
+        "sku": "X000010397115",
+        "price": 200.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "54130805440875": {
+        "id": 54130805440875,
+        "title": "Dk Mongoose/Dk Mongoose / 11 / US",
+        "option1": "Dk Mongoose/Dk Mongoose",
+        "option2": "11",
+        "option3": "US",
+        "sku": "X000010397116",
+        "price": 200.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "54130805473643": {
+        "id": 54130805473643,
+        "title": "Dk Mongoose/Dk Mongoose / 11.5 / US",
+        "option1": "Dk Mongoose/Dk Mongoose",
+        "option2": "11.5",
+        "option3": "US",
+        "sku": "X000010397117",
+        "price": 200.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "54130805506411": {
+        "id": 54130805506411,
+        "title": "Dk Mongoose/Dk Mongoose / 12.5 / US",
+        "option1": "Dk Mongoose/Dk Mongoose",
+        "option2": "12.5",
+        "option3": "US",
+        "sku": "X000010397119",
         "price": 200.0,
         "available": false,
         "inventory_quantity": 0
@@ -9413,8 +9523,8 @@
         "option3": null,
         "sku": "X000009468014",
         "price": 300.0,
-        "available": true,
-        "inventory_quantity": 1
+        "available": false,
+        "inventory_quantity": 0
       },
       "52395051450731": {
         "id": 52395051450731,
