@@ -1,4 +1,35 @@
 {
+  "arcteryx-sidewinder-jacket-mens": {
+    "handle": "arcteryx-sidewinder-jacket-mens",
+    "title": "Arc'teryx Sidewinder Jacket Men's",
+    "vendor": "Arc'teryx",
+    "url": "https://store.miyaradventures.com/products/arcteryx-sidewinder-jacket-mens",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F26-X000010804-Sidewinder-Jacket-Black-Aquaculture-AC-Front-View.jpg?v=1793090308",
+    "variants": {
+      "54255801729387": {
+        "id": 54255801729387,
+        "title": "Black / Aquaculture AC / M",
+        "option1": "Black / Aquaculture AC",
+        "option2": "M",
+        "option3": null,
+        "sku": "X000010804028",
+        "price": 850.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "54255801762155": {
+        "id": 54255801762155,
+        "title": "Black / Aquaculture AC / L",
+        "option1": "Black / Aquaculture AC",
+        "option2": "L",
+        "option3": null,
+        "sku": "X000010804029",
+        "price": 850.0,
+        "available": false,
+        "inventory_quantity": 0
+      }
+    }
+  },
   "arcteryx-rho-zip-neck-womens": {
     "handle": "arcteryx-rho-zip-neck-womens",
     "title": "Arc'teryx Rho Zip Neck Women's",
@@ -773,7 +804,7 @@
     "title": "Arc'teryx Thorium Jacket Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-thorium-jacket-mens",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/03-11-2023-JC_X000007250-002291_7_1.webp?v=1787587954",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/03-11-2023-JC_X000007250-002291_7_1.webp?v=1793103806",
     "variants": {
       "53761347256683": {
         "id": 53761347256683,
@@ -793,6 +824,17 @@
         "option2": "L",
         "option3": null,
         "sku": "X000010695005",
+        "price": 450.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "54259597574507": {
+        "id": 54259597574507,
+        "title": "Black / S",
+        "option1": "Black",
+        "option2": "S",
+        "option3": null,
+        "sku": "X000010695003",
         "price": 450.0,
         "available": false,
         "inventory_quantity": 0
@@ -954,7 +996,7 @@
     "title": "Arc'teryx Thorium Jacket Women's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-thorium-jacket-womens",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F26-X000010546-Thorium-Jacket-Sea-Salt-Women-s-Front-View.jpg?v=1790172863",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F26-X000010546-Thorium-Jacket-Sea-Salt-Women-s-Front-View.jpg?v=1793090170",
     "variants": {
       "53734135923051": {
         "id": 53734135923051,
@@ -999,6 +1041,28 @@
         "price": 450.0,
         "available": true,
         "inventory_quantity": 1
+      },
+      "54255788196203": {
+        "id": 54255788196203,
+        "title": "Sea Salt / M",
+        "option1": "Sea Salt",
+        "option2": "M",
+        "option3": null,
+        "sku": "X000010546054",
+        "price": 450.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "54255788228971": {
+        "id": 54255788228971,
+        "title": "Black II / S",
+        "option1": "Black II",
+        "option2": "S",
+        "option3": null,
+        "sku": "X000010546010",
+        "price": 450.0,
+        "available": false,
+        "inventory_quantity": 0
       }
     }
   },
@@ -8902,7 +8966,7 @@
     "title": "Arc'teryx Atom SV Hoody Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-atom-sv-hoody-mens",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/61-hAm5eTlL._AC_SY550.jpg?v=1790172850",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/61-hAm5eTlL._AC_SY550.jpg?v=1793102026",
     "variants": {
       "52395051647339": {
         "id": 52395051647339,
@@ -9054,6 +9118,17 @@
         "option2": "L",
         "option3": null,
         "sku": "X000009902047",
+        "price": 350.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "54259460145515": {
+        "id": 54259460145515,
+        "title": "Cloud / S",
+        "option1": "Cloud",
+        "option2": "S",
+        "option3": null,
+        "sku": "X000009902045",
         "price": 350.0,
         "available": false,
         "inventory_quantity": 0
@@ -9464,7 +9539,7 @@
     "title": "Arc'teryx Women's Covert Cardigan",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-womens-covert-cardigan",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000010559-Covert-Cardigan-Atmos-Heather-Women-s-Front-View_490ad0f5-58e9-46ad-aefc-ccb490d68dbf.jpg?v=1790760489",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000010559-Covert-Cardigan-Atmos-Heather-Women-s-Front-View.jpg?v=1793102844",
     "variants": {
       "52441145606507": {
         "id": 52441145606507,
@@ -9693,6 +9768,17 @@
         "option2": "S",
         "option3": null,
         "sku": "X000010559080",
+        "price": 180.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "54259533250923": {
+        "id": 54259533250923,
+        "title": "Arc Silk Heather / Salt / L",
+        "option1": "Arc Silk Heather / Salt",
+        "option2": "L",
+        "option3": null,
+        "sku": "X000010735013",
         "price": 180.0,
         "available": false,
         "inventory_quantity": 0
