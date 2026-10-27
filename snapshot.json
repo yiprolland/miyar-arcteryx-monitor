@@ -1885,7 +1885,7 @@
     "title": "Arc'teryx Konseal 15 Backpack",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-konseal-15-backpack",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F26-X000010718-Konseal-15-Backpack-Nucleus-Front.jpg?v=1790172859",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F26-X000010718-Konseal-15-Backpack-Nucleus-Front.jpg?v=1793085410",
     "variants": {
       "53899415093611": {
         "id": 53899415093611,
@@ -1894,6 +1894,17 @@
         "option2": null,
         "option3": null,
         "sku": "X000010718004",
+        "price": 100.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "54255367651691": {
+        "id": 54255367651691,
+        "title": "Ultima",
+        "option1": "Ultima",
+        "option2": null,
+        "option3": null,
+        "sku": "X000010718005",
         "price": 100.0,
         "available": false,
         "inventory_quantity": 0
@@ -13158,7 +13169,7 @@
     "title": "Arc'teryx Mantis 26 Backpack",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-mantis-26-backpack",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S26-X000010643-Mantis-26-Backpack-Mallow-Moondrop-Front-View.jpg?v=1790761337",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S26-X000010643-Mantis-26-Backpack-Mallow-Moondrop-Front-View.jpg?v=1793086005",
     "variants": {
       "52253081239915": {
         "id": 52253081239915,
@@ -13255,6 +13266,17 @@
         "option2": null,
         "option3": null,
         "sku": "X000010643008",
+        "price": 160.0,
+        "available": false,
+        "inventory_quantity": 0
+      },
+      "54255397437803": {
+        "id": 54255397437803,
+        "title": "Renegade",
+        "option1": "Renegade",
+        "option2": null,
+        "option3": null,
+        "sku": "X000010643013",
         "price": 160.0,
         "available": false,
         "inventory_quantity": 0
