@@ -3506,8 +3506,8 @@
         "option3": null,
         "sku": "X000010932002",
         "price": 700.0,
-        "available": true,
-        "inventory_quantity": 1
+        "available": false,
+        "inventory_quantity": 0
       },
       "53899417157995": {
         "id": 53899417157995,
@@ -3743,7 +3743,7 @@
     "title": "Arc'teryx Alpha FL 20 Backpack",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-alpha-fl-20-backpack",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/F26-X000010348-Alpha-FL-20-Backpack-Black-Front.jpg?v=1790172871",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F26-X000010348-Alpha-FL-20-Backpack-Black-Front.jpg?v=1790172871",
     "variants": {
       "53899416633707": {
         "id": 53899416633707,
@@ -3754,7 +3754,7 @@
         "sku": "X000010348001",
         "price": 250.0,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       }
     }
   },
@@ -3763,7 +3763,7 @@
     "title": "Arc'teryx Therme Down Jacket Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-therme-down-jacket-mens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009915-Therme-Down-Jacket-Black.jpg?v=1790172870",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009915-Therme-Down-Jacket-Black.jpg?v=1790172870",
     "variants": {
       "53899416502635": {
         "id": 53899416502635,
@@ -3774,7 +3774,7 @@
         "sku": "X000009915004",
         "price": 800.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53899416535403": {
         "id": 53899416535403,
@@ -3785,7 +3785,7 @@
         "sku": "X000009915005",
         "price": 800.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53899416568171": {
         "id": 53899416568171,
@@ -3796,7 +3796,7 @@
         "sku": "X000009915006",
         "price": 800.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -4007,8 +4007,8 @@
         "option3": null,
         "sku": "X000010695004",
         "price": 450.0,
-        "available": true,
-        "inventory_quantity": 1
+        "available": false,
+        "inventory_quantity": 0
       },
       "53761347289451": {
         "id": 53761347289451,
@@ -4018,8 +4018,8 @@
         "option3": null,
         "sku": "X000010695005",
         "price": 450.0,
-        "available": true,
-        "inventory_quantity": 1
+        "available": false,
+        "inventory_quantity": 0
       },
       "54259597574507": {
         "id": 54259597574507,
@@ -7516,8 +7516,8 @@
         "option3": null,
         "sku": "X000010386007",
         "price": 160.0,
-        "available": true,
-        "inventory_quantity": 1
+        "available": false,
+        "inventory_quantity": 0
       },
       "52941143310699": {
         "id": 52941143310699,
