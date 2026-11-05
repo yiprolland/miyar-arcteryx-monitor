@@ -3743,7 +3743,7 @@
     "title": "Arc'teryx Alpha FL 20 Backpack",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-alpha-fl-20-backpack",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F26-X000010348-Alpha-FL-20-Backpack-Black-Front.jpg?v=1790172871",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/F26-X000010348-Alpha-FL-20-Backpack-Black-Front.jpg?v=1790172871",
     "variants": {
       "53899416633707": {
         "id": 53899416633707,
@@ -3754,7 +3754,7 @@
         "sku": "X000010348001",
         "price": 250.0,
         "available": true,
-        "inventory_quantity": 1
+        "inventory_quantity": null
       }
     }
   },
@@ -3763,7 +3763,7 @@
     "title": "Arc'teryx Therme Down Jacket Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-therme-down-jacket-mens",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009915-Therme-Down-Jacket-Black.jpg?v=1790172870",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/F25-X000009915-Therme-Down-Jacket-Black.jpg?v=1790172870",
     "variants": {
       "53899416502635": {
         "id": 53899416502635,
@@ -3774,7 +3774,7 @@
         "sku": "X000009915004",
         "price": 800.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53899416535403": {
         "id": 53899416535403,
@@ -3785,7 +3785,7 @@
         "sku": "X000009915005",
         "price": 800.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53899416568171": {
         "id": 53899416568171,
@@ -3796,7 +3796,7 @@
         "sku": "X000009915006",
         "price": 800.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
@@ -4886,7 +4886,7 @@
     "title": "Arc'teryx Kragg SL Cotton Cacodaemon Shirt SS Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-kragg-sl-cotton-cacodaemon-shirt-ss-mens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S26-X000010296-Kragg-SL-Cotton-Cacodaemon-Shirt-SS-White-Light-Sea-Salt-Front-View.jpg?v=1784299239",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S26-X000010296-Kragg-SL-Cotton-Cacodaemon-Shirt-SS-White-Light-Sea-Salt-Front-View.jpg?v=1784299239",
     "variants": {
       "53564325822827": {
         "id": 53564325822827,
@@ -4897,7 +4897,7 @@
         "sku": "X000010296027",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53564325855595": {
         "id": 53564325855595,
@@ -4908,7 +4908,7 @@
         "sku": "X000010296028",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -4917,7 +4917,7 @@
     "title": "Acr'teryx Kragg SL Cotton Superbloom Crew Shirt SS Women's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/acrteryx-kragg-sl-cotton-superbloom-crew-shirt-ss-womens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S26-X000010226-Kragg-SL-Cotton-Superbloom-Crew-Shirt-SS-Black-Women-s-Front-View.jpg?v=1784299237",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S26-X000010226-Kragg-SL-Cotton-Superbloom-Crew-Shirt-SS-Black-Women-s-Front-View.jpg?v=1784299237",
     "variants": {
       "53564325495147": {
         "id": 53564325495147,
@@ -4928,7 +4928,7 @@
         "sku": "X000010226002",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53564325527915": {
         "id": 53564325527915,
@@ -4939,7 +4939,7 @@
         "sku": "X000010226003",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53564325560683": {
         "id": 53564325560683,
@@ -4950,7 +4950,7 @@
         "sku": "X000010226004",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53564325593451": {
         "id": 53564325593451,
@@ -4961,7 +4961,7 @@
         "sku": "X000010226005",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53564325626219": {
         "id": 53564325626219,
@@ -4972,7 +4972,7 @@
         "sku": "X000010226023",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53564325658987": {
         "id": 53564325658987,
@@ -4983,7 +4983,7 @@
         "sku": "X000010226024",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53564325691755": {
         "id": 53564325691755,
@@ -4994,7 +4994,7 @@
         "sku": "X000010226025",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53564325724523": {
         "id": 53564325724523,
@@ -5005,7 +5005,7 @@
         "sku": "X000010226016",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53564325757291": {
         "id": 53564325757291,
@@ -5016,7 +5016,7 @@
         "sku": "X000010226017",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53564325790059": {
         "id": 53564325790059,
@@ -5027,7 +5027,7 @@
         "sku": "X000010226018",
         "price": 70.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
