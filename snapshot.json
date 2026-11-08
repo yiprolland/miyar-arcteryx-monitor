@@ -3228,7 +3228,7 @@
     "title": "Arc'teryx Rho Zip Neck Women's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-rho-zip-neck-womens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/F26-X000010749-Rho-Zip-Neck-Black-Women-s.jpg?v=1790759810",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F26-X000010749-Rho-Zip-Neck-Black-Women-s.jpg?v=1790759810",
     "variants": {
       "53967317041515": {
         "id": 53967317041515,
@@ -3239,7 +3239,7 @@
         "sku": "X000010535019",
         "price": 120.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -3341,7 +3341,7 @@
     "title": "Arc'teryx Skaha Harness",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-skaha-harness",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/F26-X000009655-Skaha-Harness-Lampyre-Boxcar-Front.jpg?v=1790270780",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F26-X000009655-Skaha-Harness-Lampyre-Boxcar-Front.jpg?v=1790270780",
     "variants": {
       "53904598204779": {
         "id": 53904598204779,
@@ -3352,7 +3352,7 @@
         "sku": "X000009655004",
         "price": 180.0,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       }
     }
   },
@@ -3434,7 +3434,7 @@
     "title": "Arc'teryx Cronin Insulated Overshirt Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-cronin-insulated-overshirt-mens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/unnamed_52.png?v=1791354317",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/unnamed_52.png?v=1791354317",
     "variants": {
       "53899417420139": {
         "id": 53899417420139,
@@ -3445,7 +3445,7 @@
         "sku": "X000010971004",
         "price": 280.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -6007,7 +6007,7 @@
         "sku": "X000010707002",
         "price": 130.0,
         "available": true,
-        "inventory_quantity": 2
+        "inventory_quantity": 1
       },
       "53564323266923": {
         "id": 53564323266923,
@@ -10540,8 +10540,8 @@
         "option3": null,
         "sku": "X000009949005",
         "price": 800.0,
-        "available": true,
-        "inventory_quantity": 1
+        "available": false,
+        "inventory_quantity": 0
       }
     }
   },
