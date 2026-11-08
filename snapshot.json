@@ -3014,7 +3014,7 @@
     "title": "Arc'teryx AR-395a Men's Harness",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-ar-395a-mens-harness",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S26-X000010388-AR-395a-Harness-Forage-Mantis-Front.jpg?v=1772135969",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S26-X000010388-AR-395a-Harness-Forage-Mantis-Front.jpg?v=1772135969",
     "variants": {
       "52941143540075": {
         "id": 52941143540075,
@@ -3025,7 +3025,7 @@
         "sku": "X000010388012",
         "price": 160.0,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       },
       "52941143572843": {
         "id": 52941143572843,
@@ -3036,7 +3036,7 @@
         "sku": "X000010388013",
         "price": 160.0,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 2
       },
       "52941143605611": {
         "id": 52941143605611,
@@ -3047,7 +3047,7 @@
         "sku": "X000010388014",
         "price": 160.0,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 2
       },
       "52941143638379": {
         "id": 52941143638379,
@@ -3058,7 +3058,7 @@
         "sku": "X000010388015",
         "price": 160.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "54262120350059": {
         "id": 54262120350059,
@@ -3069,7 +3069,7 @@
         "sku": "X000004883026",
         "price": 160.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "54262120382827": {
         "id": 54262120382827,
@@ -3080,7 +3080,7 @@
         "sku": "X000004883027",
         "price": 160.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "54262120415595": {
         "id": 54262120415595,
@@ -3091,7 +3091,7 @@
         "sku": "X000004883028",
         "price": 160.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "54262120448363": {
         "id": 54262120448363,
@@ -3102,7 +3102,7 @@
         "sku": "X000004883029",
         "price": 160.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "54262120481131": {
         "id": 54262120481131,
@@ -3113,7 +3113,7 @@
         "sku": "X000004883030",
         "price": 160.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -3197,7 +3197,7 @@
     "title": "Arc'teryx Sidewinder Jacket Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-sidewinder-jacket-mens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/F26-X000010804-Sidewinder-Jacket-Black-Aquaculture-AC-Front-View.jpg?v=1793090308",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F26-X000010804-Sidewinder-Jacket-Black-Aquaculture-AC-Front-View.jpg?v=1793090308",
     "variants": {
       "54255801729387": {
         "id": 54255801729387,
@@ -3208,7 +3208,7 @@
         "sku": "X000010804028",
         "price": 850.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "54255801762155": {
         "id": 54255801762155,
@@ -3219,7 +3219,7 @@
         "sku": "X000010804029",
         "price": 850.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -3248,7 +3248,7 @@
     "title": "Arc'teryx Index 40 Bouldering Bag",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-index-40-bouldering-bag",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/unnamed_9_c2193684-f164-4317-9fdb-0b54e61be359.png?v=1790755911",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/unnamed_9_c2193684-f164-4317-9fdb-0b54e61be359.png?v=1790755911",
     "variants": {
       "53966819950955": {
         "id": 53966819950955,
@@ -3259,7 +3259,7 @@
         "sku": "X000010352002",
         "price": 130.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
