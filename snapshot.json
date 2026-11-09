@@ -3268,7 +3268,7 @@
     "title": "Arc'teryx Grotto Toque",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-grotto-toque",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S26-X000010067-Grotto-Toque-Alpine-Blue-Blk-Sapp-Front.jpg?v=1790753385",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S26-X000010067-Grotto-Toque-Alpine-Blue-Blk-Sapp-Front.jpg?v=1790753385",
     "variants": {
       "53966751727979": {
         "id": 53966751727979,
@@ -3279,7 +3279,7 @@
         "sku": "X000010067010",
         "price": 60.0,
         "available": true,
-        "inventory_quantity": 2
+        "inventory_quantity": null
       },
       "53966751760747": {
         "id": 53966751760747,
@@ -3290,7 +3290,7 @@
         "sku": "X000010067012",
         "price": 60.0,
         "available": true,
-        "inventory_quantity": 3
+        "inventory_quantity": null
       },
       "53966751793515": {
         "id": 53966751793515,
@@ -3301,7 +3301,7 @@
         "sku": "X000010067011",
         "price": 60.0,
         "available": true,
-        "inventory_quantity": 3
+        "inventory_quantity": null
       },
       "53966751826283": {
         "id": 53966751826283,
@@ -3312,7 +3312,7 @@
         "sku": "X000010067013",
         "price": 60.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
@@ -3414,7 +3414,7 @@
     "title": "Arc'teryx Quintic 28 Backpack",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-quintic-28-backpack",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/unnamed_54.png?v=1791355037",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/unnamed_54.png?v=1791355037",
     "variants": {
       "53899417649515": {
         "id": 53899417649515,
@@ -3425,7 +3425,7 @@
         "sku": "X000011434002",
         "price": 250.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
@@ -3454,7 +3454,7 @@
     "title": "Arc'teryx Rho SV Zip Neck Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-rho-sv-zip-neck-mens",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/unnamed_47.png?v=1791353339",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/unnamed_47.png?v=1791353339",
     "variants": {
       "53899417321835": {
         "id": 53899417321835,
@@ -3465,7 +3465,7 @@
         "sku": "X000010936003",
         "price": 140.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53899417354603": {
         "id": 53899417354603,
@@ -3476,7 +3476,7 @@
         "sku": "X000010936004",
         "price": 140.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53899417387371": {
         "id": 53899417387371,
@@ -3487,7 +3487,7 @@
         "sku": "X000010936005",
         "price": 140.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
@@ -6081,8 +6081,8 @@
         "option3": null,
         "sku": "X000009934020",
         "price": 80.0,
-        "available": true,
-        "inventory_quantity": 1
+        "available": false,
+        "inventory_quantity": 0
       },
       "53528962564459": {
         "id": 53528962564459,
