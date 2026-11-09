@@ -3197,7 +3197,7 @@
     "title": "Arc'teryx Sidewinder Jacket Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-sidewinder-jacket-mens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/F26-X000010804-Sidewinder-Jacket-Black-Aquaculture-AC-Front-View.jpg?v=1793090308",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F26-X000010804-Sidewinder-Jacket-Black-Aquaculture-AC-Front-View.jpg?v=1793090308",
     "variants": {
       "54255801729387": {
         "id": 54255801729387,
@@ -3208,7 +3208,7 @@
         "sku": "X000010804028",
         "price": 850.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "54255801762155": {
         "id": 54255801762155,
@@ -3219,7 +3219,7 @@
         "sku": "X000010804029",
         "price": 850.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -3321,7 +3321,7 @@
     "title": "Arc'teryx Quintic 16 Backpack",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-quintic-16-backpack",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/unnamed_57.png?v=1791355327",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/unnamed_57.png?v=1791355327",
     "variants": {
       "53904603414891": {
         "id": 53904603414891,
@@ -3332,7 +3332,7 @@
         "sku": "X000010720002",
         "price": 230.0,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       }
     }
   },
@@ -3361,7 +3361,7 @@
     "title": "Arc'teryx Macai Down Jacket Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-macai-down-jacket-mens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/unnamed_49.png?v=1791353773",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/unnamed_49.png?v=1791353773",
     "variants": {
       "53903681487211": {
         "id": 53903681487211,
@@ -3372,7 +3372,7 @@
         "sku": "X000010942002",
         "price": 1100.0,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 6
       },
       "53903681519979": {
         "id": 53903681519979,
@@ -3383,7 +3383,7 @@
         "sku": "X000010942003",
         "price": 1100.0,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 8
       },
       "53903681552747": {
         "id": 53903681552747,
@@ -3394,7 +3394,7 @@
         "sku": "X000010942004",
         "price": 1100.0,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 8
       },
       "53903681585515": {
         "id": 53903681585515,
@@ -3405,7 +3405,7 @@
         "sku": "X000010942005",
         "price": 1100.0,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 6
       }
     }
   },
@@ -3454,7 +3454,7 @@
     "title": "Arc'teryx Rho SV Zip Neck Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-rho-sv-zip-neck-mens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/unnamed_47.png?v=1791353339",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/unnamed_47.png?v=1791353339",
     "variants": {
       "53899417321835": {
         "id": 53899417321835,
@@ -3465,7 +3465,7 @@
         "sku": "X000010936003",
         "price": 140.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53899417354603": {
         "id": 53899417354603,
@@ -3476,7 +3476,7 @@
         "sku": "X000010936004",
         "price": 140.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53899417387371": {
         "id": 53899417387371,
@@ -3487,7 +3487,7 @@
         "sku": "X000010936005",
         "price": 140.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -4060,8 +4060,8 @@
         "option3": null,
         "sku": "X000010657004",
         "price": 500.0,
-        "available": true,
-        "inventory_quantity": 1
+        "available": false,
+        "inventory_quantity": 0
       },
       "53760631505259": {
         "id": 53760631505259,
@@ -4071,8 +4071,8 @@
         "option3": null,
         "sku": "X000010657005",
         "price": 500.0,
-        "available": true,
-        "inventory_quantity": 1
+        "available": false,
+        "inventory_quantity": 0
       },
       "53760631538027": {
         "id": 53760631538027,
