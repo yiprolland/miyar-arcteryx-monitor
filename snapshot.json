@@ -4092,7 +4092,7 @@
     "title": "Arc'teryx Beta SL Men's Jacket",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-beta-sl-mens-jacket",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F26-X000010854-Beta-SL-Jacket-Black-Front-View_6f0e43f9-3bea-4c3a-a740-5a8787d85424.jpg?v=1787565190",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/F26-X000010854-Beta-SL-Jacket-Black-Front-View_6f0e43f9-3bea-4c3a-a740-5a8787d85424.jpg?v=1787565190",
     "variants": {
       "53742516699499": {
         "id": 53742516699499,
@@ -4103,7 +4103,7 @@
         "sku": "X000010854002",
         "price": 500.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53742516732267": {
         "id": 53742516732267,
@@ -4114,7 +4114,7 @@
         "sku": "X000010854003",
         "price": 500.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53742516765035": {
         "id": 53742516765035,
@@ -4125,7 +4125,7 @@
         "sku": "X000010854004",
         "price": 500.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53742516797803": {
         "id": 53742516797803,
@@ -4136,7 +4136,7 @@
         "sku": "X000010854005",
         "price": 500.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53742516830571": {
         "id": 53742516830571,
@@ -4147,7 +4147,7 @@
         "sku": "X000010854026",
         "price": 500.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53742516863339": {
         "id": 53742516863339,
@@ -4158,7 +4158,7 @@
         "sku": "X000010854027",
         "price": 500.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53760444203371": {
         "id": 53760444203371,
@@ -4169,7 +4169,7 @@
         "sku": "X000010854015",
         "price": 500.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53760444236139": {
         "id": 53760444236139,
@@ -4180,7 +4180,7 @@
         "sku": "X000010854016",
         "price": 500.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
@@ -19420,8 +19420,8 @@
         "option3": null,
         "sku": "X000009556200",
         "price": 299.99,
-        "available": true,
-        "inventory_quantity": 1
+        "available": false,
+        "inventory_quantity": 0
       },
       "53107711279467": {
         "id": 53107711279467,
