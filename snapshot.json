@@ -3195,7 +3195,7 @@
     "title": "Arc'teryx Gamma Men's Jacket",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-gamma-mens-jacket",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/F26-X000010940-Gamma-Jacket-Black.jpg?v=1793116760",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F26-X000010940-Gamma-Jacket-Black.jpg?v=1793116760",
     "variants": {
       "53564323955051": {
         "id": 53564323955051,
@@ -3206,7 +3206,7 @@
         "sku": "X000010940002",
         "price": 280.0,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 5
       },
       "53564323987819": {
         "id": 53564323987819,
@@ -3217,7 +3217,7 @@
         "sku": "X000010940003",
         "price": 280.0,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 3
       },
       "53564324020587": {
         "id": 53564324020587,
@@ -3228,7 +3228,7 @@
         "sku": "X000010940004",
         "price": 280.0,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 4
       },
       "53564324053355": {
         "id": 53564324053355,
@@ -3239,7 +3239,7 @@
         "sku": "X000010940005",
         "price": 280.0,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 6
       },
       "53760531005803": {
         "id": 53760531005803,
@@ -3250,7 +3250,7 @@
         "sku": "X000010940009",
         "price": 280.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53760531038571": {
         "id": 53760531038571,
@@ -3261,7 +3261,7 @@
         "sku": "X000010940010",
         "price": 280.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -3301,7 +3301,7 @@
     "title": "Arc'teryx Rho Zip Neck Women's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-rho-zip-neck-womens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/F26-X000010749-Rho-Zip-Neck-Black-Women-s.jpg?v=1790759810",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F26-X000010749-Rho-Zip-Neck-Black-Women-s.jpg?v=1790759810",
     "variants": {
       "53967317041515": {
         "id": 53967317041515,
@@ -3312,7 +3312,7 @@
         "sku": "X000010535019",
         "price": 120.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -3394,7 +3394,7 @@
     "title": "Arc'teryx Quintic 16 Backpack",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-quintic-16-backpack",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/unnamed_57.png?v=1791355327",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/unnamed_57.png?v=1791355327",
     "variants": {
       "53904603414891": {
         "id": 53904603414891,
@@ -3405,7 +3405,7 @@
         "sku": "X000010720002",
         "price": 230.0,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 1
       }
     }
   },
@@ -3434,7 +3434,7 @@
     "title": "Arc'teryx Macai Down Jacket Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-macai-down-jacket-mens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/unnamed_49.png?v=1791353773",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/unnamed_49.png?v=1791353773",
     "variants": {
       "53903681487211": {
         "id": 53903681487211,
@@ -3445,7 +3445,7 @@
         "sku": "X000010942002",
         "price": 1100.0,
         "available": true,
-        "inventory_quantity": null
+        "inventory_quantity": 6
       },
       "53903681519979": {
         "id": 53903681519979,
@@ -3456,7 +3456,7 @@
         "sku": "X000010942003",
         "price": 1100.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53903681552747": {
         "id": 53903681552747,
@@ -3467,7 +3467,7 @@
         "sku": "X000010942004",
         "price": 1100.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53903681585515": {
         "id": 53903681585515,
@@ -3478,7 +3478,7 @@
         "sku": "X000010942005",
         "price": 1100.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -3527,7 +3527,7 @@
     "title": "Arc'teryx Rho SV Zip Neck Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-rho-sv-zip-neck-mens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/unnamed_47.png?v=1791353339",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/unnamed_47.png?v=1791353339",
     "variants": {
       "53899417321835": {
         "id": 53899417321835,
@@ -3538,7 +3538,7 @@
         "sku": "X000010936003",
         "price": 140.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53899417354603": {
         "id": 53899417354603,
@@ -3549,7 +3549,7 @@
         "sku": "X000010936004",
         "price": 140.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "53899417387371": {
         "id": 53899417387371,
@@ -3560,7 +3560,7 @@
         "sku": "X000010936005",
         "price": 140.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
