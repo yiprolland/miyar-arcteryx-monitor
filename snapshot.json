@@ -3087,7 +3087,7 @@
     "title": "Arc'teryx AR-395a Men's Harness",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-ar-395a-mens-harness",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S26-X000010388-AR-395a-Harness-Forage-Mantis-Front.jpg?v=1772135969",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S26-X000010388-AR-395a-Harness-Forage-Mantis-Front.jpg?v=1772135969",
     "variants": {
       "52941143540075": {
         "id": 52941143540075,
@@ -3098,7 +3098,7 @@
         "sku": "X000010388012",
         "price": 160.0,
         "available": true,
-        "inventory_quantity": 1
+        "inventory_quantity": null
       },
       "52941143572843": {
         "id": 52941143572843,
@@ -3109,7 +3109,7 @@
         "sku": "X000010388013",
         "price": 160.0,
         "available": true,
-        "inventory_quantity": 3
+        "inventory_quantity": null
       },
       "52941143605611": {
         "id": 52941143605611,
@@ -3120,7 +3120,7 @@
         "sku": "X000010388014",
         "price": 160.0,
         "available": true,
-        "inventory_quantity": 2
+        "inventory_quantity": null
       },
       "52941143638379": {
         "id": 52941143638379,
@@ -3131,7 +3131,7 @@
         "sku": "X000010388015",
         "price": 160.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "54262120350059": {
         "id": 54262120350059,
@@ -3142,7 +3142,7 @@
         "sku": "X000004883026",
         "price": 160.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "54262120382827": {
         "id": 54262120382827,
@@ -3153,7 +3153,7 @@
         "sku": "X000004883027",
         "price": 160.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "54262120415595": {
         "id": 54262120415595,
@@ -3164,7 +3164,7 @@
         "sku": "X000004883028",
         "price": 160.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "54262120448363": {
         "id": 54262120448363,
@@ -3175,7 +3175,7 @@
         "sku": "X000004883029",
         "price": 160.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "54262120481131": {
         "id": 54262120481131,
@@ -3186,7 +3186,7 @@
         "sku": "X000004883030",
         "price": 160.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
@@ -3301,7 +3301,7 @@
     "title": "Arc'teryx Rho Zip Neck Women's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-rho-zip-neck-womens",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F26-X000010749-Rho-Zip-Neck-Black-Women-s.jpg?v=1790759810",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/F26-X000010749-Rho-Zip-Neck-Black-Women-s.jpg?v=1790759810",
     "variants": {
       "53967317041515": {
         "id": 53967317041515,
@@ -3312,7 +3312,7 @@
         "sku": "X000010535019",
         "price": 120.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
@@ -3394,7 +3394,7 @@
     "title": "Arc'teryx Quintic 16 Backpack",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-quintic-16-backpack",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/unnamed_57.png?v=1791355327",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/unnamed_57.png?v=1791355327",
     "variants": {
       "53904603414891": {
         "id": 53904603414891,
@@ -3405,7 +3405,7 @@
         "sku": "X000010720002",
         "price": 230.0,
         "available": true,
-        "inventory_quantity": 1
+        "inventory_quantity": null
       }
     }
   },
@@ -3487,7 +3487,7 @@
     "title": "Arc'teryx Quintic 28 Backpack",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-quintic-28-backpack",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/unnamed_54.png?v=1791355037",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/unnamed_54.png?v=1791355037",
     "variants": {
       "53899417649515": {
         "id": 53899417649515,
@@ -3498,7 +3498,7 @@
         "sku": "X000011434002",
         "price": 250.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
