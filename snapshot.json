@@ -1955,7 +1955,7 @@
     "title": "Arc'teryx Cerium Hoody Women's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-cerium-hoody-womens",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S24-X000009288-Cerium-Hoody-Amaranthus-Women-s-Front-View_998170c3-6c31-4d96-a429-7fe134c07a6b.jpg?v=1726779303",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S24-X000009288-Cerium-Hoody-Amaranthus-Women-s-Front-View_998170c3-6c31-4d96-a429-7fe134c07a6b.jpg?v=1726779303",
     "variants": {
       "44629151121569": {
         "id": 44629151121569,
@@ -1966,7 +1966,7 @@
         "sku": "X000009288051",
         "price": 400.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "43810924331169": {
         "id": 43810924331169,
@@ -1977,7 +1977,7 @@
         "sku": "X000009288009",
         "price": 400.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "44530369298593": {
         "id": 44530369298593,
@@ -1988,7 +1988,7 @@
         "sku": "X000009288017",
         "price": 400.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "44530369331361": {
         "id": 44530369331361,
@@ -1999,7 +1999,7 @@
         "sku": "X000009288018",
         "price": 400.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "44530369364129": {
         "id": 44530369364129,
@@ -2010,7 +2010,7 @@
         "sku": "X000009288019",
         "price": 400.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -2019,7 +2019,7 @@
     "title": "Arc'teryx Alpha SV Men's Jacket",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-alpha-sv-mens-jacket",
-    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/F23-X000007319-Alpha-SV-Jacket-Bordeaux-Front-View.jpg?v=1729014448",
+    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F23-X000007319-Alpha-SV-Jacket-Bordeaux-Front-View.jpg?v=1729014448",
     "variants": {
       "43238157123745": {
         "id": 43238157123745,
@@ -2030,7 +2030,7 @@
         "sku": "X000007319002",
         "price": 900.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "43238157222049": {
         "id": 43238157222049,
@@ -2041,7 +2041,7 @@
         "sku": "X000007319005",
         "price": 900.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51668066664811": {
         "id": 51668066664811,
@@ -2052,7 +2052,7 @@
         "sku": "X000007319003",
         "price": 900.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       },
       "51668066697579": {
         "id": 51668066697579,
@@ -2063,7 +2063,7 @@
         "sku": "X000007319004",
         "price": 900.0,
         "available": false,
-        "inventory_quantity": null
+        "inventory_quantity": 0
       }
     }
   },
@@ -3195,7 +3195,7 @@
     "title": "Arc'teryx Gamma Men's Jacket",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-gamma-mens-jacket",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F26-X000010940-Gamma-Jacket-Black.jpg?v=1793116760",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/F26-X000010940-Gamma-Jacket-Black.jpg?v=1793116760",
     "variants": {
       "53564323955051": {
         "id": 53564323955051,
@@ -3206,7 +3206,7 @@
         "sku": "X000010940002",
         "price": 280.0,
         "available": true,
-        "inventory_quantity": 6
+        "inventory_quantity": null
       },
       "53564323987819": {
         "id": 53564323987819,
@@ -3217,7 +3217,7 @@
         "sku": "X000010940003",
         "price": 280.0,
         "available": true,
-        "inventory_quantity": 4
+        "inventory_quantity": null
       },
       "53564324020587": {
         "id": 53564324020587,
@@ -3228,7 +3228,7 @@
         "sku": "X000010940004",
         "price": 280.0,
         "available": true,
-        "inventory_quantity": 5
+        "inventory_quantity": null
       },
       "53564324053355": {
         "id": 53564324053355,
@@ -3239,7 +3239,7 @@
         "sku": "X000010940005",
         "price": 280.0,
         "available": true,
-        "inventory_quantity": 6
+        "inventory_quantity": null
       },
       "53760531005803": {
         "id": 53760531005803,
@@ -3250,7 +3250,7 @@
         "sku": "X000010940009",
         "price": 280.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "53760531038571": {
         "id": 53760531038571,
@@ -3261,7 +3261,7 @@
         "sku": "X000010940010",
         "price": 280.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
@@ -3321,7 +3321,7 @@
     "title": "Arc'teryx Index 40 Bouldering Bag",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-index-40-bouldering-bag",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/unnamed_9_c2193684-f164-4317-9fdb-0b54e61be359.png?v=1790755911",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/unnamed_9_c2193684-f164-4317-9fdb-0b54e61be359.png?v=1790755911",
     "variants": {
       "53966819950955": {
         "id": 53966819950955,
@@ -3332,7 +3332,7 @@
         "sku": "X000010352002",
         "price": 130.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
@@ -3414,7 +3414,7 @@
     "title": "Arc'teryx Skaha Harness",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-skaha-harness",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/F26-X000009655-Skaha-Harness-Lampyre-Boxcar-Front.jpg?v=1790270780",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/F26-X000009655-Skaha-Harness-Lampyre-Boxcar-Front.jpg?v=1790270780",
     "variants": {
       "53904598204779": {
         "id": 53904598204779,
@@ -3425,7 +3425,7 @@
         "sku": "X000009655004",
         "price": 180.0,
         "available": true,
-        "inventory_quantity": 1
+        "inventory_quantity": null
       }
     }
   },
@@ -3507,7 +3507,7 @@
     "title": "Arc'teryx Cronin Insulated Overshirt Men's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-cronin-insulated-overshirt-mens",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/unnamed_52.png?v=1791354317",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/unnamed_52.png?v=1791354317",
     "variants": {
       "53899417420139": {
         "id": 53899417420139,
@@ -3518,7 +3518,7 @@
         "sku": "X000010971004",
         "price": 280.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
