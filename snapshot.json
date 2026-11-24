@@ -1955,7 +1955,7 @@
     "title": "Arc'teryx Cerium Hoody Women's",
     "vendor": "Arc'teryx",
     "url": "https://store.miyaradventures.com/products/arcteryx-cerium-hoody-womens",
-    "image": "//cdn.shopify.com/s/files/1/1531/7977/files/S24-X000009288-Cerium-Hoody-Amaranthus-Women-s-Front-View_998170c3-6c31-4d96-a429-7fe134c07a6b.jpg?v=1726779303",
+    "image": "https://cdn.shopify.com/s/files/1/1531/7977/files/S24-X000009288-Cerium-Hoody-Amaranthus-Women-s-Front-View_998170c3-6c31-4d96-a429-7fe134c07a6b.jpg?v=1726779303",
     "variants": {
       "44629151121569": {
         "id": 44629151121569,
@@ -1966,7 +1966,7 @@
         "sku": "X000009288051",
         "price": 400.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "43810924331169": {
         "id": 43810924331169,
@@ -1977,7 +1977,7 @@
         "sku": "X000009288009",
         "price": 400.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "44530369298593": {
         "id": 44530369298593,
@@ -1988,7 +1988,7 @@
         "sku": "X000009288017",
         "price": 400.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "44530369331361": {
         "id": 44530369331361,
@@ -1999,7 +1999,7 @@
         "sku": "X000009288018",
         "price": 400.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       },
       "44530369364129": {
         "id": 44530369364129,
@@ -2010,7 +2010,7 @@
         "sku": "X000009288019",
         "price": 400.0,
         "available": false,
-        "inventory_quantity": 0
+        "inventory_quantity": null
       }
     }
   },
@@ -5855,7 +5855,7 @@
         "sku": "X000010867018",
         "price": 400.0,
         "available": true,
-        "inventory_quantity": 2
+        "inventory_quantity": 1
       },
       "53564323791211": {
         "id": 53564323791211,
@@ -12375,7 +12375,7 @@
         "sku": "X000009902004",
         "price": 350.0,
         "available": true,
-        "inventory_quantity": 2
+        "inventory_quantity": 1
       },
       "52395051712875": {
         "id": 52395051712875,
@@ -13286,8 +13286,8 @@
         "option3": null,
         "sku": "X000010553052",
         "price": 500.0,
-        "available": true,
-        "inventory_quantity": 1
+        "available": false,
+        "inventory_quantity": 0
       },
       "53107711836523": {
         "id": 53107711836523,
@@ -18436,8 +18436,8 @@
         "option3": null,
         "sku": "X000009601012",
         "price": 229.99,
-        "available": true,
-        "inventory_quantity": 1
+        "available": false,
+        "inventory_quantity": 0
       },
       "52896844120427": {
         "id": 52896844120427,
@@ -19197,7 +19197,7 @@
         "sku": "X000009556005",
         "price": 299.99,
         "available": true,
-        "inventory_quantity": 3
+        "inventory_quantity": 2
       },
       "51802966458731": {
         "id": 51802966458731,
